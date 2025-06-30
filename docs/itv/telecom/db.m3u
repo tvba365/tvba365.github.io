@@ -102,8 +102,18 @@ http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tvba365.github.io/itv/2/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视.png" group-title="卫视频道",凤凰卫视
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视.png" group-title="卫视频道",凤凰卫视中文台
 http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://150.138.9.170:80/PLTV/88888888/224/3221227409/497429879.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视资讯台
+http://150.138.9.170:80/PLTV/88888888/224/3221227409/497429879.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://150.138.9.170:80/PLTV/88888888/224/3221227280/516918666.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
+http://150.138.9.170:80/PLTV/88888888/224/3221227291/516918680.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://tvba365.github.io/itv/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
+http://150.138.9.170:80/PLTV/88888888/224/3221227295/517077830.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
 http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tvba365.github.io/itv/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
@@ -465,6 +475,13 @@ http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://tvba365.github.io/itv/4/游戏风云.png" group-title="数字频道",游戏风云
 http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
+
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://tvba365.github.io/itv/2/北京卫视4K.png" group-title="4K频道",北京卫视4K超高清
+http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://tvba365.github.io/itv/2/广东卫视4K.png" group-title="4K频道",广东卫视4K超高清
+http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tvba365.github.io/itv/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
+http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://tvba365.github.io/itv/3/山东教育.png" group-title="教育频道",山东教育
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
