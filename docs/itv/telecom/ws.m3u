@@ -318,9 +318,9 @@ http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
 #EXTINF:-1 tvg-id="莒南综合" tvg-name="莒南综合" tvg-logo="https://tvba365.github.io/itv/3/莒南综合.png" group-title="省内频道",莒南综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
 #EXTINF:-1 tvg-id="德州新闻" tvg-name="德州新闻" tvg-logo="https://tvba365.github.io/itv/3/德州新闻.png" group-title="省内频道",德州新闻
-http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
+rtsp://150.138.8.132/PLTV/88888888/224/3221226084/10000100000000060000000002709044_0.smil
 #EXTINF:-1 tvg-id="德州经济生活" tvg-name="德州经济生活" tvg-logo="https://tvba365.github.io/itv/3/德州经济生活.png" group-title="省内频道",德州经济生活
-http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+rtsp://150.138.8.132/PLTV/88888888/224/3221226082/10000100000000060000000002709045_0.smil
 #EXTINF:-1 tvg-id="宁津综合" tvg-name="宁津综合" tvg-logo="https://tvba365.github.io/itv/3/宁津综合.png" group-title="省内频道",宁津综合
 http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
 #EXTINF:-1 tvg-id="齐河综合" tvg-name="齐河综合" tvg-logo="https://tvba365.github.io/itv/3/齐河综合.png" group-title="省内频道",齐河综合

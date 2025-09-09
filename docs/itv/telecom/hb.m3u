@@ -108,7 +108,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227409/497429879.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227280/516918666.smil
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 rtsp://150.138.8.132/PLTV/88888888/224/3221227291/516918680.smil
-#EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://tvba365.github.io/itv/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
+#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://tvba365.github.io/itv/2/亚洲新闻.png" group-title="卫视频道",亚洲新闻台
 rtsp://150.138.8.132/PLTV/88888888/224/3221227422/517070372.smil
 #EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://tvba365.github.io/itv/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
@@ -116,8 +116,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://tvba365.github.io/itv/4/NHKWorld.png" group-title="卫视频道",NHK World
 rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
-#EXTINF:-1 tvg-id="阿里郎电视" tvg-name="阿里郎电视" tvg-logo="https://tvba365.github.io/itv/2/阿里郎电视.png" group-title="卫视频道",阿里郎电视
-rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 #EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://tvba365.github.io/itv/2/euronews.png" group-title="卫视频道",欧洲新闻亚洲-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
@@ -355,6 +353,8 @@ http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
 #EXTINF:-1 tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="https://tvba365.github.io/itv/3/兖州新闻.png" group-title="省内频道",兖州新闻
 http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-id="汶上综合" tvg-name="汶上综合" tvg-logo="https://tvba365.github.io/itv/3/汶上综合.png" group-title="省内频道",汶上综合
+http://150.138.8.143/00/SNM/CHANNEL00001116/index.m3u8
 #EXTINF:-1 tvg-id="曲阜新闻综合" tvg-name="曲阜新闻综合" tvg-logo="https://tvba365.github.io/itv/3/曲阜新闻.png" group-title="省内频道",曲阜新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
 #EXTINF:-1 tvg-id="邹城综合" tvg-name="邹城综合" tvg-logo="https://tvba365.github.io/itv/3/邹城综合.png" group-title="省内频道",邹城综合
@@ -520,32 +520,6 @@ http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 tvg-id="利州综合" tvg-name="利州综合" tvg-logo="https://tvba365.github.io/itv/5/利州综合.png" group-title="地方频道",利州综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://tvba365.github.io/itv/5/内蒙古新闻综合.png" group-title="地方频道",内蒙古新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://tvba365.github.io/itv/5/内蒙古经济生活.png" group-title="地方频道",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://tvba365.github.io/itv/5/内蒙古少儿频道.png" group-title="地方频道",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://tvba365.github.io/itv/5/内蒙古文体娱乐.png" group-title="地方频道",内蒙古文体娱乐
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://tvba365.github.io/itv/5/内蒙古农牧频道.png" group-title="地方频道",内蒙古农牧频道
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-#EXTINF:-1 tvg-id="蒙语卫视" tvg-name="蒙语卫视" tvg-logo="https://tvba365.github.io/itv/5/内蒙古蒙语卫视.png" group-title="地方频道",内蒙古蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://tvba365.github.io/itv/5/内蒙古蒙语文化.png" group-title="地方频道",内蒙古蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-#EXTINF:-1 tvg-id="呼市新闻综合" tvg-name="呼市新闻综合" tvg-logo="https://tvba365.github.io/itv/5/呼市新闻综合.png" group-title="地方频道",呼市新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-#EXTINF:-1 tvg-id="包头新闻综合" tvg-name="包头新闻综合" tvg-logo="https://tvba365.github.io/itv/5/包头新闻综合.png" group-title="地方频道",包头新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-#EXTINF:-1 tvg-id="鄂尔多斯新闻" tvg-name="鄂尔多斯新闻" tvg-logo="https://tvba365.github.io/itv/5/鄂尔多斯新闻.png" group-title="地方频道",鄂尔多斯新闻
-https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-#EXTINF:-1 tvg-id="巴彦淖尔新闻" tvg-name="巴彦淖尔新闻" tvg-logo="https://tvba365.github.io/itv/5/巴彦淖尔新闻.png" group-title="地方频道",巴彦淖尔新闻
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-#EXTINF:-1 tvg-id="赤峰新闻综合" tvg-name="赤峰新闻综合" tvg-logo="https://tvba365.github.io/itv/5/赤峰新闻综合.png" group-title="地方频道",赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 tvg-id="乌兰察布新闻" tvg-name="乌兰察布新闻" tvg-logo="https://tvba365.github.io/itv/5/乌兰察布新闻.png" group-title="地方频道",乌兰察布新闻
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
 #EXTINF:-1 tvg-id="拉萨藏语综合" tvg-name="拉萨藏语综合" tvg-logo="https://tvba365.github.io/itv/5/拉萨藏语综合.png" group-title="地方频道",拉萨藏语综合
 https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
@@ -629,8 +603,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226208/100001000000000600000000029364
 rtsp://150.138.8.132/PLTV/88888888/224/3221226212/10000100000000060000000002936468_0.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://tvba365.github.io/itv/4/生活时尚.png" group-title="数字频道",生活时尚
 rtsp://150.138.8.132/PLTV/88888888/224/3221227325/443310000.smil
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://tvba365.github.io/itv/4/魅力足球.png" group-title="数字频道",魅力足球
-rtsp://150.138.8.132/PLTV/88888888/224/3221227123/443309050.smil
 #EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://tvba365.github.io/itv/4/天下足球.png" group-title="数字频道",天下足球
 rtsp://150.138.8.132/PLTV/88888888/224/3221226193/10000100000000060000000003135758_0.smil
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://tvba365.github.io/itv/4/游戏风云.png" group-title="数字频道",游戏风云
@@ -646,8 +618,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tvba365.github.io/itv/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
-#EXTINF:-1 tvg-id="海看4K" tvg-name="海看4K" tvg-logo="https://tvba365.github.io/itv/4/海看4K.png" group-title="4K频道",海看4K
-rtsp://150.138.8.132/PLTV/88888888/224/3221226251/10000100000000060000000003524990_0.smil
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://tvba365.github.io/itv/3/山东教育.png" group-title="教育频道",山东教育
 rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
@@ -663,18 +633,15 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227152/443310024.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227262/443309935.smil
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tvba365.github.io/itv/4/快乐垂钓.png" group-title="教育频道",快乐垂钓
 rtsp://150.138.8.132/PLTV/88888888/224/3221227156/443330036.smil
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://tvba365.github.io/itv/4/四海钓鱼.png" group-title="教育频道",四海钓鱼-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227004/410462602.smil
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://tvba365.github.io/itv/4/四海钓鱼.png" group-title="教育频道",四海钓鱼
+rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://tvba365.github.io/itv/4/四海钓鱼.png" group-title="教育频道",四海钓鱼rtsp://150.138.8.132/PLTV/88888888/224/3221227004/410462602.smil
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://tvba365.github.io/itv/4/财富天下.png" group-title="教育频道",财富天下-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226206/10000100000000060000000002936465_0.smil
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tvba365.github.io/itv/4/家庭理财.png" group-title="教育频道",家庭理财-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227345/443330208.smil
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://tvba365.github.io/itv/4/中华特产.png" group-title="教育频道",中华特产-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227016/410462889.smil
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227149/410462831.smil
-#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://tvba365.github.io/itv/4/车迷频道.png" group-title="教育频道",车迷频道-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227012/410462805.smil
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://tvba365.github.io/itv/4/先锋乒羽.png" group-title="教育频道",先锋乒羽-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227286/443330141.smil
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://tvba365.github.io/itv/4/书画频道.png" group-title="教育频道",书画频道-SD
