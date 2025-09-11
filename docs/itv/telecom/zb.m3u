@@ -108,7 +108,7 @@ http://127.0.0.1:4022/udp/239.21.2.153:5002
 http://127.0.0.1:4022/udp/239.21.2.163:5002
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 http://127.0.0.1:4022/udp/239.21.2.164:5002
-#EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://tvba365.github.io/itv/2/亚洲新闻.png" group-title="卫视频道",新加坡新闻
+#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://tvba365.github.io/itv/2/亚洲新闻.png" group-title="卫视频道",亚洲新闻台
 http://127.0.0.1:4022/udp/239.21.2.165:5002
 #EXTINF:-1 tvg-id="澳门Macau卫视" tvg-name="澳门Macau卫视" tvg-logo="https://tvba365.github.io/itv/2/澳门Macau卫视.png" group-title="卫视频道",澳门Macau卫视
 http://127.0.0.1:4022/udp/239.21.2.167:5002

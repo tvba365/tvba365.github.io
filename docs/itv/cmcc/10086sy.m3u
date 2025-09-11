@@ -516,7 +516,7 @@ http://39.136.24.220:8089/PLTV/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 tvg-id="居家购物" tvg-name="居家购物" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/山东居家购物.png" group-title="购物频道",居家购物
 http://39.136.24.220:8089/PLTV/88888888/224/3221226051/index.m3u8
 
-#EXTINF:-1 tvg-id="山东广播电台综合广播" tvg-name="山东综合广播" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/山东综合广播.png" group-title="广播频道",山东广播电台综合广播
+#EXTINF:-1 tvg-id="山东广播电台综合广播" tvg-name="山东广播电台综合广播" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/山东综合广播.png" group-title="广播频道",山东广播电台综合广播
 http://39.136.24.220:8089/PLTV/88888888/224/3221226411/index.m3u8
 #EXTINF:-1 tvg-id="山东交通广播" tvg-name="山东交通广播" tvg-logo="https://tvlogo.hitv.dpdns.org/sz/山东交通广播.png" group-title="广播频道",山东交通广播
 http://39.136.24.220:8089/PLTV/88888888/224/3221226482/index.m3u8
