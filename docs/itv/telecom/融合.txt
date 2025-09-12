@@ -145,7 +145,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227334/469553263.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221226119/10000100000000060000000002952439_0.smil
 #EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://tvba365.github.io/itv/3/山东新闻.png" group-title="省内频道",山东新闻
 rtsp://150.138.8.132/PLTV/88888888/224/3221226137/10000100000000060000000003064294_0.smil
-#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://tvba365.github.io/itv/3/山东体育.png" group-title="省内频道",山东体育休闲
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://tvba365.github.io/itv/3/山东体育.png" group-title="省内频道",山东体育休闲
 rtsp://150.138.8.132/PLTV/88888888/224/3221226139/10000100000000060000000003064319_0.smil
 #EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://tvba365.github.io/itv/3/山东生活.png" group-title="省内频道",山东生活
 rtsp://150.138.8.132/PLTV/88888888/224/3221226276/10000100000000060000000003357334_0.smil
@@ -625,7 +625,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
 http://192.168.51.1:7088/udp/239.21.2.178:5002
 
 #EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/3/中央新影中学生.png" group-title="教育频道",中央新影 中学生
-http://192.168.51.1:7088/udp/239.21.2.176:5002
+rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://tvba365.github.io/itv/3/山东教育.png" group-title="教育频道",山东教育
 rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tvba365.github.io/itv/4/CETV1.png" group-title="教育频道",中国教育CETV1
