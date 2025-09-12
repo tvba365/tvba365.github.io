@@ -1,62 +1,59 @@
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV1.png" group-title="央视频道" resolution="1920x1080",CCTV-1 综合
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-2 财经" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV2.png" group-title="央视频道" resolution="1920x1080",CCTV-2 财经
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 综艺" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV3.png" group-title="央视频道" resolution="1920x1080",CCTV-3 综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 综艺" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV3.png" group-title="央视频道" resolution="1920x1080",CCTV-3 综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000371/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文国际" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV4.png" group-title="央视频道" resolution="1920x1080",CCTV-4 中文国际
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 体育" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV5.png" group-title="央视频道" resolution="1920x1080",CCTV-5 体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 体育" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV5.png" group-title="央视频道" resolution="1920x1080",CCTV-5 体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000372/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 电影" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV6.png" group-title="央视频道" resolution="1920x1080",CCTV-6 电影
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 电影" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV6.png" group-title="央视频道" resolution="1920x1080",CCTV-6 电影
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000374/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7 国防军事" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV7.png" group-title="央视频道" resolution="1920x1080",CCTV-7 国防军事
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV8.png" group-title="央视频道" resolution="1920x1080",CCTV-8 电视剧
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV8.png" group-title="央视频道" resolution="1920x1080",CCTV-8 电视剧
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000376/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-9 纪录" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV9.png" group-title="央视频道" resolution="1920x1080",CCTV-9 纪录
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-10 科教" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV10.png" group-title="央视频道" resolution="1920x1080",CCTV-10 科教
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-11 戏曲" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV11.png" group-title="央视频道" resolution="1920x1080",CCTV-11 戏曲
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-12 社会与法" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV12.png" group-title="央视频道" resolution="1920x1080",CCTV-12 社会与法
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-13 新闻" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV13.png" group-title="央视频道" resolution="1920x1080",CCTV-13 新闻
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14 少儿" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV14.png" group-title="央视频道" resolution="1920x1080",CCTV-14 少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-15 音乐" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV15.png" group-title="央视频道" resolution="1920x1080",CCTV-15 音乐
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV5+.png" group-title="央视频道" resolution="1920x1080",CCTV-5+ 体育赛事
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-17 农业农村" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV17.png" group-title="央视频道" resolution="1920x1080",CCTV-17 农业农村
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (欧洲)" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV4欧洲.png" group-title="央视频道" resolution="1920x1080",CCTV-4 欧洲
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (美洲)" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CCTV4美洲.png" group-title="央视频道" resolution="1920x1080",CCTV-4 美洲
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CGTN纪录.png" group-title="央视频道" resolution="1920x1080" ,CGTN纪录
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CGTN纪录.png" group-title="央视频道" resolution="1920x1080" ,CGTN纪录
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://tvlogo.hitv.dpdns.org/ys/CGTN西语.png" group-title="央视频道" resolution="1920x1080" ,CGTN西语
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN法语.png" group-title="央视频道" resolution="1920x1080" ,CGTN法语
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN阿语.png" group-title="央视频道" resolution="1920x1080" ,CGTN阿语
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN俄语.png" group-title="央视频道" resolution="1920x1080" ,CGTN俄语
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="央视频道" resolution="1920x1080" ,CCTV-1 综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="央视频道" resolution="1920x1080" ,CCTV-2 财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV3.png" group-title="央视频道" resolution="1920x1080" ,CCTV-3 综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 综艺" tvg-logo="" group-title="未分类" resolution="1920x1080" ,CCTV-3 综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000371/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4.png" group-title="央视频道" resolution="1920x1080" ,CCTV-4 中文国际
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5.png" group-title="央视频道" resolution="1920x1080" ,CCTV-5 体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 体育" tvg-logo="" group-title="未分类" resolution="1920x1080" ,CCTV-5 体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000372/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV6.png" group-title="央视频道" resolution="1920x1080" ,CCTV-6 电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 电影" tvg-logo="" group-title="未分类" resolution="1920x1080" ,CCTV-6 电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000374/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV7.png" group-title="央视频道" resolution="1920x1080" ,CCTV-7 国防军事
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV8.png" group-title="央视频道" resolution="1920x1080" ,CCTV-8 电视剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-logo="" group-title="未分类" resolution="1920x1080" ,CCTV-8 电视剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000376/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV9.png" group-title="央视频道" resolution="1920x1080" ,CCTV-9 纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV10.png" group-title="央视频道" resolution="1920x1080" ,CCTV-10 科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV11.png" group-title="央视频道" resolution="1920x1080" ,CCTV-11 戏曲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV12.png" group-title="央视频道" resolution="1920x1080" ,CCTV-12 社会与法
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV13.png" group-title="央视频道" resolution="1920x1080" ,CCTV-13 新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV14.png" group-title="央视频道" resolution="1920x1080" ,CCTV-14 少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV15.png" group-title="央视频道" resolution="1920x1080" ,CCTV-15 音乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="央视频道" resolution="1920x1080" ,CCTV-5+ 体育赛事
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV17.png" group-title="央视频道" resolution="1920x1080" ,CCTV-17 农业农村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (欧洲)" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4欧洲.png" group-title="央视频道" resolution="1920x1080" ,CCTV-4 (欧洲)
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (美洲)" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4美洲.png" group-title="央视频道" resolution="1920x1080" ,CCTV-4 (美洲)
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN纪录.png" group-title="CGTN" resolution="1920x1080" ,CGTN纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN.png" group-title="CGTN" resolution="1920x1080" ,CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN西语.png" group-title="CGTN" resolution="1920x1080" ,CGTN西语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
@@ -74,6 +71,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视2.png" group-title="卫视" resolution="1920x1080" ,深圳卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方卫视1.png" group-title="卫视" resolution="1920x1080" ,东方卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/东南卫视2.png" group-title="卫视" resolution="1920x1080" ,东南卫视
@@ -88,8 +86,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,河南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000369/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/河南卫视3.png" group-title="卫视" resolution="1920x1080" ,河南卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河北/河北卫视3.png" group-title="卫视" resolution="1920x1080" ,河北卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/天津/天津卫视3.png" group-title="卫视" resolution="1920x1080" ,天津卫视
@@ -100,89 +96,35 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/四川/四川卫视3.png" group-title="卫视" resolution="1920x1080" ,四川卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江西/江西卫视2.png" group-title="卫视" resolution="1920x1080" ,江西卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" resolution="1920x1080" ,广西卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/甘肃/甘肃卫视2.png" group-title="卫视" resolution="1920x1080" ,甘肃卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,甘肃卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/贵州/贵州卫视3.png" group-title="卫视" resolution="1920x1080" ,贵州卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" resolution="1920x1080" ,青海卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" resolution="720x576" ,青海卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/黑龙江/黑龙江卫视1.png" group-title="卫视" resolution="1920x1080" ,黑龙江卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" resolution="1920x1080" ,吉林卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/辽宁卫视2.png" group-title="卫视" resolution="1920x1080" ,辽宁卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山西/山西卫视3.png" group-title="卫视" resolution="720x576" ,山西卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/陕西卫视3.png" group-title="卫视" resolution="720x576" ,陕西卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山西/山西卫视3.png" group-title="卫视" resolution="720x576" ,山西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/内蒙古/内蒙古卫视2.png" group-title="卫视" resolution="720x576" ,内蒙古卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,宁夏卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" resolution="720x576" ,青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/宁夏/宁夏卫视2.png" group-title="卫视" resolution="720x576" ,宁夏卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,新疆卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/新疆卫视2.png" group-title="卫视" resolution="720x576" ,新疆卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,西藏卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/西藏/西藏卫视2.png" group-title="卫视" resolution="720x576" ,西藏卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,兵团卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/兵团卫视2.png" group-title="卫视" resolution="720x576" ,兵团卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/海南/三沙卫视3.png" group-title="卫视" resolution="720x576" ,三沙卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/农林卫视2.png" group-title="卫视" resolution="720x576" ,农林卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/厦门卫视3.png" group-title="卫视" resolution="720x576" ,厦门卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/延边卫视.png" group-title="卫视" resolution="720x576" ,延边卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东齐鲁
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东新闻
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东体育.png" group-title="山东频道" resolution="1920x1080" ,山东体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000373/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东生活.png" group-title="山东频道" resolution="1920x1080" ,山东生活
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东文旅.png" group-title="山东频道" resolution="1920x1080" ,山东文旅
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东文旅
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000377/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东综艺.png" group-title="山东频道" resolution="1920x1080" ,山东综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000378/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东农科.png" group-title="山东频道" resolution="1920x1080" ,山东农科
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东少儿.png" group-title="山东频道" resolution="1920x1080" ,山东少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000375/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/卡酷少儿.png" group-title="特色频道" resolution="720x576" ,卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰卡通.png" group-title="特色频道" resolution="720x576" ,金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/优漫卡通2.png" group-title="特色频道" resolution="720x576" ,优漫卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/哈哈炫动2.png" group-title="特色频道" resolution="720x576" ,哈哈炫动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="济南新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻.png" group-title="市级频道" resolution="720x576" ,济南新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000061/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南都市.png" group-title="市级频道" resolution="720x576" ,济南都市
@@ -201,12 +143,18 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV4.png" group-title="CETV" resolution="720x576" ,CETV-4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/兵团卫视2.png" group-title="卫视" resolution="720x576" ,兵团卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/农林卫视2.png" group-title="卫视" resolution="720x576" ,农林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV1.png" group-title="CETV" resolution="1920x1080" ,CETV-1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/嘉佳卡通.png" group-title="特色频道" resolution="720x576" ,嘉佳卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/厦门卫视3.png" group-title="卫视" resolution="720x576" ,厦门卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/海南/三沙卫视3.png" group-title="卫视" resolution="720x576" ,三沙卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-2" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV2.png" group-title="CETV" resolution="720x576" ,CETV-2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="临沂综合" tvg-logo="" group-title="未分类" resolution="1920x1080" ,临沂综合
@@ -257,18 +205,24 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/黑龙江/黑龙江卫视1.png" group-title="卫视" resolution="1920x1080" ,黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="济南新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻.png" group-title="市级频道" resolution="1920x1080" ,济南新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东体育.png" group-title="山东频道" resolution="1920x1080" ,山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/辽宁卫视2.png" group-title="卫视" resolution="1920x1080" ,辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/贵州/贵州卫视3.png" group-title="卫视" resolution="1920x1080" ,贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/纪实科教.png" group-title="特色频道" resolution="1920x1080" ,纪实科教
@@ -278,22 +232,58 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东教育.png" group-title="山东频道" resolution="1920x1080" ,山东教育卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东生活.png" group-title="山东频道" resolution="1920x1080" ,山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东文旅.png" group-title="山东频道" resolution="1920x1080" ,山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东农科.png" group-title="山东频道" resolution="1920x1080" ,山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东综艺.png" group-title="山东频道" resolution="1920x1080" ,山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东少儿.png" group-title="山东频道" resolution="1920x1080" ,山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/甘肃/甘肃卫视2.png" group-title="卫视" resolution="1920x1080" ,甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN法语.png" group-title="CGTN" resolution="1920x1080" ,CGTN法语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN阿语.png" group-title="CGTN" resolution="1920x1080" ,CGTN阿语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN俄语.png" group-title="CGTN" resolution="1920x1080" ,CGTN俄语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/河南卫视3.png" group-title="卫视" resolution="1920x1080" ,河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" resolution="1920x1080" ,广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" resolution="1920x1080" ,吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" resolution="1920x1080" ,青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000373/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000375/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000378/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTTV4K" tvg-logo="" group-title="未分类" resolution="3840x2160" ,CCTTV4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,西藏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,新疆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,兵团卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="未分类" resolution="1920x1080" ,宁夏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="未分类" resolution="1920x1080" ,山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/财富天下.png" group-title="特色频道" resolution="720x576" ,财富天下
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL00000630" tvg-logo="" group-title="未分类" resolution="720x576" ,CHANNEL00000630
@@ -337,7 +327,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000665/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/浙江/求索纪录.png" group-title="特色频道" resolution="1920x1080" ,求索纪录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/延边卫视.png" group-title="卫视" resolution="720x576" ,延边卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-logo="" group-title="未分类" resolution="1920x1080" ,中学生
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-生态环境" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/生态环境.png" group-title="CETV" resolution="1920x1080" ,CETV-生态环境
@@ -354,17 +345,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000710/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/重庆/汽摩.png" group-title="特色频道" resolution="1920x1080" ,汽摩
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/卡酷少儿.png" group-title="特色频道" resolution="720x576" ,卡酷少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰卡通.png" group-title="特色频道" resolution="720x576" ,金鹰卡通
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/优漫卡通2.png" group-title="特色频道" resolution="720x576" ,优漫卡通
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/哈哈炫动2.png" group-title="特色频道" resolution="720x576" ,哈哈炫动
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
-
-
 
 # Generated by IPTV Scanner Editor Pro
 # Saved at: 2025-08-01 16:42:08

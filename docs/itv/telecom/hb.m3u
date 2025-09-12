@@ -607,7 +607,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227325/443310000.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221226193/10000100000000060000000003135758_0.smil
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://tvba365.github.io/itv/4/游戏风云.png" group-title="数字频道",游戏风云
 rtsp://150.138.8.132/PLTV/88888888/224/3221227143/443310036.smil
-#EXTINF:-1 tvg-id="9屏同播" tvg-name="9屏同播" tvg-logo="https://tvba365.github.io/itv/4/9屏同播.png" group-title="数字频道",9屏同播
+#EXTINF:-1 tvg-id="综合测试" tvg-name="综合测试" tvg-logo="https://tvba365.github.io/itv/4/9屏同播.png" group-title="数字频道",综合测试
 rtsp://150.138.8.132/PLTV/88888888/224/3221226598/10000100000000060000000003878453_0.smil
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tvba365.github.io/itv/1/CCTV4K.png" group-title="4K频道",CCTV4K
@@ -619,6 +619,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tvba365.github.io/itv/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
 
+#EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/3/中央新影中学生.png" group-title="教育频道",中央新影 中学生
+rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://tvba365.github.io/itv/3/山东教育.png" group-title="教育频道",山东教育
 rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tvba365.github.io/itv/4/CETV1.png" group-title="教育频道",中国教育CETV1
