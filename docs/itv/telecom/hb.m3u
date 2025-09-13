@@ -448,13 +448,13 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://tvba365.github.io/itv/5/浙江教科影视.png" group-title="地方频道",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江纪录" tvg-name="浙江纪录" tvg-logo="https://tvba365.github.io/itv/5/浙江纪录.png" group-title="地方频道",浙江纪录
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://tvba365.github.io/itv/5/之江纪录.png" group-title="地方频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://tvba365.github.io/itv/5/浙江民生.png" group-title="地方频道",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://tvba365.github.io/itv/5/浙江经济生活.png" group-title="地方频道",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江" tvg-name="浙江钱江" tvg-logo="https://tvba365.github.io/itv/5/浙江钱江.png" group-title="地方频道",浙江钱江
+#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://tvba365.github.io/itv/5/钱江都市.png" group-title="地方频道",钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="好易购" tvg-name="好易购" tvg-logo="https://tvba365.github.io/itv/5/好易购.png" group-title="地方频道",好易购
 https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
@@ -504,19 +504,19 @@ https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 tvg-id="文成综合" tvg-name="文成综合" tvg-logo="https://tvba365.github.io/itv/5/文成综合.png" group-title="地方频道",文成综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 tvg-id="金湖新闻综合" tvg-name="金湖新闻综合" tvg-logo="https://tvba365.github.io/itv/5金湖新闻综合.png" group-title="地方频道",金湖新闻综合
+#EXTINF:-1 tvg-id="金湖新闻综合" tvg-name="金湖新闻综合" tvg-logo="https://tvba365.github.io/itv/5金湖新闻.png" group-title="地方频道",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="金坛新闻频道" tvg-name="金坛新闻频道" tvg-logo="https://tvba365.github.io/itv/5/金坛新闻频道.png" group-title="地方频道",金坛新闻频道
+#EXTINF:-1 tvg-id="金坛新闻频道" tvg-name="金坛新闻频道" tvg-logo="https://tvba365.github.io/itv/5/金坛新闻.png" group-title="地方频道",金坛新闻频道
 http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="沭阳综合频道" tvg-name="沭阳综合频道" tvg-logo="https://tvba365.github.io/itv/5/沭阳综合频道.png" group-title="地方频道",沭阳综合频道
+#EXTINF:-1 tvg-id="沭阳综合频道" tvg-name="沭阳综合频道" tvg-logo="https://tvba365.github.io/itv/5/沭阳综合.png" group-title="地方频道",沭阳综合频道
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="泗阳综合频道" tvg-name="泗阳综合频道" tvg-logo="https://tvba365.github.io/itv/5/泗阳综合频道.png" group-title="地方频道",泗阳综合频道
+#EXTINF:-1 tvg-id="泗阳综合频道" tvg-name="泗阳综合频道" tvg-logo="https://tvba365.github.io/itv/5/泗阳综合.png" group-title="地方频道",泗阳综合频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="泗阳资讯频道" tvg-name="泗阳资讯频道" tvg-logo="https://tvba365.github.io/itv/5/泗阳资讯频道.png" group-title="地方频道",泗阳资讯频道
+#EXTINF:-1 tvg-id="泗阳资讯频道" tvg-name="泗阳资讯频道" tvg-logo="https://tvba365.github.io/itv/5/泗阳资讯.png" group-title="地方频道",泗阳资讯频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="https://tvba365.github.io/itv/5/甘孜综合.png" group-title="地方频道",甘孜综合
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
-#EXTINF:-1 tvg-id="叙州新闻综合" tvg-name="叙州新闻综合" tvg-logo="https://tvba365.github.io/itv/5/叙州新闻综合.png" group-title="地方频道",叙州新闻综合
+#EXTINF:-1 tvg-id="叙州新闻综合" tvg-name="叙州新闻综合" tvg-logo="https://tvba365.github.io/itv/5/叙州综合.png" group-title="地方频道",叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 tvg-id="利州综合" tvg-name="利州综合" tvg-logo="https://tvba365.github.io/itv/5/利州综合.png" group-title="地方频道",利州综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
@@ -564,7 +564,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226214/100001000000000600000000029364
 http://150.138.8.132/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id=" 重温经典" tvg-name="重温经典" tvg-logo="https://tvba365.github.io/itv/4/重温经典.png" group-title="影视频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="http://192.168.100.1:6086/4/重温经典.png" group-title="影视频道",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tvba365.github.io/itv/4/重温经典.png" group-title="影视频道",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://tvba365.github.io/itv/4/都市剧场.png" group-title="影视频道",都市剧场
 rtsp://150.138.8.132/PLTV/88888888/224/3221227147/443330119.smil

@@ -353,7 +353,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
 #EXTINF:-1 tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="https://tvba365.github.io/itv/3/兖州新闻.png" group-title="省内频道",兖州新闻
 http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
-#EXTINF:-1 tvg-id="汶上综合" tvg-name="汶上综合" tvg-logo="http://192.168.100.1:6086/3/汶上综合.png" group-title="省内频道",汶上综合
+#EXTINF:-1 tvg-id="汶上综合" tvg-name="汶上综合" tvg-logo="https://tvba365.github.io/itv/3/汶上综合.png" group-title="省内频道",汶上综合
 http://150.138.8.143/00/SNM/CHANNEL00001116/index.m3u8
 #EXTINF:-1 tvg-id="曲阜新闻综合" tvg-name="曲阜新闻综合" tvg-logo="https://tvba365.github.io/itv/3/曲阜新闻.png" group-title="省内频道",曲阜新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8

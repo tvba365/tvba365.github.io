@@ -1,0 +1,4861 @@
+{
+  "epgs": [
+    {
+      "tvid": "CCTV1",
+      "epgid": "CCTV1",
+      "name": "CCTV-1综合,CCTV-1,CCTV1,CCTV1综合",
+      "status": "1",
+      "note": "CCTV-1综合",
+      "logo": "http://192.168.100.1:6086/1/CCTV1.png"
+    },
+    {
+      "tvid": "CCTV2",
+      "epgid": "CCTV2",
+      "name": "CCTV-2财经,CCTV-2,CCTV2,CCTV2财经",
+      "status": "1",
+      "note": "CCTV-2财经",
+      "logo": "http://192.168.100.1:6086/1/CCTV2.png"
+    },
+    {
+      "tvid": "CCTV3",
+      "epgid": "CCTV3",
+      "name": "CCTV-3综艺,CCTV-3,CCTV3,CCTV3综艺",
+      "status": "1",
+      "note": "CCTV-3综艺",
+      "logo": "http://192.168.100.1:6086/1/CCTV3.png"
+    },
+    {
+      "tvid": "CCTV4",
+      "epgid": "CCTV4",
+      "name": "CCTV-4国际,CCTV-4,CCTV4,CCTV4国际,CCTV-4中文国际,CCTV4中文国际,CCTV-4国际亚洲",
+      "status": "1",
+      "note": "CCTV-4中文国际",
+      "logo": "http://192.168.100.1:6086/1/CCTV4.png"
+    },
+    {
+      "tvid": "CCTV4欧洲",
+      "epgid": "CCTV4欧洲",
+      "name": "CCTV-4欧洲,CCTV4欧洲,CCTV-4中文国际欧洲",
+      "status": "1",
+      "note": "CCTV4欧洲",
+      "logo": "http://192.168.100.1:6086/1/CCTV4欧洲.png"
+    },
+    {
+      "tvid": "CCTV4美洲",
+      "epgid": "CCTV4美洲",
+      "name": "CCTV-4美洲,CCTV4美洲,CCTV-4中文国际美洲",
+      "status": "1",
+      "note": "CCTV4美洲",
+      "logo": "http://192.168.100.1:6086/1/CCTV4美洲.png"
+    },
+    {
+      "tvid": "CCTV5",
+      "epgid": "CCTV5",
+      "name": "CCTV-5体育,CCTV-5,CCTV5,CCTV5体育",
+      "status": "1",
+      "note": "CCTV-5体育",
+      "logo": "http://192.168.100.1:6086/1/CCTV5.png"
+    },
+    {
+      "tvid": "CCTV5+",
+      "epgid": "CCTV5+",
+      "name": "CCTV5+,CCTV5+体育赛事,CCTV5+,CCTV-5+,CCTV-5+体育赛事,CCTV-体育赛事,CCTV5plus",
+      "status": "1",
+      "note": "CCTV-5+体育赛事",
+      "logo": "http://192.168.100.1:6086/1/CCTV5+.png"
+    },
+    {
+      "tvid": "CCTV6",
+      "epgid": "CCTV6",
+      "name": "CCTV-6电影,CCTV-6,CCTV6,CCTV6电影",
+      "status": "1",
+      "note": "CCTV-6电影",
+      "logo": "http://192.168.100.1:6086/1/CCTV6.png"
+    },
+    {
+      "tvid": "CCTV7",
+      "epgid": "CCTV7",
+      "name": "CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事,CCTV-7国防,CCTV7国防,CCTV7-国防军事",
+      "status": "1",
+      "note": "CCTV-7国防军事",
+      "logo": "http://192.168.100.1:6086/1/CCTV7.png"
+    },
+    {
+      "tvid": "CCTV8",
+      "epgid": "CCTV8",
+      "name": "CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧,CCTV-8电视,CCTV8电视,CCTV8-电视剧",
+      "status": "1",
+      "note": "CCTV-8电视剧",
+      "logo": "http://192.168.100.1:6086/1/CCTV8.png"
+    },
+    {
+      "tvid": "CCTV9",
+      "epgid": "CCTV9",
+      "name": "CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录,CCTV9-纪录",
+      "status": "1",
+      "note": "CCTV-9纪录",
+      "logo": "http://192.168.100.1:6086/1/CCTV9.png"
+    },
+    {
+      "tvid": "CCTV10",
+      "epgid": "CCTV10",
+      "name": "CCTV-10科教,CCTV-10,CCTV10,CCTV10科教",
+      "status": "1",
+      "note": "CCTV-10科教",
+      "logo": "http://192.168.100.1:6086/1/CCTV10.png"
+    },
+    {
+      "tvid": "CCTV11",
+      "epgid": "CCTV11",
+      "name": "CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲",
+      "status": "1",
+      "note": "CCTV-11戏曲",
+      "logo": "http://192.168.100.1:6086/1/CCTV11.png"
+    },
+    {
+      "tvid": "CCTV12",
+      "epgid": "CCTV12",
+      "name": "CCTV-12法制,CCTV-12,CCTV12,CCTV12法制,CCTV-12社会与法,CCTV12社会与法",
+      "status": "1",
+      "note": "CCTV-12社会与法",
+      "logo": "http://192.168.100.1:6086/1/CCTV12.png"
+    },
+    {
+      "tvid": "CCTV13",
+      "epgid": "CCTV13",
+      "name": "CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻",
+      "status": "1",
+      "note": "CCTV-13新闻",
+      "logo": "http://192.168.100.1:6086/1/CCTV13.png"
+    },
+    {
+      "tvid": "CCTV14",
+      "epgid": "CCTV14",
+      "name": "CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿",
+      "status": "1",
+      "note": "CCTV-14少儿",
+      "logo": "http://192.168.100.1:6086/1/CCTV14.png"
+    },
+    {
+      "tvid": "CCTV15",
+      "epgid": "CCTV15",
+      "name": "CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐",
+      "status": "1",
+      "note": "CCTV-15音乐",
+      "logo": "http://192.168.100.1:6086/1/CCTV15.png"
+    },
+
+    {
+      "tvid": "CCTV16",
+      "epgid": "CCTV16",
+      "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克,CCTV16-4K,CCTV16-4K-SDR,CCTV16-4K-HEVC,CCTV16-4K-10M",
+      "status": "1",
+      "note": "CCTV-16奥林匹克",
+      "logo": "https://gongdian.top/logo/tv/CCTV16.png"
+    },
+    {
+      "tvid": "CCTV17",
+      "epgid": "CCTV17",
+      "name": "CCTV-17农业,CCTV-17,CCTV17,CCTV17农业,CCTV-17农业农村,CCTV-17农村农业,CCTV17农业农村,CCTV17农村农业",
+      "status": "1",
+      "note": "CCTV-17农村农业",
+      "logo": "http://192.168.100.1:6086/1/CCTV17.png"
+    },
+    {
+      "tvid": "CCTV-NEWS",
+      "epgid": "CCTV-NEWS",
+      "name": "CCTV-NEWS",
+      "status": "1",
+      "note": "CCTV-NEWS",
+      "logo": "http://192.168.100.1:6086/1/CCTV-NEWS.png"
+    },
+    {
+      "tvid": "CGTN",
+      "epgid": "CGTN",
+      "name": "CGTN英语,CGTN,CGTN-英语",
+      "status": "1",
+      "note": "CGTN",
+      "logo": "http://192.168.100.1:6086/1/CGTN.png"
+    },
+    {
+      "tvid": "CGTN阿语",
+      "epgid": "CGTN阿语",
+      "name": "CGTN-阿拉伯语,CGTN阿拉伯语,CGTN阿语",
+      "status": "1",
+      "note": "CGTN阿语",
+      "logo": "http://192.168.100.1:6086/1/CGTN阿语.png"
+    },
+    {
+      "tvid": "CGTN法语",
+      "epgid": "CGTN法语",
+      "name": "CGTN-法语,CGTN法语",
+      "status": "1",
+      "note": "CGTN法语",
+      "logo": "http://192.168.100.1:6086/1/CGTN法语.png"
+    },
+    {
+      "tvid": "CGTN俄语",
+      "epgid": "CGTN俄语",
+      "name": "CGTN-俄语,CGTN俄语",
+      "status": "1",
+      "note": "CGTN俄语",
+      "logo": "http://192.168.100.1:6086/1/CGTN俄语.png"
+    },
+    {
+      "tvid": "CGTN西语",
+      "epgid": "CGTN西语",
+      "name": "CGTN-西班牙语,CGTN西班牙语,CGTN西语",
+      "status": "1",
+      "note": "CGTN西语",
+      "logo": "http://192.168.100.1:6086/1/CGTN西语.png"
+    },
+    {
+      "tvid": "CGTN纪录",
+      "epgid": "CGTN纪录",
+      "name": "CGTN英文纪录片,CGTN-英文纪录,CGTN纪录,CGTN纪录片,CGTN纪录频道",
+      "status": "1",
+      "note": "CGTN纪录",
+      "logo": "http://192.168.100.1:6086/1/CGTN纪录.png"
+    },
+    {
+      "tvid": "CCTV4K",
+      "epgid": "CCTV4K",
+      "name": "CCTV4K,CCTV-4K,CCTV4K-SDR,CCTV4K-10M,CCTV4K超高清,CCTV-4K超高清",
+      "status": "1",
+      "note": "CCTV-4K超高清",
+      "logo": "http://192.168.100.1:6086/1/CCTV4K.png"
+    },
+    {
+      "tvid": "CCTV8K",
+      "epgid": "CCTV8K",
+      "name": "CCTV8K,CCTV8K-36M,CCTV8K-120M",
+      "status": "1",
+      "note": "CCTV-8K超高清",
+      "logo": "http://192.168.100.1:6086/1/CCTV8K.png"
+    },
+    {
+      "tvid": "湖南卫视",
+      "epgid": "湖南卫视",
+      "name": "湖南卫视",
+      "status": "1",
+      "note": "湖南卫视",
+      "logo": "http://192.168.100.1:6086/2/湖南卫视.png"
+    },
+    {
+      "tvid": "凤凰卫视中文台",
+      "epgid": "凤凰卫视中文台",
+      "name": "凤凰卫视中文台,凤凰中文,凤凰卫视",
+      "status": "1",
+      "note": "凤凰卫视中文台",
+      "logo": "http://192.168.100.1:6086/2/凤凰卫视中文台.png"
+    },
+    {
+      "tvid": "凤凰卫视香港台",
+      "epgid": "凤凰卫视香港台",
+      "name": "凤凰卫视香港台,凤凰香港台,凤凰香港",
+      "status": "1",
+      "note": "凤凰卫视香港台",
+      "logo": "http://192.168.100.1:6086/2/凤凰卫视香港台.png"
+    },
+    {
+      "tvid": "凤凰卫视资讯台",
+      "epgid": "凤凰卫视资讯台",
+      "name": "凤凰卫视资讯台,凤凰资讯台,凤凰资讯",
+      "status": "1",
+      "note": "凤凰卫视资讯台",
+      "logo": "http://192.168.100.1:6086/2/凤凰卫视资讯台.png"
+    },
+    {
+      "tvid": "香港卫视",
+      "epgid": "香港卫视",
+      "name": "香港卫视",
+      "status": "1",
+      "note": "香港卫视",
+      "logo": "http://192.168.100.1:6086/2/香港卫视.png"
+    },
+    {
+      "tvid": "亚洲新闻台",
+      "epgid": "亚洲新闻台",
+      "name": "新加坡新闻,新加坡新闻高清,亚洲新闻,亚洲新闻台",
+      "status": "1",
+      "note": "亚洲新闻台",
+      "logo": "http://192.168.100.1:6086/2/亚洲新闻.png"
+    },
+    {
+      "tvid": "星空卫视",
+      "epgid": "星空卫视",
+      "name": "星空卫视,星空国际,星空卫视国际",
+      "status": "1",
+      "note": "星空卫视",
+      "logo": "http://192.168.100.1:6086/2/星空卫视.png"
+    },
+    {
+      "tvid": "澳门Macau卫视",
+      "epgid": "澳门Macau卫视",
+      "name": "澳门Macau,澳门Macau卫视,澳门卫视",
+      "status": "1",
+      "note": "澳门Macau卫视",
+      "logo": "http://192.168.100.1:6086/2/澳门Macau卫视.png"
+    },
+    {
+      "tvid": "FRANCE24",
+      "epgid": "FRANCE24",
+      "name": "FRANCE24,France 24,法兰西24小时,法兰西24小时新闻",
+      "status": "1",
+      "note": "FRANCE24",
+      "logo": "http://192.168.100.1:6086/2/FRANCE24.png"
+    },
+    {
+      "tvid": "阿里郎电视",
+      "epgid": "阿里郎电视",
+      "name": "阿里郎电视,阿里郎电视台,Arirang TV",
+      "status": "1",
+      "note": "阿里郎电视",
+      "logo": "http://192.168.100.1:6086/2/阿里郎电视.png"
+    },
+    {
+      "tvid": "euronews",
+      "epgid": "euronews",
+      "name": "euronews,euronews-SD,欧洲新闻亚洲标清,欧洲新闻-SD,欧洲新闻亚洲-SD",
+      "status": "1",
+      "note": "euronews",
+      "logo": "http://192.168.100.1:6086/2/euronews.png"
+    },
+    {
+      "tvid": "浙江卫视",
+      "epgid": "浙江卫视",
+      "name": "浙江卫视",
+      "status": "1",
+      "note": "浙江卫视",
+      "logo": "http://192.168.100.1:6086/2/浙江卫视.png"
+    },
+    {
+      "tvid": "北京卫视",
+      "epgid": "北京卫视",
+      "name": "北京卫视",
+      "status": "1",
+      "note": "北京卫视",
+      "logo": "http://192.168.100.1:6086/2/北京卫视.png"
+    },
+    {
+      "tvid": "北京卫视4K",
+      "epgid": "北京卫视4K",
+      "name": "北京卫视4K,北京卫视-4K,北京卫视4K超高清",
+      "status": "1",
+      "note": "北京卫视4K",
+      "logo": "http://192.168.100.1:6086/2/北京卫视4K.png"
+    },
+    {
+      "tvid": "江苏卫视",
+      "epgid": "江苏卫视",
+      "name": "江苏卫视",
+      "status": "1",
+      "note": "江苏卫视",
+      "logo": "http://192.168.100.1:6086/2/江苏卫视.png"
+    },
+    {
+      "tvid": "东方卫视",
+      "epgid": "东方卫视",
+      "name": "东方卫视,上海卫视",
+      "status": "1",
+      "note": "东方卫视",
+      "logo": "http://192.168.100.1:6086/2/东方卫视.png"
+    },
+    {
+      "tvid": "安徽卫视",
+      "epgid": "安徽卫视",
+      "name": "安徽卫视",
+      "status": "1",
+      "note": "安徽卫视",
+      "logo": "http://192.168.100.1:6086/2/安徽卫视.png"
+    },
+    {
+      "tvid": "广东卫视",
+      "epgid": "广东卫视",
+      "name": "广东卫视",
+      "status": "1",
+      "note": "广东卫视",
+      "logo": "http://192.168.100.1:6086/2/广东卫视.png"
+    },
+    {
+      "tvid": "广东卫视4K",
+      "epgid": "广东卫视4K",
+      "name": "广东卫视4K,广东卫视-4K,广东卫视4K超高清",
+      "status": "1",
+      "note": "广东卫视4K",
+      "logo": "http://192.168.100.1:6086/2/广东卫视4K.png"
+    },
+    {
+      "tvid": "深圳卫视4K",
+      "epgid": "深圳卫视4K",
+      "name": "深圳卫视4K,深圳卫视-4K,深圳卫视4K超高清",
+      "status": "1",
+      "note": "深圳卫视4K",
+      "logo": "http://192.168.100.1:6086/2/深圳卫视4K.png"
+    },
+    {
+      "tvid": "深圳卫视",
+      "epgid": "深圳卫视",
+      "name": "深圳卫视",
+      "status": "1",
+      "note": "深圳卫视",
+      "logo": "http://192.168.100.1:6086/2/深圳卫视.png"
+    },
+    {
+      "tvid": "辽宁卫视",
+      "epgid": "辽宁卫视",
+      "name": "辽宁卫视",
+      "status": "1",
+      "note": "辽宁卫视",
+      "logo":"http://192.168.100.1:6086/2/辽宁卫视.png"
+    },
+    {
+      "tvid": "海南卫视",
+      "epgid": "海南卫视",
+      "name": "海南卫视,旅游卫视",
+      "status": "1",
+      "note": "海南卫视",
+      "logo":"http://192.168.100.1:6086/2/海南卫视.png"
+    },
+    {
+      "tvid": "山东卫视",
+      "epgid": "山东卫视",
+      "name": "山东卫视",
+      "status": "1",
+      "note": "山东卫视",
+      "logo": "http://192.168.100.1:6086/2/山东卫视.png"
+    },
+    {
+      "tvid": "天津卫视",
+      "epgid": "天津卫视",
+      "name": "天津卫视",
+      "status": "1",
+      "note": "天津卫视",
+      "logo":"http://192.168.100.1:6086/2/天津卫视.png"
+    },
+    {
+      "tvid": "重庆卫视",
+      "epgid": "重庆卫视",
+      "name": "重庆卫视",
+      "status": "1",
+      "note": "重庆卫视",
+      "logo": "http://192.168.100.1:6086/2/重庆卫视.png"
+    },
+    {
+      "tvid": "东南卫视",
+      "epgid": "东南卫视",
+      "name": "东南卫视",
+      "status": "1",
+      "note": "东南卫视",
+      "logo": "http://192.168.100.1:6086/2/东南卫视.png"
+    },
+    {
+      "tvid": "甘肃卫视",
+      "epgid": "甘肃卫视",
+      "name": "甘肃卫视",
+      "status": "1",
+      "note": "甘肃卫视",
+      "logo": "http://192.168.100.1:6086/2/甘肃卫视.png"
+    },
+    {
+      "tvid": "广西卫视",
+      "epgid": "广西卫视",
+      "name": "广西卫视",
+      "status": "1",
+      "note": "广西卫视",
+      "logo": "http://192.168.100.1:6086/2/广西卫视.png"
+    },
+    {
+      "tvid": "贵州卫视",
+      "epgid": "贵州卫视",
+      "name": "贵州卫视",
+      "status": "1",
+      "note": "贵州卫视",
+      "logo": "http://192.168.100.1:6086/2/贵州卫视.png"
+    },
+    {
+      "tvid": "河北卫视",
+      "epgid": "河北卫视",
+      "name": "河北卫视",
+      "status": "1",
+      "note": "河北卫视",
+      "logo":"http://192.168.100.1:6086/2/河北卫视.png"
+    },
+    {
+      "tvid": "黑龙江卫视",
+      "epgid": "黑龙江卫视",
+      "name": "黑龙江卫视",
+      "status": "1",
+      "note": "黑龙江卫视",
+      "logo": "http://192.168.100.1:6086/2/黑龙江卫视.png"
+    },
+    {
+      "tvid": "河南卫视",
+      "epgid": "河南卫视",
+      "name": "河南卫视",
+      "status": "1",
+      "note": "河南卫视",
+      "logo": "http://192.168.100.1:6086/2/河南卫视.png"
+    },
+    {
+      "tvid": "湖北卫视",
+      "epgid": "湖北卫视",
+      "name": "湖北卫视",
+      "status": "1",
+      "note": "湖北卫视",
+      "logo": "http://192.168.100.1:6086/2/湖北卫视.png"
+    },
+    {
+      "tvid": "江西卫视",
+      "epgid": "江西卫视",
+      "name": "江西卫视",
+      "status": "1",
+      "note": "江西卫视",
+      "logo": "http://192.168.100.1:6086/2/江西卫视.png"
+    },
+    {
+      "tvid": "吉林卫视",
+      "epgid": "吉林卫视",
+      "name": "吉林卫视",
+      "status": "1",
+      "note": "吉林卫视",
+      "logo": "http://192.168.100.1:6086/2/吉林卫视.png"
+    },
+    {
+      "tvid": "内蒙古卫视",
+      "epgid": "内蒙古卫视",
+      "name": "内蒙古卫视-SD,内蒙古卫视",
+      "status": "1",
+      "note": "内蒙古卫视",
+      "logo":"http://192.168.100.1:6086/2/内蒙古卫视.png"
+    },
+    {
+      "tvid": "宁夏卫视",
+      "epgid": "宁夏卫视",
+      "name": "宁夏卫视-SD,宁夏卫视",
+      "status": "1",
+      "note": "宁夏卫视",
+      "logo":"http://192.168.100.1:6086/2/宁夏卫视.png"
+    },
+    {
+      "tvid": "山西卫视",
+      "epgid": "山西卫视",
+      "name": "山西卫视-SD,山西卫视",
+      "status": "1",
+      "note": "山西卫视",
+      "logo": "http://192.168.100.1:6086/2/山西卫视.png"
+    },
+    {
+      "tvid": "陕西卫视",
+      "epgid": "陕西卫视",
+      "name": "陕西卫视-SD,陕西卫视",
+      "status": "1",
+      "note": "陕西卫视",
+      "logo": "http://192.168.100.1:6086/2/陕西卫视.png"
+    },
+    {
+      "tvid": "四川卫视",
+      "epgid": "四川卫视",
+      "name": "四川卫视",
+      "status": "1",
+      "note": "四川卫视",
+      "logo": "http://192.168.100.1:6086/2/四川卫视.png"
+    },
+    {
+      "tvid": "新疆卫视",
+      "epgid": "新疆卫视",
+      "name": "新疆卫视-SD,新疆卫视",
+      "status": "1",
+      "note": "新疆卫视",
+      "logo":"http://192.168.100.1:6086/2/新疆卫视.png"
+    },
+    {
+      "tvid": "云南卫视",
+      "epgid": "云南卫视",
+      "name": "云南卫视",
+      "status": "1",
+      "note": "云南卫视",
+      "logo":"http://192.168.100.1:6086/2/云南卫视.png"
+    },
+    {
+      "tvid": "青海卫视",
+      "epgid": "青海卫视",
+      "name": "青海卫视",
+      "status": "1",
+      "note": "青海卫视",
+      "logo": "http://192.168.100.1:6086/2/青海卫视.png"
+    },
+    {
+      "tvid": "大湾区卫视",
+      "epgid": "大湾区卫视",
+      "name": "广东大湾区卫视-SD,大湾区卫视-SD,南方卫视,大湾区卫视",
+      "status": "1",
+      "note": "大湾区卫视",
+      "logo":"http://192.168.100.1:6086/2/广东大湾区卫视.png"
+    },
+    {
+      "tvid": "兵团卫视",
+      "epgid": "兵团卫视",
+      "name": "兵团卫视-SD,兵团卫视",
+      "status": "1",
+      "note": "兵团卫视",
+      "logo": "http://192.168.100.1:6086/2/兵团卫视.png"
+    },
+    {
+      "tvid": "延边卫视",
+      "epgid": "延边卫视",
+      "name": "延边卫视-SD,延边卫视",
+      "status": "1",
+      "note": "延边卫视",
+      "logo": "http://192.168.100.1:6086/2/延边卫视.png"
+    },
+    {
+      "tvid": "农林卫视",
+      "epgid": "农林卫视",
+      "name": "农林卫视-SD,农林卫视",
+      "status": "1",
+      "note": "延边卫视",
+      "logo": "http://192.168.100.1:6086/2/农林卫视.png"
+    },
+    {
+      "tvid": "厦门卫视",
+      "epgid": "厦门卫视",
+      "name": "厦门卫视-SD,厦门卫视",
+      "status": "1",
+      "note": "厦门卫视",
+      "logo":"http://192.168.100.1:6086/2/厦门卫视.png"
+    },
+    {
+      "tvid": "西藏卫视",
+      "epgid": "西藏卫视",
+      "name": "西藏卫视-SD,西藏卫视",
+      "status": "1",
+      "note": "西藏卫视",
+      "logo": "http://192.168.100.1:6086/2/西藏卫视.png"
+    },
+    {
+      "tvid": "西藏藏语卫视",
+      "epgid": "西藏藏语卫视",
+      "name": "西藏藏语卫视-SD,西藏藏语卫视",
+      "status": "1",
+      "note": "西藏藏语卫视",
+      "logo": "http://192.168.100.1:6086/2/西藏藏语卫视.png"
+    },
+    {
+      "tvid": "西藏影视文化",
+      "epgid": "西藏影视文化",
+      "name": "西藏影视文化-SD,西藏影视文化",
+      "status": "1",
+      "note": "西藏影视文化",
+      "logo": "http://192.168.100.1:6086/2/西藏影视文化.png"
+    },
+    {
+      "tvid": "三沙卫视",
+      "epgid": "三沙卫视",
+      "name": "三沙卫视-SD,三沙卫视",
+      "status": "1",
+      "note": "三沙卫视",
+      "logo": "http://192.168.100.1:6086/2/三沙卫视.png"
+    },
+    {
+        "tvid": "山东齐鲁",
+        "epgid": "山东齐鲁",
+        "name": "山东齐鲁",
+        "status": "1",
+        "note": "山东齐鲁",
+        "logo": "http://192.168.100.1:6086/3/山东齐鲁.png"
+    },
+    {
+        "tvid": "山东新闻",
+        "epgid": "山东新闻",
+        "name": "山东新闻",
+        "status": "1",
+        "note": "山东新闻",
+        "logo": "http://192.168.100.1:6086/3/山东新闻.png"
+    },
+    {
+        "tvid": "山东体育",
+        "epgid": "山东体育",
+        "name": "山东体育休闲,山东体育",
+        "status": "1",
+        "note": "山东体育",
+        "logo": "http://192.168.100.1:6086/3/山东体育.png"
+    },
+    {
+        "tvid": "山东生活",
+        "epgid": "山东生活",
+        "name": "山东生活",
+        "status": "1",
+        "note": "山东生活",
+        "logo": "http://192.168.100.1:6086/3/山东生活.png"
+    },
+    {
+        "tvid": "山东文旅",
+        "epgid": "山东文旅",
+        "name": "山东文旅",
+        "status": "1",
+        "note": "山东文旅",
+        "logo": "http://192.168.100.1:6086/3/山东文旅.png"
+    },
+    {
+        "tvid": "山东综艺",
+        "epgid": "山东综艺",
+        "name": "山东综艺",
+        "status": "1",
+        "note": "山东综艺",
+        "logo": "http://192.168.100.1:6086/3/山东综艺.png"
+    },
+    {
+        "tvid": "山东农科",
+        "epgid": "山东农科",
+        "name": "山东农科",
+        "status": "1",
+        "note": "山东农科",
+        "logo": "http://192.168.100.1:6086/3/山东农科.png"
+    },
+    {
+        "tvid": "山东少儿",
+        "epgid": "山东少儿",
+        "name": "山东少儿",
+        "status": "1",
+        "note": "山东少儿",
+        "logo": "http://192.168.100.1:6086/3/山东少儿.png"
+    },
+    {
+        "tvid": "山东教育",
+        "epgid": "山东教育",
+        "name": "山东教育",
+        "status": "1",
+        "note": "山东教育",
+        "logo": "http://192.168.100.1:6086/3/山东教育.png"
+    },
+    {
+        "tvid": "济南新闻",
+        "epgid": "济南新闻",
+        "name": "济南新闻",
+        "status": "1",
+        "note": "济南新闻",
+        "logo": "http://192.168.100.1:6086/3/济南新闻.png"
+    },
+    {
+        "tvid": "济南教育",
+        "epgid": "济南教育",
+        "name": "济南教育",
+        "status": "1",
+        "note": "济南教育",
+        "logo": "http://192.168.100.1:6086/3/济南教育.png"
+    },
+    {
+        "tvid": "济南鲁中",
+        "epgid": "济南鲁中",
+        "name": "济南鲁中,济南鲁中-SD",
+        "status": "1",
+        "note": "济南鲁中",
+        "logo": "http://192.168.100.1:6086/3/济南鲁中.png"
+    },
+    {
+        "tvid": "济南都市",
+        "epgid": "济南都市",
+        "name": "济南都市,济南都市-SD",
+        "status": "1",
+        "note": "济南都市",
+        "logo": "http://192.168.100.1:6086/3/济南都市.png"
+    },
+    {
+        "tvid": "济南生活",
+        "epgid": "济南生活",
+        "name": "济南生活,济南生活-SD",
+        "status": "1",
+        "note": "济南生活",
+        "logo": "http://192.168.100.1:6086/3/济南生活.png"
+    },
+    {
+        "tvid": "济南文旅体育",
+        "epgid": "济南文旅体育",
+        "name": "济南文旅体育,济南文旅体育-SD",
+        "status": "1",
+        "note": "济南文旅体育",
+        "logo": "http://192.168.100.1:6086/3/济南文旅体育.png"
+    },
+    {
+        "tvid": "济南娱乐",
+        "epgid": "济南娱乐",
+        "name": "济南娱乐,济南娱乐-SD",
+        "status": "1",
+        "note": "济南娱乐",
+        "logo": "http://192.168.100.1:6086/3/济南娱乐.png"
+    },
+    {
+        "tvid": "济南少儿",
+        "epgid": "济南少儿",
+        "name": "济南少儿,济南少儿-SD",
+        "status": "1",
+        "note": "济南少儿",
+        "logo": "http://192.168.100.1:6086/3/济南少儿.png"
+    },
+    {
+        "tvid": "商河综合",
+        "epgid": "商河综合",
+        "name": "商河综合",
+        "status": "1",
+        "note": "商河综合",
+        "logo": "http://192.168.100.1:6086/3/商河综合.png"
+    },
+    {
+        "tvid": "济阳综合",
+        "epgid": "济阳综合",
+        "name": "济阳综合",
+        "status": "1",
+        "note": "济阳综合",
+        "logo": "http://192.168.100.1:6086/3/济阳综合.png"
+    },
+    {
+        "tvid": "历城综合",
+        "epgid": "历城综合",
+        "name": "历城综合",
+        "status": "1",
+        "note": "历城综合",
+        "logo": "http://192.168.100.1:6086/3/历城综合.png"
+    },
+    {
+        "tvid": "长清综合",
+        "epgid": "长清综合",
+        "name": "长清综合,长清综合-SD",
+        "status": "1",
+        "note": "长清综合",
+        "logo": "http://192.168.100.1:6086/3/长清综合.png"
+    },
+    {
+        "tvid": "平阴综合",
+        "epgid": "平阴综合",
+        "name": "平阴综合",
+        "status": "1",
+        "note": "平阴综合",
+        "logo": "http://192.168.100.1:6086/3/平阴综合.png"
+    },
+    {
+        "tvid": "QTV-1",
+        "epgid": "QTV-1",
+        "name": "QTV-1,QTV-1-SD",
+        "status": "1",
+        "note": "QTV-1",
+        "logo": "http://192.168.100.1:6086/3/QTV-1.png"
+    },
+    {
+        "tvid": "QTV-2",
+        "epgid": "QTV-2",
+        "name": "QTV-2,QTV-2-SD",
+        "status": "1",
+        "note": "QTV-2",
+        "logo": "http://192.168.100.1:6086/3/QTV-2.png"
+    },
+    {
+        "tvid": "QTV-3",
+        "epgid": "QTV-3",
+        "name": "QTV-3,QTV-3-SD",
+        "status": "1",
+        "note": "QTV-3",
+        "logo": "http://192.168.100.1:6086/3/QTV-3.png"
+    },
+    {
+        "tvid": "QTV-4",
+        "epgid": "QTV-4",
+        "name": "QTV-4,QTV-4-SD",
+        "status": "1",
+        "note": "QTV-4",
+        "logo": "http://192.168.100.1:6086/3/QTV-4.png"
+    },
+    {
+        "tvid": "QTV-5",
+        "epgid": "QTV-5",
+        "name": "QTV-5,QTV-5-SD",
+        "status": "1",
+        "note": "QTV-5",
+        "logo": "http://192.168.100.1:6086/3/QTV-5.png"
+    },
+    {
+        "tvid": "QTV-6",
+        "epgid": "QTV-6",
+        "name": "QTV-6,QTV-6-SD",
+        "status": "1",
+        "note": "QTV-6",
+        "logo": "http://192.168.100.1:6086/3/QTV-6.png"
+    },
+    {
+        "tvid": "平度新闻综合",
+        "epgid": "平度新闻综合",
+        "name": "平度新闻综合",
+        "status": "1",
+        "note": "平度新闻综合",
+        "logo": "http://192.168.100.1:6086/3/平度新闻综合.png"
+    },
+    {
+        "tvid": "莱西综合",
+        "epgid": "莱西综合",
+        "name": "莱西综合",
+        "status": "1",
+        "note": "莱西综合",
+        "logo": "http://192.168.100.1:6086/3/莱西综合.png"
+    },
+    {
+        "tvid": "崂山综合",
+        "epgid": "崂山综合",
+        "name": "崂山综合",
+        "status": "1",
+        "note": "崂山综合",
+        "logo": "http://192.168.100.1:6086/3/崂山综合.png"
+    },
+    {
+        "tvid": "胶州综合",
+        "epgid": "胶州综合",
+        "name": "胶州综合",
+        "status": "1",
+        "note": "胶州综合",
+        "logo": "http://192.168.100.1:6086/3/胶州综合.png"
+    },
+    {
+        "tvid": "黄岛综合",
+        "epgid": "黄岛综合",
+        "name": "黄岛综合",
+        "status": "1",
+        "note": "黄岛综合",
+        "logo": "http://192.168.100.1:6086/3/黄岛综合.png"
+    },
+    {
+        "tvid": "黄岛生活",
+        "epgid": "黄岛生活",
+        "name": "黄岛生活",
+        "status": "1",
+        "note": "黄岛生活",
+        "logo": "http://192.168.100.1:6086/3/黄岛生活.png"
+    },
+    {
+        "tvid": "威海乳山综合",
+        "epgid": "威海乳山综合",
+        "name": "乳山综合,威海乳山综合",
+        "status": "1",
+        "note": "威海乳山综合",
+        "logo": "http://192.168.100.1:6086/3/乳山综合.png"
+    },
+    {
+        "tvid": "威海荣成综合",
+        "epgid": "威海荣成综合",
+        "name": "荣成综合,威海荣成综合",
+        "status": "1",
+        "note": "威海荣成综合",
+        "logo": "http://192.168.100.1:6086/3/荣成综合.png"
+    },
+    {
+        "tvid": "文登",
+        "epgid": "文登",
+        "name": "文登,威海文登",
+        "status": "1",
+        "note": "文登",
+        "logo": "http://192.168.100.1:6086/3/文登.png"
+    },
+    {
+        "tvid": "威海新闻综合",
+        "epgid": "威海新闻综合",
+        "name": "威海新闻综合,威海新闻综合-SD",
+        "status": "1",
+        "note": "文登",
+        "logo": "http://192.168.100.1:6086/3/威海新闻综合.png"
+    },
+    {
+        "tvid": "威海都市生活",
+        "epgid": "威海都市生活",
+        "name": "威海都市生活,威海都市生活-SD",
+        "status": "1",
+        "note": "威海都市生活",
+        "logo": "http://192.168.100.1:6086/3/威海都市生活.png"
+    },
+    {
+        "tvid": "烟台新闻",
+        "epgid": "烟台新闻",
+        "name": "烟台新闻,烟台新闻综合",
+        "status": "1",
+        "note": "烟台新闻",
+        "logo": "http://192.168.100.1:6086/3/烟台新闻.png"
+    },
+    {
+        "tvid": "烟台经济科技",
+        "epgid": "烟台经济科技",
+        "name": "烟台经济科技",
+        "status": "1",
+        "note": "烟台经济科技",
+        "logo": "http://192.168.100.1:6086/3/烟台经济科技.png"
+    },
+    {
+        "tvid": "烟台影视",
+        "epgid": "烟台影视",
+        "name": "烟台影视",
+        "status": "1",
+        "note": "烟台影视",
+        "logo": "http://192.168.100.1:6086/3/烟台影视.png"
+    },
+    {
+        "tvid": "烟台公共",
+        "epgid": "烟台公共",
+        "name": "烟台公共,烟台公共-SD",
+        "status": "1",
+        "note": "烟台公共",
+        "logo": "http://192.168.100.1:6086/3/烟台公共.png"
+    },
+    {
+        "tvid": "招远综合",
+        "epgid": "招远综合",
+        "name": "招远综合,招远综合-SD",
+        "status": "1",
+        "note": "招远综合",
+        "logo": "http://192.168.100.1:6086/3/招远综合.png"
+    },
+    {
+        "tvid": "龙口综合",
+        "epgid": "龙口综合",
+        "name": "龙口综合,龙口综合-SD",
+        "status": "1",
+        "note": "招远综合",
+        "logo": "http://192.168.100.1:6086/3/龙口综合.png"
+    },
+    {
+        "tvid": "栖霞综合",
+        "epgid": "栖霞综合",
+        "name": "栖霞综合,栖霞综合-SD",
+        "status": "1",
+        "note": "栖霞综合",
+        "logo": "http://192.168.100.1:6086/3/栖霞综合.png"
+    },
+    {
+        "tvid": "牟平综合",
+        "epgid": "牟平综合",
+        "name": "牟平综合,牟平综合-SD",
+        "status": "1",
+        "note": "牟平综合",
+        "logo": "http://192.168.100.1:6086/3/牟平综合.png"
+    },
+    {
+        "tvid": "牟平生活",
+        "epgid": "牟平生活",
+        "name": "牟平生活,牟平生活-SD",
+        "status": "1",
+        "note": "牟平生活",
+        "logo": "http://192.168.100.1:6086/3/牟平生活.png"
+    },
+    {
+        "tvid": "蓬莱新闻",
+        "epgid": "蓬莱新闻",
+        "name": "蓬莱新闻",
+        "status": "1",
+        "note": "蓬莱新闻",
+        "logo": "http://192.168.100.1:6086/3/蓬莱新闻.png"
+    },
+    {
+        "tvid": "海阳综合",
+        "epgid": "海阳综合",
+        "name": "海阳综合",
+        "status": "1",
+        "note": "海阳综合",
+        "logo": "http://192.168.100.1:6086/3/海阳综合.png"
+    },
+    {
+        "tvid": "海阳综艺",
+        "epgid": "海阳综艺",
+        "name": "海阳综艺",
+        "status": "1",
+        "note": "海阳综艺",
+        "logo": "http://192.168.100.1:6086/3/海阳综艺.png"
+    },
+    {
+        "tvid": "长岛综合",
+        "epgid": "长岛综合",
+        "name": "长岛综合",
+        "status": "1",
+        "note": "长岛综合",
+        "logo": "http://192.168.100.1:6086/3/长岛综合.png"
+    },
+    {
+        "tvid": "淄博新闻",
+        "epgid": "淄博新闻",
+        "name": "淄博新闻",
+        "status": "1",
+        "note": "淄博新闻",
+        "logo": "http://192.168.100.1:6086/3/淄博新闻.png"
+    },
+    {
+        "tvid": "淄博影视",
+        "epgid": "淄博影视",
+        "name": "淄博影视",
+        "status": "1",
+        "note": "淄博影视",
+        "logo": "http://192.168.100.1:6086/3/淄博影视.png"
+    },
+    {
+        "tvid": "淄川新闻",
+        "epgid": "淄川新闻",
+        "name": "淄川新闻",
+        "status": "1",
+        "note": "淄川新闻",
+        "logo": "http://192.168.100.1:6086/3/淄川新闻.png"
+    },
+    {
+        "tvid": "周村新闻",
+        "epgid": "周村新闻",
+        "name": "周村新闻,周村新闻-SD",
+        "status": "1",
+        "note": "周村新闻",
+        "logo": "http://192.168.100.1:6086/3/周村新闻.png"
+    },
+    {
+        "tvid": "淄博文旅",
+        "epgid": "淄博文旅",
+        "name": "淄博文旅,淄博文旅-SD",
+        "status": "1",
+        "note": "淄博文旅",
+        "logo": "http://192.168.100.1:6086/3/淄博文旅.png"
+    },
+    {
+        "tvid": "淄博民生",
+        "epgid": "淄博民生",
+        "name": "淄博民生,淄博民生-SD",
+        "status": "1",
+        "note": "淄博民生",
+        "logo": "http://192.168.100.1:6086/3/淄博民生.png"
+    },
+    {
+        "tvid": "淄博沂源综合",
+        "epgid": "淄博沂源综合",
+        "name": "沂源综合,淄博沂源综合,淄博沂源综合-SD",
+        "status": "1",
+        "note": "淄博沂源综合",
+        "logo": "http://192.168.100.1:6086/3/淄博沂源综合.png"
+    },
+    {
+        "tvid": "淄博桓台综合",
+        "epgid": "淄博桓台综合",
+        "name": "淄博桓台综合,桓台综合,淄博桓台综合-SD",
+        "status": "1",
+        "note": "淄博桓台综合",
+        "logo": "http://192.168.100.1:6086/3/淄博桓台综合.png"
+    },
+    {
+        "tvid": "张店",
+        "epgid": "张店",
+        "name": "张店,张店-SD",
+        "status": "1",
+        "note": "张店",
+        "logo": "http://192.168.100.1:6086/3/张店.png"
+    },
+    {
+        "tvid": "高青综合",
+        "epgid": "高青综合",
+        "name": "高青综合,高青综合-SD",
+        "status": "1",
+        "note": "高青综合",
+        "logo": "http://192.168.100.1:6086/3/高青综合.png"
+    },
+    {
+        "tvid": "泰安东平综合",
+        "epgid": "泰安东平综合",
+        "name": "东平综合,泰安东平综合",
+        "status": "1",
+        "note": "泰安东平综合",
+        "logo": "http://192.168.100.1:6086/3/东平综合.png"
+    },
+    {
+        "tvid": "泰安宁阳综合频道",
+        "epgid": "泰安宁阳综合频道",
+        "name": "宁阳综合,宁阳综合频道,泰安宁阳综合频道",
+        "status": "1",
+        "note": "泰安宁阳综合频道",
+        "logo": "http://192.168.100.1:6086/3/宁阳综合.png"
+    },
+    {
+        "tvid": "泰安新泰综合",
+        "epgid": "泰安新泰综合",
+        "name": "新泰综合,新泰新闻,泰安新泰综合",
+        "status": "1",
+        "note": "泰安新泰综合",
+        "logo": "http://192.168.100.1:6086/3/新泰综合.png"
+    },
+    {
+        "tvid": "泰安新泰乡村",
+        "epgid": "泰安新泰乡村",
+        "name": "新泰乡村,泰安新泰乡村",
+        "status": "1",
+        "note": "泰安新泰乡村",
+        "logo": "http://192.168.100.1:6086/3/新泰乡村.png"
+    },
+    {
+        "tvid": "肥城综合",
+        "epgid": "肥城综合",
+        "name": "肥城综合",
+        "status": "1",
+        "note": "肥城综合",
+        "logo": "http://192.168.100.1:6086/3/肥城综合.png"
+    },
+    {
+        "tvid": "岱岳",
+        "epgid": "岱岳",
+        "name": "岱岳,岱岳-SD",
+        "status": "1",
+        "note": "泰安新泰乡村",
+        "logo": "http://192.168.100.1:6086/3/岱岳.png"
+    },
+    {
+        "tvid": "泰山",
+        "epgid": "泰山",
+        "name": "泰山,泰山-SD",
+        "status": "1",
+        "note": "泰山",
+        "logo": "http://192.168.100.1:6086/3/泰山.png"
+    },
+    {
+        "tvid": "泰安宁阳-2",
+        "epgid": "泰安宁阳-2",
+        "name": "宁阳-2,泰安宁阳-2,泰安宁阳-2-SD",
+        "status": "1",
+        "note": "泰安宁阳-2",
+        "logo": "http://192.168.100.1:6086/3/泰安宁阳-2.png"
+    },
+    {
+        "tvid": "临沂蒙阴综合",
+        "epgid": "临沂蒙阴综合",
+        "name": "蒙阴综合,临沂蒙阴综合",
+        "status": "1",
+        "note": "临沂蒙阴综合",
+        "logo": "http://192.168.100.1:6086/3/蒙阴综合.png"
+    },
+    {
+        "tvid": "临沂兰陵综合",
+        "epgid": "临沂兰陵综合",
+        "name": "兰陵综合,临沂兰陵综合",
+        "status": "1",
+        "note": "临沂兰陵综合",
+        "logo": "http://192.168.100.1:6086/3/兰陵综合.png"
+    },
+    {
+        "tvid": "临沭综合",
+        "epgid": "临沭综合",
+        "name": "临沭综合",
+        "status": "1",
+        "note": "临沭综合",
+        "logo": "http://192.168.100.1:6086/3/临沭综合.png"
+    },
+    {
+        "tvid": "河东综合",
+        "epgid": "河东综合",
+        "name": "河东综合",
+        "status": "1",
+        "note": "河东综合",
+        "logo": "http://192.168.100.1:6086/3/河东综合.png"
+    },
+    {
+        "tvid": "兰陵公共",
+        "epgid": "兰陵公共",
+        "name": "兰陵公共",
+        "status": "1",
+        "note": "兰陵公共",
+        "logo": "http://192.168.100.1:6086/3/兰陵公共.png"
+    },
+    {
+        "tvid": "沂水综合",
+        "epgid": "沂水综合",
+        "name": "沂水综合",
+        "status": "1",
+        "note": "沂水综合",
+        "logo": "http://192.168.100.1:6086/3/沂水综合.png"
+    },
+    {
+        "tvid": "沂水生活",
+        "epgid": "沂水生活",
+        "name": "沂水生活",
+        "status": "1",
+        "note": "沂水生活",
+        "logo": "http://192.168.100.1:6086/3/沂水生活.png"
+    },
+    {
+        "tvid": "莒南综合",
+        "epgid": "莒南综合",
+        "name": "莒南综合,莒南综合-SD",
+        "status": "1",
+        "note": "莒南综合",
+        "logo": "http://192.168.100.1:6086/3/莒南综合.png"
+    },
+    {
+        "tvid": "德州新闻",
+        "epgid": "德州新闻",
+        "name": "德州新闻",
+        "status": "1",
+        "note": "德州新闻",
+        "logo": "http://192.168.100.1:6086/3/德州新闻.png"
+    },
+    {
+        "tvid": "德州经济生活",
+        "epgid": "德州经济生活",
+        "name": "德州经济生活",
+        "status": "1",
+        "note": "德州经济生活",
+        "logo": "http://192.168.100.1:6086/3/德州经济生活.png"
+    },
+    {
+        "tvid": "宁津综合",
+        "epgid": "宁津综合",
+        "name": "宁津综合",
+        "status": "1",
+        "note": "宁津综合",
+        "logo": "http://192.168.100.1:6086/3/宁津综合.png"
+    },
+    {
+        "tvid": "齐河综合",
+        "epgid": "齐河综合",
+        "name": "齐河综合",
+        "status": "1",
+        "note": "齐河综合",
+        "logo": "http://192.168.100.1:6086/3/齐河综合.png"
+    },
+    {
+        "tvid": "武城综合频道",
+        "epgid": "武城综合频道",
+        "name": "武城综合,武城综合频道",
+        "status": "1",
+        "note": "武城综合频道",
+        "logo": "http://192.168.100.1:6086/3/武城综合.png"
+    },
+    {
+        "tvid": "武城综艺影视",
+        "epgid": "武城综艺影视",
+        "name": "武城综艺影视",
+        "status": "1",
+        "note": "武城综艺影视",
+        "logo": "http://192.168.100.1:6086/3/武城综艺影视.png"
+    },
+    {
+        "tvid": "禹城综合",
+        "epgid": "禹城综合",
+        "name": "禹城综合",
+        "status": "1",
+        "note": "禹城综合",
+        "logo": "http://192.168.100.1:6086/3/禹城综合.png"
+    },
+    {
+        "tvid": "禹城综艺",
+        "epgid": "禹城综艺",
+        "name": "禹城综艺",
+        "status": "1",
+        "note": "禹城综艺",
+        "logo": "http://192.168.100.1:6086/3/禹城综艺.png"
+    },
+    {
+        "tvid": "平原综合",
+        "epgid": "平原综合",
+        "name": "平原综合",
+        "status": "1",
+        "note": "平原综合",
+        "logo": "http://192.168.100.1:6086/3/平原综合.png"
+    },
+    {
+        "tvid": "夏津综合",
+        "epgid": "夏津综合",
+        "name": "夏津综合",
+        "status": "1",
+        "note": "夏津综合",
+        "logo": "http://192.168.100.1:6086/3/夏津综合.png"
+    },
+    {
+        "tvid": "夏津公共",
+        "epgid": "夏津公共",
+        "name": "夏津公共",
+        "status": "1",
+        "note": "夏津公共",
+        "logo": "http://192.168.100.1:6086/3/夏津公共.png"
+    },
+    {
+        "tvid": "陵城综合",
+        "epgid": "陵城综合",
+        "name": "陵城综合",
+        "status": "1",
+        "note": "陵城综合",
+        "logo": "http://192.168.100.1:6086/3/陵城综合.png"
+    },
+    {
+        "tvid": "临邑综合",
+        "epgid": "临邑综合",
+        "name": "临邑综合",
+        "status": "1",
+        "note": "临邑综合",
+        "logo": "http://192.168.100.1:6086/3/临邑综合.png"
+    },
+    {
+        "tvid": "菏泽HZTV-1",
+        "epgid": "菏泽HZTV-1",
+        "name": "菏泽HZTV-1,菏泽HZTV-1-SD,菏泽新闻综合",
+        "status": "1",
+        "note": "菏泽HZTV-1",
+        "logo": "http://192.168.100.1:6086/3/菏泽HZTV-1.png"
+    },
+    {
+        "tvid": "菏泽HZTV-2",
+        "epgid": "菏泽HZTV-2",
+        "name": "菏泽HZTV-2,菏泽HZTV-2-SD,菏泽经济生活",
+        "status": "1",
+        "note": "菏泽HZTV-2",
+        "logo": "http://192.168.100.1:6086/3/菏泽HZTV-2.png"
+    },
+    {
+        "tvid": "菏泽HZTV-3",
+        "epgid": "菏泽HZTV-3",
+        "name": "菏泽HZTV-3,菏泽HZTV-3-SD,菏泽影视",
+        "status": "1",
+        "note": "菏泽HZTV-2",
+        "logo": "http://192.168.100.1:6086/3/菏泽HZTV-3.png"
+    },
+    {
+        "tvid": "鄄城综合",
+        "epgid": "鄄城综合",
+        "name": "鄄城综合,鄄城综合-SD",
+        "status": "1",
+        "note": "鄄城综合",
+        "logo": "http://192.168.100.1:6086/3/鄄城综合.png"
+    },
+    {
+        "tvid": "东明TV-1",
+        "epgid": "东明TV-1",
+        "name": "东明TV-1,东明TV-1-SD",
+        "status": "1",
+        "note": "东明TV-1",
+        "logo": "http://192.168.100.1:6086/3/东明TV-1.png"
+    },
+    {
+        "tvid": "郓城新闻",
+        "epgid": "郓城新闻",
+        "name": "郓城新闻",
+        "status": "1",
+        "note": "郓城新闻",
+        "logo": "http://192.168.100.1:6086/3/郓城新闻.png"
+    },
+    {
+        "tvid": "定陶TV-1",
+        "epgid": "定陶TV-1",
+        "name": "定陶TV-1",
+        "status": "1",
+        "note": "定陶TV-1",
+        "logo": "http://192.168.100.1:6086/3/定陶TV-1.png"
+    },
+    {
+        "tvid": "单县综合",
+        "epgid": "单县综合",
+        "name": "单县综合",
+        "status": "1",
+        "note": "单县综合",
+        "logo": "http://192.168.100.1:6086/3/单县综合.png"
+    },
+    {
+        "tvid": "巨野新闻",
+        "epgid": "巨野新闻",
+        "name": "巨野新闻",
+        "status": "1",
+        "note": "巨野新闻",
+        "logo": "http://192.168.100.1:6086/3/巨野新闻.png"
+    },
+    {
+        "tvid": "莘县综合",
+        "epgid": "莘县综合",
+        "name": "莘县综合",
+        "status": "1",
+        "note": "莘县综合",
+        "logo": "http://192.168.100.1:6086/3/莘县综合.png"
+    },
+    {
+        "tvid": "济宁任城-1",
+        "epgid": "济宁任城-1",
+        "name": "济宁任城-1,济宁任城1",
+        "status": "1",
+        "note": "济宁任城-1",
+        "logo": "http://192.168.100.1:6086/3/济宁任城-1.png"
+    },
+    {
+        "tvid": "济宁任城-2",
+        "epgid": "济宁任城-2",
+        "name": "济宁任城-2,济宁任城2",
+        "status": "1",
+        "note": "济宁任城-2",
+        "logo": "http://192.168.100.1:6086/3/济宁任城-2.png"
+    },
+    {
+        "tvid": "济宁生活",
+        "epgid": "济宁生活",
+        "name": "济宁生活,济宁生活-SD",
+        "status": "1",
+        "note": "济宁生活",
+        "logo": "http://192.168.100.1:6086/3/济宁生活.png"
+    },
+    {
+        "tvid": "济宁公共",
+        "epgid": "济宁公共",
+        "name": "济宁公共,济宁公共-SD",
+        "status": "1",
+        "note": "济宁公共",
+        "logo": "http://192.168.100.1:6086/3/济宁公共.png"
+    },
+    {
+        "tvid": "济宁高新",
+        "epgid": "济宁高新",
+        "name": "济宁高新",
+        "status": "1",
+        "note": "济宁高新",
+        "logo": "http://192.168.100.1:6086/3/济宁高新.png"
+    },
+    {
+        "tvid": "济宁综合",
+        "epgid": "济宁综合",
+        "name": "济宁综合",
+        "status": "1",
+        "note": "济宁综合",
+        "logo": "http://192.168.100.1:6086/3/济宁综合.png"
+    },
+    {
+        "tvid": "梁山综合",
+        "epgid": "梁山综合",
+        "name": "梁山综合",
+        "status": "1",
+        "note": "梁山综合",
+        "logo": "http://192.168.100.1:6086/3/梁山综合.png"
+    },
+    {
+        "tvid": "嘉祥综合",
+        "epgid": "嘉祥综合",
+        "name": "嘉祥综合",
+        "status": "1",
+        "note": "嘉祥综合",
+        "logo": "http://192.168.100.1:6086/3/嘉祥综合.png"
+    },
+    {
+        "tvid": "兖州新闻",
+        "epgid": "兖州新闻",
+        "name": "兖州新闻",
+        "status": "1",
+        "note": "兖州新闻",
+        "logo": "http://192.168.100.1:6086/3/兖州新闻.png"
+    },
+	    {
+        "tvid": "汶上综合",
+        "epgid": "汶上综合",
+        "name": "汶上综合",
+        "status": "1",
+        "note": "汶上综合",
+        "logo": "http://192.168.100.1:6086/3/汶上综合.png"
+    },
+    {
+        "tvid": "曲阜新闻综合",
+        "epgid": "曲阜新闻综合",
+        "name": "曲阜新闻,曲阜新闻综合",
+        "status": "1",
+        "note": "曲阜新闻综合",
+        "logo": "http://192.168.100.1:6086/3/曲阜新闻.png"
+    },
+    {
+        "tvid": "邹城综合",
+        "epgid": "邹城综合",
+        "name": "邹城综合",
+        "status": "1",
+        "note": "邹城综合",
+        "logo": "http://192.168.100.1:6086/3/邹城综合.png"
+    },
+    {
+        "tvid": "鱼台生活",
+        "epgid": "鱼台生活",
+        "name": "鱼台生活",
+        "status": "1",
+        "note": "鱼台生活",
+        "logo": "http://192.168.100.1:6086/3/鱼台生活.png"
+    },
+    {
+        "tvid": "鱼台新闻",
+        "epgid": "鱼台新闻",
+        "name": "鱼台综合,鱼台新闻",
+        "status": "1",
+        "note": "鱼台新闻",
+        "logo": "http://192.168.100.1:6086/3/鱼台综合.png"
+    },
+    {
+        "tvid": "潍坊综合",
+        "epgid": "潍坊综合",
+        "name": "潍坊综合",
+        "status": "1",
+        "note": "潍坊综合",
+        "logo": "http://192.168.100.1:6086/3/潍坊综合.png"
+    },
+    {
+        "tvid": "潍坊经济生活",
+        "epgid": "潍坊经济生活",
+        "name": "潍坊经济生活",
+        "status": "1",
+        "note": "潍坊经济生活",
+        "logo": "http://192.168.100.1:6086/3/潍坊经济生活.png"
+    },
+    {
+        "tvid": "潍坊高新",
+        "epgid": "潍坊高新",
+        "name": "潍坊高新",
+        "status": "1",
+        "note": "潍坊高新",
+        "logo": "http://192.168.100.1:6086/3/潍坊高新.png"
+    },
+    {
+        "tvid": "潍坊影视综艺",
+        "epgid": "潍坊影视综艺",
+        "name": "潍坊影视,潍坊影视综艺",
+        "status": "1",
+        "note": "潍坊影视综艺",
+        "logo": "http://192.168.100.1:6086/3/潍坊影视.png"
+    },
+    {
+        "tvid": "潍坊科教文旅",
+        "epgid": "潍坊科教文旅",
+        "name": "潍坊科教,潍坊科教文旅",
+        "status": "1",
+        "note": "潍坊科教文旅",
+        "logo": "http://192.168.100.1:6086/3/潍坊科教.png"
+    },
+    {
+        "tvid": "高密综合",
+        "epgid": "高密综合",
+        "name": "高密综合",
+        "status": "1",
+        "note": "高密综合",
+        "logo": "http://192.168.100.1:6086/3/高密综合.png"
+    },
+    {
+        "tvid": "安丘综合",
+        "epgid": "安丘综合",
+        "name": "安丘综合",
+        "status": "1",
+        "note": "安丘综合",
+        "logo": "http://192.168.100.1:6086/3/安丘综合.png"
+    },
+    {
+        "tvid": "昌乐综合",
+        "epgid": "昌乐综合",
+        "name": "昌乐综合",
+        "status": "1",
+        "note": "昌乐综合",
+        "logo": "http://192.168.100.1:6086/3/昌乐综合.png"
+    },
+    {
+        "tvid": "青州综合",
+        "epgid": "青州综合",
+        "name": "青州综合",
+        "status": "1",
+        "note": "青州综合",
+        "logo": "http://192.168.100.1:6086/3/青州综合.png"
+    },
+    {
+        "tvid": "青州文化旅游",
+        "epgid": "青州文化旅游",
+        "name": "青州文旅,青州文化旅游",
+        "status": "1",
+        "note": "青州文化旅游",
+        "logo": "http://192.168.100.1:6086/3/青州文旅.png"
+    },
+    {
+        "tvid": "昌邑综合",
+        "epgid": "昌邑综合",
+        "name": "昌邑综合",
+        "status": "1",
+        "note": "昌邑综合",
+        "logo": "http://192.168.100.1:6086/3/昌邑综合.png"
+    },
+    {
+        "tvid": "临朐综合",
+        "epgid": "临朐综合",
+        "name": "临朐综合",
+        "status": "1",
+        "note": "临朐综合",
+        "logo": "http://192.168.100.1:6086/3/临朐综合.png"
+    },
+    {
+        "tvid": "寿光蔬菜",
+        "epgid": "寿光蔬菜",
+        "name": "寿光蔬菜",
+        "status": "1",
+        "note": "寿光蔬菜",
+        "logo": "http://192.168.100.1:6086/3/寿光蔬菜.png"
+    },
+    {
+        "tvid": "寿光综合",
+        "epgid": "寿光综合",
+        "name": "寿光综合,寿光综合-SD",
+        "status": "1",
+        "note": "寿光综合",
+        "logo": "http://192.168.100.1:6086/3/寿光综合.png"
+    },
+    {
+        "tvid": "诸城新闻综合",
+        "epgid": "诸城新闻综合",
+        "name": "诸城新闻,诸城新闻综合,诸城新闻综合-SD",
+        "status": "1",
+        "note": "诸城新闻综合",
+        "logo": "http://192.168.100.1:6086/3/诸城新闻.png"
+    },
+    {
+        "tvid": "滨州新闻综合",
+        "epgid": "滨州新闻综合",
+        "name": "滨州新闻综合,滨州新闻,滨州综合,滨州新闻综合-SD",
+        "status": "1",
+        "note": "滨州新闻综合",
+        "logo": "http://192.168.100.1:6086/3/滨州综合.png"
+    },
+    {
+        "tvid": "滨州民生",
+        "epgid": "滨州民生",
+        "name": "滨州民生,滨州民生-SD",
+        "status": "1",
+        "note": "滨州民生",
+        "logo": "http://192.168.100.1:6086/3/滨州民生.png"
+    },
+    {
+        "tvid": "惠民综合",
+        "epgid": "惠民综合",
+        "name": "惠民综合,惠民综合-SD",
+        "status": "1",
+        "note": "惠民综合",
+        "logo": "http://192.168.100.1:6086/3/惠民综合.png"
+    },
+    {
+        "tvid": "沾化综合",
+        "epgid": "沾化综合",
+        "name": "沾化综合",
+        "status": "1",
+        "note": "沾化综合",
+        "logo": "http://192.168.100.1:6086/3/沾化综合.png"
+    },
+    {
+        "tvid": "阳信新闻综合",
+        "epgid": "阳信新闻综合",
+        "name": "阳信新闻综合",
+        "status": "1",
+        "note": "阳信新闻综合",
+        "logo": "http://192.168.100.1:6086/3/阳信新闻综合.png"
+    },
+    {
+        "tvid": "无棣综合",
+        "epgid": "无棣综合",
+        "name": "无棣综合",
+        "status": "1",
+        "note": "无棣综合",
+        "logo": "http://192.168.100.1:6086/3/无棣综合.png"
+    },
+    {
+        "tvid": "邹平综合",
+        "epgid": "邹平综合",
+        "name": "邹平综合",
+        "status": "1",
+        "note": "邹平综合",
+        "logo": "http://192.168.100.1:6086/3/邹平综合.png"
+    },
+    {
+        "tvid": "聊城综合",
+        "epgid": "聊城综合",
+        "name": "聊城综合",
+        "status": "1",
+        "note": "聊城综合",
+        "logo": "http://192.168.100.1:6086/3/聊城综合.png"
+    },
+    {
+        "tvid": "聊城民生",
+        "epgid": "聊城民生",
+        "name": "聊城民生",
+        "status": "1",
+        "note": "聊城民生",
+        "logo": "http://192.168.100.1:6086/3/聊城民生.png"
+    },
+    {
+        "tvid": "冠县综合",
+        "epgid": "冠县综合",
+        "name": "冠县综合,冠县综合-SD",
+        "status": "1",
+        "note": "冠县综合",
+        "logo": "http://192.168.100.1:6086/3/冠县综合.png"
+    },
+    {
+        "tvid": "茌平综合",
+        "epgid": "茌平综合",
+        "name": "茌平综合",
+        "status": "1",
+        "note": "茌平综合",
+        "logo": "http://192.168.100.1:6086/3/茌平综合.png"
+    },
+    {
+        "tvid": "东阿综合",
+        "epgid": "东阿综合",
+        "name": "东阿综合",
+        "status": "1",
+        "note": "东阿综合",
+        "logo": "http://192.168.100.1:6086/3/东阿综合.png"
+    },
+    {
+        "tvid": "临清综合",
+        "epgid": "临清综合",
+        "name": "临清综合",
+        "status": "1",
+        "note": "临清综合",
+        "logo": "http://192.168.100.1:6086/3/临清综合.png"
+    },
+    {
+        "tvid": "东营广饶综合",
+        "epgid": "东营广饶综合",
+        "name": "广饶综合,东营广饶综合",
+        "status": "1",
+        "note": "东营广饶综合",
+        "logo": "http://192.168.100.1:6086/3/广饶综合.png"
+    },
+    {
+        "tvid": "东营新闻综合",
+        "epgid": "东营新闻综合",
+        "name": "东营新闻,东营综合,东营新闻综合,东营新闻综合-SD",
+        "status": "1",
+        "note": "东营新闻综合",
+        "logo": "http://192.168.100.1:6086/3/东营综合.png"
+    },
+    {
+        "tvid": "东营公共",
+        "epgid": "东营公共",
+        "name": "东营公共,东营公共-SD",
+        "status": "1",
+        "note": "东营公共",
+        "logo": "http://192.168.100.1:6086/3/东营公共.png"
+    },
+    {
+        "tvid": "日照岚山",
+        "epgid": "日照岚山",
+        "name": "日照岚山",
+        "status": "1",
+        "note": "日照岚山",
+        "logo": "http://192.168.100.1:6086/3/日照岚山.png"
+    },
+    {
+        "tvid": "莒县综合",
+        "epgid": "莒县综合",
+        "name": "日照莒县,莒县综合",
+        "status": "1",
+        "note": "莒县综合",
+        "logo": "http://192.168.100.1:6086/3/莒县综合.png"
+    },
+    {
+        "tvid": "日照新闻综合",
+        "epgid": "日照新闻综合",
+        "name": "日照综合,日照新闻,日照新闻综合,日照新闻综合-SD",
+        "status": "1",
+        "note": "日照新闻综合",
+        "logo": "http://192.168.100.1:6086/3/日照综合.png"
+    },
+    {
+        "tvid": "日照公共",
+        "epgid": "日照公共",
+        "name": "日照公共,日照公共-SD",
+        "status": "1",
+        "note": "日照公共",
+        "logo": "http://192.168.100.1:6086/3/日照公共.png"
+    },
+    {
+        "tvid": "日照科教",
+        "epgid": "日照科教",
+        "name": "日照科教,日照科教-SD",
+        "status": "1",
+        "note": "日照科教",
+        "logo": "http://192.168.100.1:6086/3/日照科教.png"
+    },
+    {
+        "tvid": "日照五莲综合",
+        "epgid": "日照五莲综合",
+        "name": "日照五莲,日照五莲综合,五莲综合,五莲新闻,日照五莲综合-SD",
+        "status": "1",
+        "note": "日照五莲综合",
+        "logo": "http://192.168.100.1:6086/3/日照五莲.png"
+    },
+    {
+      "tvid": "CETV1",
+      "epgid": "CETV1",
+      "name": "中国教育CETV1,CETV1,CETV-1,中国教育电视台1,中国教育电视台-1",
+      "status": "1",
+      "note": "CETV1",
+      "logo": "http://192.168.100.1:6086/4/CETV1.png"
+    },
+    {
+      "tvid": "CETV2",
+      "epgid": "CETV2",
+      "name": "中国教育CETV2-SD,中国教育CETV2,CETV2,CETV2-SD,CETV-2,中国教育电视台2,中国教育电视台-2",
+      "status": "1",
+      "note": "CETV2",
+      "logo": "http://192.168.100.1:6086/4/CETV2.png"
+    },
+    {
+      "tvid": "CETV3",
+      "epgid": "CETV3",
+      "name": "中国教育CETV3,CETV3,CETV-3,中国教育电视台3,中国教育电视台-3",
+      "status": "1",
+      "note": "CETV3",
+      "logo": "https://gongdian.top/logo/tv/CETV3.png"
+    },
+    {
+      "tvid": "CETV4",
+      "epgid": "CETV4",
+      "name": "中国教育CETV4,CETV4,CETV-4,中国教育电视台4,中国教育电视台-4",
+      "status": "1",
+      "note": "CETV4",
+      "logo": "http://192.168.100.1:6086/4/CETV4.png"
+    },
+    {
+      "tvid": "CCTV文化精品",
+      "epgid": "CCTV文化精品",
+      "name": "CCTV文化精品",
+      "status": "1",
+      "note": "CCTV文化精品",
+      "logo": "https://gongdian.top/logo/tv/CCTV文化精品.png"
+    },
+    {
+      "tvid": "CCTV世界地理",
+      "epgid": "CCTV世界地理",
+      "name": "CCTV世界地理",
+      "status": "1",
+      "note": "CCTV世界地理",
+      "logo": "https://gongdian.top/logo/tv/CCTV世界地理.png"
+    },
+    {
+      "tvid": "CCTV高尔夫网球",
+      "epgid": "CCTV高尔夫网球",
+      "name": "CCTV高尔夫网球",
+      "status": "1",
+      "note": "CCTV高尔夫网球",
+      "logo": "https://gongdian.top/logo/tv/CCTV高尔夫网球.png"
+    },
+    {
+      "tvid": "CCTV央视台球",
+      "epgid": "CCTV央视台球",
+      "name": "CCTV央视台球",
+      "status": "1",
+      "note": "CCTV央视台球",
+      "logo": "https://gongdian.top/logo/tv/CCTV央视台球.png"
+    },
+    {
+      "tvid": "CCTV风云音乐",
+      "epgid": "CCTV风云音乐",
+      "name": "CCTV风云音乐",
+      "status": "1",
+      "note": "CCTV风云音乐",
+      "logo": "https://gongdian.top/logo/tv/CCTV风云音乐.png"
+    },
+    {
+      "tvid": "CCTV怀旧剧场",
+      "epgid": "CCTV怀旧剧场",
+      "name": "CCTV怀旧剧场",
+      "status": "1",
+      "note": "CCTV怀旧剧场",
+      "logo": "https://gongdian.top/logo/tv/CCTV怀旧剧场.png"
+    },
+    {
+      "tvid": "CCTV风云剧场",
+      "epgid": "CCTV风云剧场",
+      "name": "CCTV风云剧场",
+      "status": "1",
+      "note": "CCTV风云剧场",
+      "logo": "https://gongdian.top/logo/tv/CCTV风云剧场.png"
+    },
+    {
+      "tvid": "CCTV第一剧场",
+      "epgid": "CCTV第一剧场",
+      "name": "CCTV第一剧场",
+      "status": "1",
+      "note": "CCTV第一剧场",
+      "logo": "https://gongdian.top/logo/tv/CCTV第一剧场.png"
+    },
+    {
+      "tvid": "CCTV兵器科技",
+      "epgid": "CCTV兵器科技",
+      "name": "CCTV兵器科技",
+      "status": "1",
+      "note": "CCTV兵器科技",
+      "logo": "https://gongdian.top/logo/tv/CCTV兵器科技.png"
+    },
+    {
+      "tvid": "CCTV电视指南",
+      "epgid": "CCTV电视指南",
+      "name": "CCTV电视指南",
+      "status": "1",
+      "note": "CCTV兵器科技",
+      "logo": "https://gongdian.top/logo/tv/CCTV电视指南.png"
+    },
+	{
+      "tvid": "CCTV女性时尚",
+      "epgid": "CCTV女性时尚",
+      "name": "CCTV女性时尚",
+      "status": "1",
+      "note": "CCTV女性时尚",
+      "logo": "https://gongdian.top/logo/tv/CCTV女性时尚.png"
+    },
+	{
+      "tvid": "CCTV卫生健康",
+      "epgid": "CCTV卫生健康",
+      "name": "CCTV卫生健康",
+      "status": "1",
+      "note": "CCTV卫生健康",
+      "logo": "https://gongdian.top/logo/tv/CCTV卫生健康.png"
+    },
+	{
+      "tvid": "发现之旅",
+      "epgid": "发现之旅",
+      "name": "中央新影-发现之旅,发现之旅",
+      "status": "1",
+      "note": "发现之旅",
+      "logo": "https://gongdian.top/logo/tv/发现之旅.png"
+    },
+	{
+      "tvid": "老故事",
+      "epgid": "老故事",
+      "name": "中央新影-老故事,老故事",
+      "status": "1",
+      "note": "老故事",
+      "logo": "https://gongdian.top/logo/tv/老故事.png"
+    },
+    {
+      "tvid": "安多卫视",
+      "epgid": "安多卫视",
+      "name": "安多卫视",
+      "status": "1",
+      "note": "安多卫视",
+      "logo": "https://gongdian.top/logo/tv/安多卫视.png"
+    },
+    {
+      "tvid": "TVBS欢乐台",
+      "epgid": "TVBS欢乐台",
+      "name": "TVBS欢乐台",
+      "status": "1",
+      "note": "TVBS欢乐台",
+      "logo": "https://gongdian.top/logo/tv/TVBS欢乐台.png"
+    },
+    {
+      "tvid": "TVBS新闻台",
+      "epgid": "TVBS新闻台",
+      "name": "TVBS新闻台",
+      "status": "1",
+      "note": "TVBS新闻台",
+      "logo": "https://gongdian.top/logo/tv/TVBS新闻台.png"
+    },
+    {
+      "tvid": "面包台",
+      "epgid": "面包台",
+      "name": "面包台",
+      "status": "1",
+      "note": "TVB星河",
+      "logo": "https://gongdian.top/logo/tv/面包台.png"
+    },
+    {
+      "tvid": "番薯台",
+      "epgid": "番薯台",
+      "name": "番薯台",
+      "status": "1",
+      "note": "TVB星河",
+      "logo": "https://gongdian.top/logo/tv/番薯台.png"
+    },
+    {
+      "tvid": "点掌财经",
+      "epgid": "点掌财经",
+      "name": "点掌财经",
+      "status": "1",
+      "note": "TVB星河",
+      "logo": "https://gongdian.top/logo/tv/点掌财经.png"
+    },
+    {
+      "tvid": "TVB星河",
+      "epgid": "TVB星河",
+      "name": "TVB星河",
+      "status": "1",
+      "note": "TVB星河",
+      "logo": "https://gongdian.top/logo/tv/TVB星河.png"
+    },
+    {
+      "tvid": "翡翠台",
+      "epgid": "翡翠台",
+      "name": "TVB翡翠台,翡翠台,翡翠台4K",
+      "status": "1",
+      "note": "翡翠台",
+      "logo": "http://192.168.100.1:6086/5/翡翠台.png"
+    },
+    {
+      "tvid": "54",
+      "epgid": "黄河卫视",
+      "name": "黄河卫视,黄河电视台,黄河台",
+      "status": "1",
+      "note": "黄河台",
+      "logo": "https://gongdian.top/logo/tv/黄河台.png"
+    },
+    {
+      "tvid": "康巴卫视",
+      "epgid": "康巴卫视",
+      "name": "康巴卫视",
+      "status": "1",
+      "note": "康巴卫视",
+      "logo": "https://gongdian.top/logo/tv/康巴卫视.png"
+    },
+    {
+      "tvid": "北京纪实科教",
+      "epgid": "北京纪实科教",
+      "name": "北京纪实,北京纪实科教,北京纪实科教-HEVC,纪实科教,北京纪实科教8K",
+      "status": "1",
+      "note": "北京纪实科教",
+      "logo": "http://192.168.100.1:6086/4/北京纪实科教.png"
+    },
+    {
+      "tvid": "北京卡酷少儿",
+      "epgid": "北京卡酷少儿",
+      "name": "北京卡酷少儿,卡酷少儿",
+      "status": "1",
+      "note": "北京卡酷少儿",
+      "logo": "http://192.168.100.1:6086/4/卡酷少儿.png"
+    },
+    {
+      "tvid": "上海ICS外语",
+      "epgid": "上海ICS外语",
+      "name": "上海ICS外语,上海-ICS-外语,上海外语",
+      "status": "1",
+      "note": "上海ICS外语",
+      "logo": "https://gongdian.top/logo/tv/上海外语.png"
+    },
+    {
+      "tvid": "上海第一财经",
+      "epgid": "上海第一财经",
+      "name": "上海第一财经",
+      "status": "1",
+      "note": "上海第一财经",
+      "logo": "https://gongdian.top/logo/tv/上海第一财经.png"
+    },
+    {
+      "tvid": "中华特产",
+      "epgid": "中华特产",
+      "name": "中华特产,中华特产-SD",
+      "status": "1",
+      "note": "中华特产",
+      "logo": "http://192.168.100.1:6086/4/中华特产.png"
+    },
+    {
+      "tvid": "重庆汽摩",
+      "epgid": "重庆汽摩",
+      "name": "汽摩,重庆汽摩",
+      "status": "1",
+      "note": "重庆汽摩",
+      "logo": "http://192.168.100.1:6086/4/重庆汽摩.png"
+    },
+    {
+      "tvid": "上海东方财经",
+      "epgid": "上海东方财经",
+      "name": "上海东方财经,东方财经",
+      "status": "1",
+      "note": "上海东方财经",
+      "logo": "http://192.168.100.1:6086/4/东方财经.png"
+    },
+    {
+      "tvid": "中国交通",
+      "epgid": "中国交通",
+      "name": "中国交通",
+      "status": "1",
+      "note": "中国交通",
+      "logo": "http://192.168.100.1:6086/4/中国交通.png"
+    },
+    {
+      "tvid": "海洋频道",
+      "epgid": "海洋频道",
+      "name": "海洋频道",
+      "status": "1",
+      "note": "海洋频道",
+      "logo": "http://192.168.100.1:6086/4/海洋频道.png"
+    },
+    {
+      "tvid": "上海东方影视",
+      "epgid": "上海东方影视",
+      "name": "上海东方影视,东方影视",
+      "status": "1",
+      "note": "上海东方影视",
+      "logo": "https://gongdian.top/logo/tv/东方影视.png"
+    },
+    {
+      "tvid": "上海都市",
+      "epgid": "上海都市",
+      "name": "上海都市",
+      "status": "1",
+      "note": "上海都市",
+      "logo": "https://gongdian.top/logo/tv/上海都市.png"
+    },
+    {
+      "tvid": "上海哈哈炫动",
+      "epgid": "上海哈哈炫动",
+      "name": "上海哈哈炫动,哈哈炫动,哈哈炫动-SD",
+      "status": "1",
+      "note": "上海哈哈炫动",
+      "logo": "http://192.168.100.1:6086/4/哈哈炫动.png"
+    },
+    {
+      "tvid": "上海纪实人文",
+      "epgid": "上海纪实人文",
+      "name": "上海纪实人文,上海纪实人文-HEVC,上海纪实人文-50-FPS,纪实人文",
+      "status": "1",
+      "note": "上海纪实人文",
+      "logo": "https://gongdian.top/logo/tv/纪实人文.png"
+    },
+    {
+      "tvid": "上海五星体育",
+      "epgid": "上海五星体育",
+      "name": "上海五星体育,五星体育",
+      "status": "1",
+      "note": "上海五星体育",
+      "logo": "https://gongdian.top/logo/tv/五星体育.png"
+    },
+    {
+      "tvid": "上海新闻综合",
+      "epgid": "上海新闻综合",
+      "name": "上海新闻综合,上海新闻,上视新闻",
+      "status": "1",
+      "note": "上海新闻综合",
+      "logo": "https://gongdian.top/logo/tv/上视新闻.png"
+    },
+    {
+      "tvid": "湖南金鹰纪实",
+      "epgid": "湖南金鹰纪实",
+      "name": "湖南金鹰纪实,金鹰纪实",
+      "status": "1",
+      "note": "湖南金鹰纪实",
+      "logo": "http://192.168.100.1:6086/4/金鹰纪实.png"
+    },
+    {
+      "tvid": "湖南金鹰卡通",
+      "epgid": "湖南金鹰卡通",
+      "name": "湖南金鹰卡通,金鹰卡通",
+      "status": "1",
+      "note": "湖南金鹰卡通",
+      "logo": "http://192.168.100.1:6086/4/金鹰卡通.png"
+    },
+    {
+      "tvid": "湖南快乐垂钓",
+      "epgid": "湖南快乐垂钓",
+      "name": "湖南快乐垂钓,快乐垂钓",
+      "status": "1",
+      "note": "湖南快乐垂钓",
+      "logo": "http://192.168.100.1:6086/4/快乐垂钓.png"
+    },
+    {
+      "tvid": "茶",
+      "epgid": "茶",
+      "name": "湖南茶频道,茶频道,茶",
+      "status": "1",
+      "note": "茶",
+      "logo": "http://192.168.100.1:6086/4/茶频道.png"
+    },
+    {
+      "tvid": "湖南经视",
+      "epgid": "湖南经视",
+      "name": "湖南经视",
+      "status": "1",
+      "note": "湖南经视",
+      "logo": "http://192.168.100.1:6086/5/湖南经视.png"
+    },
+    {
+      "tvid": "湖南都市",
+      "epgid": "湖南都市",
+      "name": "湖南都市",
+      "status": "1",
+      "note": "湖南都市",
+      "logo": "http://192.168.100.1:6086/5/湖南都市.png"
+    },
+    {
+      "tvid": "湖南爱晚",
+      "epgid": "湖南爱晚",
+      "name": "湖南爱晚",
+      "status": "1",
+      "note": "湖南爱晚",
+      "logo": "http://192.168.100.1:6086/5/湖南爱晚.png"
+    },
+    {
+      "tvid": "湖南电影",
+      "epgid": "湖南电影",
+      "name": "湖南电影",
+      "status": "1",
+      "note": "湖南电影",
+      "logo": "http://192.168.100.1:6086/5/湖南电影.png"
+    },
+    {
+      "tvid": "湖南电视剧",
+      "epgid": "湖南电视剧",
+      "name": "湖南电视剧",
+      "status": "1",
+      "note": "湖南电视剧",
+      "logo": "http://192.168.100.1:6086/5/湖南电视剧.png"
+    },
+    {
+      "tvid": "湖南娱乐",
+      "epgid": "湖南娱乐",
+      "name": "湖南娱乐",
+      "status": "1",
+      "note": "湖南娱乐",
+      "logo": "http://192.168.100.1:6086/5/湖南娱乐.png"
+    },
+    {
+      "tvid": "湖南国际",
+      "epgid": "湖南国际",
+      "name": "湖南国际",
+      "status": "1",
+      "note": "湖南国际",
+      "logo": "http://192.168.100.1:6086/5/湖南国际.png"
+    },
+    {
+      "tvid": "财富天下",
+      "epgid": "财富天下",
+      "name": "财富天下,财富天下-SD",
+      "status": "1",
+      "note": "财富天下",
+      "logo": "http://192.168.100.1:6086/4/财富天下.png"
+    },
+    {
+      "tvid": "文物宝库",
+      "epgid": "文物宝库",
+      "name": "文物宝库",
+      "status": "1",
+      "note": "文物宝库",
+      "logo": "http://192.168.100.1:6086/4/文物宝库.png"
+    },
+    {
+      "tvid": "梨园频道",
+      "epgid": "梨园频道",
+      "name": "梨园频道,梨园",
+      "status": "1",
+      "note": "梨园频道",
+      "logo": "http://192.168.100.1:6086/4/梨园频道.png"
+    },
+    {
+      "tvid": "武术世界",
+      "epgid": "武术世界",
+      "name": "武术世界",
+      "status": "1",
+      "note": "武术世界",
+      "logo": "http://192.168.100.1:6086/4/武术世界.png"
+    },
+    {
+      "tvid": "新动漫",
+      "epgid": "新动漫",
+      "name": "新动漫-SD,新动漫",
+      "status": "1",
+      "note": "新动漫",
+      "logo": "http://192.168.100.1:6086/4/新动漫.png"
+    },
+    {
+      "tvid": "快乐购",
+      "epgid": "快乐购",
+      "name": "快乐购,快乐购-SD",
+      "status": "1",
+      "note": "快乐购",
+      "logo": "http://192.168.100.1:6086/4/快乐购.png"
+    },
+    {
+      "tvid": "65",
+      "epgid": "电竞天堂",
+      "name": "电竞天堂",
+      "status": "1",
+      "note": "电竞天堂",
+      "logo": "https://gongdian.top/logo/tv/dianjingtiantang.png"
+    },
+    {
+      "tvid": "经典电影",
+      "epgid": "IPTV经典电影",
+      "name": "IPTV经典电影,经典电影",
+      "status": "1",
+      "note": "IPTV经典电影",
+      "logo":"http://192.168.100.1:6086/4/经典电影.png"
+    },
+    {
+      "tvid": "69",
+      "epgid": "IPTV热播剧场",
+      "name": "IPTV热播剧场,热播剧场",
+      "status": "1",
+      "note": "IPTV热播剧场",
+      "logo": "http://192.168.100.1:6086/4/热播剧场.png"
+    },
+    {
+      "tvid": "风云足球",
+      "epgid": "风云足球",
+      "name": "中数风云足球,CCTV风云足球",
+      "status": "1",
+      "note": "风云足球",
+      "logo": "https://gongdian.top/logo/tv/风云足球.png"
+    },
+    {
+      "tvid": "天下足球",
+      "epgid": "天下足球",
+      "name": "天下足球,CCTV天下足球",
+      "status": "1",
+      "note": "风云足球",
+      "logo": "http://192.168.100.1:6086/4/天下足球.png"
+    },
+    {
+      "tvid": "求索科学",
+      "epgid": "求索科学",
+      "name": "华数求索科学,求索科学",
+      "status": "1",
+      "note": "华数求索科学",
+      "logo": "https://gongdian.top/logo/tv/求索科学.png"
+    },
+    {
+      "tvid": "求索纪录",
+      "epgid": "求索纪录",
+      "name": "求索纪录",
+      "status": "1",
+      "note": "求索纪录",
+      "logo": "http://192.168.100.1:6086/4/求索纪录.png"
+    },
+    {
+      "tvid": "求索动物",
+      "epgid": "求索动物",
+      "name": "华数求索动物,求索动物",
+      "status": "1",
+      "note": "华数求索动物",
+      "logo": "https://gongdian.top/logo/tv/求索动物.png"
+    },
+    {
+      "tvid": "求索生活",
+      "epgid": "求索生活",
+      "name": "华数求索生活,求索生活",
+      "status": "1",
+      "note": "华数求索生活",
+      "logo": "https://gongdian.top/logo/tv/求索生活.png"
+    },
+    {
+      "tvid": "求索记录",
+      "epgid": "求索记录",
+      "name": "华数求索记录,求索记录",
+      "status": "1",
+      "note": "华数求索记录",
+      "logo": "https://gongdian.top/logo/tv/求索记录.png"
+    },
+    {
+      "tvid": "CHC高清电影",
+      "epgid": "CHC高清电影",
+      "name": "CHC高清电影",
+      "status": "1",
+      "note": "CHC高清电影",
+      "logo": "http://192.168.100.1:6086/4/CHC高清电影.png"
+    },
+    {
+      "tvid": "CHC动作电影",
+      "epgid": "CHC动作电影",
+      "name": "CHC动作电影",
+      "status": "1",
+      "note": "CHC动作电影",
+      "logo": "http://192.168.100.1:6086/4/CHC动作电影.png"
+    },
+    {
+      "tvid": "CHC家庭影院",
+      "epgid": "CHC家庭影院",
+      "name": "CHC家庭电影,CHC家庭影院",
+      "status": "1",
+      "note": "CHC家庭影院",
+      "logo": "http://192.168.100.1:6086/4/CHC家庭影院.png"
+    },
+    {
+      "tvid": "CHC影迷电影",
+      "epgid": "CHC影迷电影",
+      "name": "CHC影迷电影",
+      "status": "1",
+      "note": "CHC影迷电影",
+      "logo": "http://192.168.100.1:6086/4/CHC影迷电影.png"
+    },
+    {
+      "tvid": "重温经典影视",
+      "epgid": "重温经典影视",
+      "name": "重温经典影视",
+      "status": "1",
+      "note": "重温经典影视",
+      "logo": "http://192.168.100.1:6086/4/重温经典影视.png"
+    },
+    {
+      "tvid": "重温经典",
+      "epgid": "重温经典",
+      "name": "重温经典",
+      "status": "1",
+      "note": "重温经典",
+      "logo": "http://192.168.100.1:6086/4/重温经典.png"
+    },
+    {
+      "tvid": "优漫卡通",
+      "epgid": "优漫卡通",
+      "name": "优漫卡通,优漫卡通-SD",
+      "status": "1",
+      "note": "优漫卡通",
+      "logo": "http://192.168.100.1:6086/4/优漫卡通.png"
+    },
+    {
+      "tvid": "先锋乒羽",
+      "epgid": "先锋乒羽",
+      "name": "先锋乒羽,先锋乒羽-SD",
+      "status": "1",
+      "note": "优漫卡通",
+      "logo": "http://192.168.100.1:6086/4/先锋乒羽.png"
+    },
+    {
+      "tvid": "嘉佳卡通",
+      "epgid": "嘉佳卡通",
+      "name": "嘉佳卡通,嘉佳卡通-SD",
+      "status": "1",
+      "note": "嘉佳卡通",
+      "logo": "http://192.168.100.1:6086/4/嘉佳卡通.png"
+    },
+    {
+      "tvid": "四海钓鱼",
+      "epgid": "四海钓鱼",
+      "name": "四海钓鱼,四海钓鱼-SD",
+      "status": "1",
+      "note": "四海钓鱼",
+      "logo": "http://192.168.100.1:6086/4/四海钓鱼.png"
+    },
+    {
+      "tvid": "家庭理财",
+      "epgid": "家庭理财",
+      "name": "家庭理财,家庭理财-SD",
+      "status": "1",
+      "note": "家庭理财",
+      "logo": "http://192.168.100.1:6086/4/家庭理财.png"
+    },
+    {
+      "tvid": "山东居家购物",
+      "epgid": "山东居家购物",
+      "name": "山东居家购物,居家购物",
+      "status": "1",
+      "note": "山东居家购物",
+      "logo": "http://192.168.100.1:6086/4/山东居家购物.png"
+    },
+    {
+      "tvid": "风尚购物",
+      "epgid": "风尚购物",
+      "name": "风尚购物,风尚购物-SD",
+      "status": "1",
+      "note": "风尚购物",
+      "logo": "http://192.168.100.1:6086/4/风尚购物.png"
+    },
+    {
+      "tvid": "CCTV中视购物",
+      "epgid": "CCTV中视购物",
+      "name": "CCTV中视购物,CCTV中视购物-SD,央广购物",
+      "status": "1",
+      "note": "风尚购物",
+      "logo": "http://192.168.100.1:6086/4/CCTV中视购物.png"
+    },
+    {
+      "tvid": "风云音乐",
+      "epgid": "风云音乐",
+      "name": "中数风云音乐,风云音乐",
+      "status": "1",
+      "note": "风云音乐",
+      "logo": "https://gongdian.top/logo/tv/风云音乐.png"
+    },
+    {
+      "tvid": "第一剧场",
+      "epgid": "第一剧场",
+      "name": "中数第一剧场,第一剧场",
+      "status": "1",
+      "note": "第一剧场",
+      "logo": "https://gongdian.top/logo/tv/第一剧场.png"
+    },
+    {
+      "tvid": "风云剧场",
+      "epgid": "风云剧场",
+      "name": "中数风云剧场,风云剧场",
+      "status": "1",
+      "note": "风云剧场",
+      "logo": "https://gongdian.top/logo/tv/风云剧场.png"
+    },
+    {
+      "tvid": "世界地理",
+      "epgid": "世界地理",
+      "name": "中数世界地理,世界地理",
+      "status": "1",
+      "note": "世界地理",
+      "logo": "https://gongdian.top/logo/tv/世界地理.png"
+    },
+    {
+      "tvid": "电视指南",
+      "epgid": "电视指南",
+      "name": "中数电视指南,电视指南",
+      "status": "1",
+      "note": "怀旧剧场",
+      "logo": "https://gongdian.top/logo/tv/电视指南.png"
+    },
+    {
+      "tvid": "怀旧剧场",
+      "epgid": "怀旧剧场",
+      "name": "中数怀旧剧场,怀旧剧场",
+      "status": "1",
+      "note": "怀旧剧场",
+      "logo": "https://gongdian.top/logo/tv/怀旧剧场.png"
+    },
+    {
+      "tvid": "兵器科技",
+      "epgid": "兵器科技",
+      "name": "中数兵器科技,兵器科技",
+      "status": "1",
+      "note": "兵器科技",
+      "logo": "https://gongdian.top/logo/tv/兵器科技.png"
+    },
+    {
+      "tvid": "春晚",
+      "epgid": "春晚",
+      "name": "1983年春晚,1984年春晚,1985年春晚,1986年春晚,1987年春晚,1988年春晚,1989年春晚,1990年春晚,1991年春晚,1992年春晚,1993年春晚,1994年春晚,1995年春晚,1996年春晚,1997年春晚,1998年春晚,1999年春晚,2000年春晚,2000年春晚,2001年春晚,2002年春晚,2003年春晚,2004年春晚,2005年春晚,2006年春晚,2007年春晚,2008年春晚,2009年春晚,2010年春晚,2011年春晚,2012年春晚,2013年春晚,2014年春晚,2015年春晚,2016年春晚,2017年春晚,2018年春晚,2019年春晚,2020年春晚,2021年春晚,2022年春晚,2023年春晚,2024年春晚",
+      "status": "1",
+      "note": "春晚",
+      "logo": "https://gongdian.top/logo/tv/chunwan.jpg"
+    },
+	{
+      "tvid": "NewTV精品综合",
+      "epgid": "NewTV精品综合",
+      "name": "NewTV精品综合,NewTV-精品综合",
+      "status": "1",
+      "note": "NewTV精品综合",
+      "logo": "https://gongdian.top/logo/tv/NEWTV精品综合.png"
+    },
+	{
+      "tvid": "NewTV精品大剧",
+      "epgid": "NewTV精品大剧",
+      "name": "NewTV精品大剧,NewTV-精品大剧",
+      "status": "1",
+      "note": "NewTV精品大剧",
+      "logo": "https://gongdian.top/logo/tv/NEWTV精品大剧.png"
+    },
+	{
+      "tvid": "NewTV精品纪录",
+      "epgid": "NewTV精品纪录",
+      "name": "NewTV精品纪录,NewTV-精品纪录",
+      "status": "1",
+      "note": "NewTV精品纪录",
+      "logo": "https://gongdian.top/logo/tv/NEWTV精品纪录.png"
+    },
+	{
+      "tvid": "NewTV精品体育",
+      "epgid": "NewTV精品体育",
+      "name": "NewTV精品体育,NewTV-精品体育",
+      "status": "1",
+      "note": "NewTV精品体育",
+      "logo": "https://gongdian.top/logo/tv/NEWTV精品体育.png"
+    },
+	{
+      "tvid": "NewTV精品萌宠",
+      "epgid": "NewTV精品萌宠",
+      "name": "NewTV精品萌宠,NewTV-精品萌宠",
+      "status": "1",
+      "note": "NewTV精品萌宠",
+      "logo": "https://gongdian.top/logo/tv/NEWTV精品萌宠.png"
+    },
+	{
+      "tvid": "NewTV爱情喜剧",
+      "epgid": "NewTV爱情喜剧",
+      "name": "NewTV爱情喜剧,NewTV-爱情喜剧",
+      "status": "1",
+      "note": "NewTV爱情喜剧",
+      "logo": "https://gongdian.top/logo/tv/NEWTV爱情喜剧.png"
+    },
+	{
+      "tvid": "NewTV超级电视剧",
+      "epgid": "NewTV超级电视剧",
+      "name": "NewTV超级电视剧,NewTV-超级电视剧",
+      "status": "1",
+      "note": "NewTV超级电视剧",
+      "logo": "https://gongdian.top/logo/tv/NEWTV超级电视剧.png"
+    },
+	{
+      "tvid": "NewTV超级电影",
+      "epgid": "NewTV超级电影",
+      "name": "NewTV超级电影,NewTV-超级电影",
+      "status": "1",
+      "note": "NewTV超级电影",
+      "logo": "https://gongdian.top/logo/tv/NEWTV超级电影.png"
+    },
+	{
+      "tvid": "NewTV超级体育",
+      "epgid": "NewTV超级体育",
+      "name": "NewTV超级体育,NewTV-超级体育",
+      "status": "1",
+      "note": "NewTV超级体育",
+      "logo": "https://gongdian.top/logo/tv/NEWTV超级体育.png"
+    },
+	{
+      "tvid": "NewTV超级综艺",
+      "epgid": "NewTV超级综艺",
+      "name": "NewTV超级综艺,NewTV-超级综艺",
+      "status": "1",
+      "note": "NewTV超级综艺",
+      "logo": "https://gongdian.top/logo/tv/NEWTV超级综艺.png"
+    },
+	{
+      "tvid": "NewTV潮妈辣婆",
+      "epgid": "NewTV潮妈辣婆",
+      "name": "NewTV潮妈辣婆,NewTV-潮妈辣婆",
+      "status": "1",
+      "note": "NewTV潮妈辣婆",
+      "logo": "https://gongdian.top/logo/tv/NEWTV潮妈辣婆.png"
+    },
+	{
+      "tvid": "NewTV东北热剧",
+      "epgid": "NewTV东北热剧",
+      "name": "NewTV东北热剧,NewTV-东北热剧",
+      "status": "1",
+      "note": "NewTV东北热剧",
+      "logo": "https://gongdian.top/logo/tv/NEWTV东北热剧.png"
+    },
+	{
+      "tvid": "NewTV动作电影",
+      "epgid": "NewTV动作电影",
+      "name": "NewTV动作电影,NewTV-动作电影",
+      "status": "1",
+      "note": "NewTV动作电影",
+      "logo": "https://gongdian.top/logo/tv/NEWTV动作电影.png"
+    },
+	{
+      "tvid": "NewTV古装剧场",
+      "epgid": "NewTV古装剧场",
+      "name": "NewTV古装剧场,NewTV-古装剧场",
+      "status": "1",
+      "note": "NewTV古装剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV古装剧场.png"
+    },
+	{
+      "tvid": "NewTV欢乐剧场",
+      "epgid": "NewTV欢乐剧场",
+      "name": "NewTV欢乐剧场,NewTV-欢乐剧场",
+      "status": "1",
+      "note": "NewTV欢乐剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV欢乐剧场.png"
+    },
+	{
+      "tvid": "NewTV家庭剧场",
+      "epgid": "NewTV家庭剧场",
+      "name": "NewTV家庭剧场,NewTV-家庭剧场",
+      "status": "1",
+      "note": "NewTV家庭剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV家庭剧场.png"
+    },
+	{
+      "tvid": "NewTV金牌综艺",
+      "epgid": "NewTV金牌综艺",
+      "name": "NewTV金牌综艺,NewTV-金牌综艺",
+      "status": "1",
+      "note": "NewTV金牌综艺",
+      "logo": "https://gongdian.top/logo/tv/NEWTV金牌综艺.png"
+    },
+	{
+      "tvid": "NewTV惊悚悬疑",
+      "epgid": "NewTV惊悚悬疑",
+      "name": "NewTV惊悚悬疑,NewTV-惊悚悬疑",
+      "status": "1",
+      "note": "NewTV金牌综艺",
+      "logo": "https://gongdian.top/logo/tv/NEWTV惊悚悬疑.png"
+    },
+	{
+      "tvid": "NewTV军旅剧场",
+      "epgid": "NewTV军旅剧场",
+      "name": "NewTV军旅剧场,NewTV-军旅剧场",
+      "status": "1",
+      "note": "NewTV军旅剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV军旅剧场.png"
+    },
+	{
+      "tvid": "NewTV军事评论",
+      "epgid": "NewTV军事评论",
+      "name": "NewTV军事评论,NewTV-军事评论",
+      "status": "1",
+      "note": "NewTV军事评论",
+      "logo": "https://gongdian.top/logo/tv/NEWTV军事评论.png"
+    },
+	{
+      "tvid": "NewTV魅力潇湘",
+      "epgid": "NewTV魅力潇湘",
+      "name": "NewTV魅力潇湘,NewTV-魅力潇湘",
+      "status": "1",
+      "note": "NewTV魅力潇湘",
+      "logo": "https://gongdian.top/logo/tv/NEWTV魅力潇湘.png"
+    },
+	{
+      "tvid": "NewTV明星大片",
+      "epgid": "NewTV明星大片",
+      "name": "NewTV明星大片,NewTV-明星大片",
+      "status": "1",
+      "note": "NewTV明星大片",
+      "logo": "https://gongdian.top/logo/tv/NEWTV明星大片.png"
+    },
+	{
+      "tvid": "NewTV农业致富",
+      "epgid": "NewTV农业致富",
+      "name": "NewTV农业致富,NewTV-农业致富",
+      "status": "1",
+      "note": "NewTV农业致富",
+      "logo": "https://gongdian.top/logo/tv/NEWTV农业致富.png"
+    },
+	{
+      "tvid": "NewTV武搏世界",
+      "epgid": "NewTV武搏世界",
+      "name": "NewTV武搏世界,NewTV-武搏世界",
+      "status": "1",
+      "note": "NewTV武搏世界",
+      "logo": "https://gongdian.top/logo/tv/NEWTV武搏世界.png"
+    },
+	{
+      "tvid": "NewTV炫舞未来",
+      "epgid": "NewTV炫舞未来",
+      "name": "NewTV炫舞未来,NewTV-炫舞未来",
+      "status": "1",
+      "note": "NewTV炫舞未来",
+      "logo": "https://gongdian.top/logo/tv/NEWTV炫舞未来.png"
+    },
+	{
+      "tvid": "NewTV怡伴健康",
+      "epgid": "NewTV怡伴健康",
+      "name": "NewTV怡伴健康,NewTV-怡伴健康",
+      "status": "1",
+      "note": "NewTV怡伴健康",
+      "logo": "https://gongdian.top/logo/tv/NEWTV怡伴健康.png"
+    },
+	{
+      "tvid": "NewTV中国功夫",
+      "epgid": "NewTV中国功夫",
+      "name": "NewTV中国功夫,NewTV-中国功夫",
+      "status": "1",
+      "note": "NewTV中国功夫",
+      "logo": "https://gongdian.top/logo/tv/NEWTV中国功夫.png"
+    },
+	{
+      "tvid": "NewTV海外剧场",
+      "epgid": "NewTV海外剧场",
+      "name": "NewTV海外剧场,NewTV-海外剧场",
+      "status": "1",
+      "note": "NewTV海外剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV海外剧场.png"
+    },
+	{
+      "tvid": "NewTV电影频道",
+      "epgid": "NewTV电影频道",
+      "name": "NewTV电影频道,NewTV-电影频道",
+      "status": "1",
+      "note": "NewTV海外剧场",
+      "logo": "https://gongdian.top/logo/tv/NEWTV电影频道.png"
+    },
+	{
+      "tvid": "NewTV黑莓电影",
+      "epgid": "NewTV黑莓电影",
+      "name": "NewTV黑莓电影,NewTV-黑莓电影",
+      "status": "1",
+      "note": "NewTV黑莓电影",
+      "logo": "https://gongdian.top/logo/tv/NEWTV黑莓电影.png"
+    },
+	{
+      "tvid": "NewTV黑莓动画",
+      "epgid": "NewTV黑莓动画",
+      "name": "NewTV黑莓动画,NewTV-黑莓动画",
+      "status": "1",
+      "note": "NewTV黑莓动画",
+      "logo": "https://gongdian.top/logo/tv/NEWTV黑莓动画.png"
+    },
+	{
+      "tvid": "NewTV哒啵电竞",
+      "epgid": "NewTV哒啵电竞",
+      "name": "NewTV哒啵电竞,NewTV-哒啵电竞",
+      "status": "1",
+      "note": "NewTV哒啵电竞",
+      "logo": "https://gongdian.top/logo/tv/NEWTV哒啵电竞.png"
+    },
+	{
+      "tvid": "NewTV哒啵赛事",
+      "epgid": "NewTV哒啵赛事",
+      "name": "NewTV哒啵赛事,NewTV-哒啵赛事",
+      "status": "1",
+      "note": "NewTV哒啵赛事",
+      "logo": "https://gongdian.top/logo/tv/NEWTV哒啵赛事.png"
+    },
+	{
+      "tvid": "SiTV动漫秀场",
+      "epgid": "SiTV动漫秀场",
+      "name": "SiTV动漫秀场,SiTV-动漫秀场,动漫秀场",
+      "status": "1",
+      "note": "SiTV动漫秀场",
+      "logo": "http://192.168.100.1:6086/4/动漫秀场.png"
+    },
+	{
+      "tvid": "SiTV都市剧场",
+      "epgid": "SiTV都市剧场",
+      "name": "SiTV都市剧场,SiTV-都市剧场,都市剧场",
+      "status": "1",
+      "note": "SiTV都市剧场",
+      "logo": "http://192.168.100.1:6086/4/都市剧场.png"
+    },
+	{
+      "tvid": "法治天地",
+      "epgid": "SiTV法治天地",
+      "name": "SiTV法治天地,SiTV-法治天地,上海法治天地,法治天地,法制天地",
+      "status": "1",
+      "note": "SiTV法治天地",
+      "logo": "http://192.168.100.1:6086/4/法治天地.png"
+    },
+	{
+      "tvid": "BesT4K",
+      "epgid": "BesT4K",
+      "name": "BesT-4K,BesT4K,BesT",
+      "status": "1",
+      "note": "BesT4K",
+      "logo": "http://192.168.100.1:6086/4/BesT4K.png"
+    },
+	{
+      "tvid": "NHKWorld",
+      "epgid": "NHKWorld",
+      "name": "NHKWorld,NHK-WORLD,NHK World,NHK World-Japan",
+      "status": "1",
+      "note": "NHKWorld",
+      "logo": "http://192.168.100.1:6086/4/NHKWorld.png"
+    },
+	{
+      "tvid": "SiTV欢笑剧场",
+      "epgid": "SiTV欢笑剧场",
+      "name": "SiTV欢笑剧场,SiTV-欢笑剧场,SiTV-欢笑剧场-4K,欢笑剧场",
+      "status": "1",
+      "note": "SiTV欢笑剧场",
+      "logo": "https://gongdian.top/logo/tv/欢笑剧场.png"
+    },
+	{
+      "tvid": "SiTV金色学堂",
+      "epgid": "SiTV金色学堂",
+      "name": "SiTV金色学堂,SiTV-金色学堂,金色学堂",
+      "status": "1",
+      "note": "SiTV金色学堂",
+      "logo": "http://192.168.100.1:6086/4/金色学堂.png"
+    },
+	{
+      "tvid": "SiTV劲爆体育",
+      "epgid": "SiTV劲爆体育",
+      "name": "SiTV劲爆体育,SiTV-劲爆体育,劲爆体育",
+      "status": "1",
+      "note": "SiTV劲爆体育",
+      "logo": "https://gongdian.top/logo/tv/劲爆体育.png"
+    },
+	{
+      "tvid": "SiTV乐游",
+      "epgid": "SiTV乐游",
+      "name": "SiTV乐游,SiTV-乐游,乐游",
+      "status": "1",
+      "note": "SiTV乐游",
+      "logo": "http://192.168.100.1:6086/4/乐游.png"
+    },
+	{
+      "tvid": "书画频道",
+      "epgid": "书画频道",
+      "name": "书画频道,书画频道-SD,书画,书画-SD",
+      "status": "1",
+      "note": "书画频道",
+      "logo": "http://192.168.100.1:6086/4/书画频道.png"
+    },
+	{
+      "tvid": "靓妆",
+      "epgid": "靓妆",
+      "name": "靓妆,靓妆-SD",
+      "status": "1",
+      "note": "靓妆",
+      "logo": "http://192.168.100.1:6086/4/靓妆.png"
+    },
+	{
+      "tvid": "优优宝贝",
+      "epgid": "优优宝贝",
+      "name": "优优宝贝,优优宝贝-SD",
+      "status": "1",
+      "note": "优优宝贝",
+      "logo": "http://192.168.100.1:6086/4/优优宝贝.png"
+    },
+	{
+      "tvid": "SiTV魅力足球",
+      "epgid": "SiTV魅力足球",
+      "name": "SiTV魅力足球,SiTV-魅力足球,魅力足球",
+      "status": "1",
+      "note": "SiTV魅力足球",
+      "logo": "http://192.168.100.1:6086/4/魅力足球.png"
+    },
+	{
+      "tvid": "SiTV七彩戏剧",
+      "epgid": "SiTV七彩戏剧",
+      "name": "SiTV七彩戏剧,SiTV-七彩戏剧,七彩戏剧",
+      "status": "1",
+      "note": "SiTV七彩戏剧",
+      "logo": "https://gongdian.top/logo/tv/七彩戏剧.png"
+    },
+	{
+      "tvid": "SiTV生活时尚",
+      "epgid": "SiTV生活时尚",
+      "name": "SiTV生活时尚,SiTV-生活时尚,生活时尚",
+      "status": "1",
+      "note": "SiTV生活时尚",
+      "logo": "http://192.168.100.1:6086/4/生活时尚.png"
+    },
+	{
+      "tvid": "魅力时尚",
+      "epgid": "魅力时尚",
+      "name": "SiTV魅力时尚,SiTV-魅力时尚,魅力时尚,IPTV魅力时尚",
+      "status": "1",
+      "note": "魅力时尚",
+      "logo": "http://192.168.100.1:6086/4/魅力时尚.png"
+    },
+	{
+      "tvid": "相声小品",
+      "epgid": "相声小品",
+      "name": "相声小品",
+      "status": "1",
+      "note": "相声小品",
+      "logo": "http://192.168.100.1:6086/4/相声小品.png"
+    },
+	{
+      "tvid": "墨宝",
+      "epgid": "墨宝",
+      "name": "墨宝",
+      "status": "1",
+      "note": "墨宝",
+      "logo": "http://192.168.100.1:6086/4/墨宝.png"
+    },
+	{
+      "tvid": "美人",
+      "epgid": "美人",
+      "name": "美人",
+      "status": "1",
+      "note": "美人",
+      "logo": "http://192.168.100.1:6086/4/美人.png"
+    },
+	{
+      "tvid": "精彩影视",
+      "epgid": "精彩影视",
+      "name": "精彩影视",
+      "status": "1",
+      "note": "精彩影视",
+      "logo": "http://192.168.100.1:6086/4/精彩影视.png"
+    },
+	{
+      "tvid": "SiTV游戏风云",
+      "epgid": "SiTV游戏风云",
+      "name": "游戏风云,SiTV游戏风云,SiTV-游戏风云,NEWTV游戏风云",
+      "status": "1",
+      "note": "SiTV游戏风云",
+      "logo": "http://192.168.100.1:6086/4/游戏风云.png"
+    },
+	{
+      "tvid": "喜剧影院",
+      "epgid": "喜剧影院",
+      "name": "喜剧影院,喜剧影院-SD,华数喜剧影院",
+      "status": "1",
+      "note": "喜剧影院",
+      "logo": "http://192.168.100.1:6086/4/喜剧影院.png"
+    },
+	{
+      "tvid": "动作影院",
+      "epgid": "动作影院",
+      "name": "动作影院,动作影院-SD,华数动作影院",
+      "status": "1",
+      "note": "动作影院",
+      "logo": "http://192.168.100.1:6086/4/动作影院.png"
+    },
+	{
+      "tvid": "经典电影",
+      "epgid": "经典电影",
+      "name": "经典电影,经典电影-SD,华数经典电影",
+      "status": "1",
+      "note": "经典电影",
+      "logo": "http://192.168.100.1:6086/4/经典电影.png"
+    },
+	{
+      "tvid": "热播剧场",
+      "epgid": "热播剧场",
+      "name": "热播剧场,热播剧场-SD,华数热播剧场",
+      "status": "1",
+      "note": "热播剧场",
+      "logo": "http://192.168.100.1:6086/4/热播剧场.png"
+    },
+	{
+      "tvid": "光影",
+      "epgid": "光影",
+      "name": "光影,光影-SD,华数光影",
+      "status": "1",
+      "note": "光影",
+      "logo": "http://192.168.100.1:6086/4/光影.png"
+    },
+	{
+      "tvid": "动漫",
+      "epgid": "动漫",
+      "name": "IPTV少儿动画,少儿动画,华数动漫,华数动漫-SD",
+      "status": "1",
+      "note": "动漫",
+      "logo": "http://192.168.100.1:6086/4/少儿动画.png"
+    },
+	{
+      "tvid": "环球旅游",
+      "epgid": "环球旅游",
+      "name": "环球旅游,环球旅游-SD",
+      "status": "1",
+      "note": "环球旅游",
+      "logo": "http://192.168.100.1:6086/4/环球旅游.png"
+    },
+	{
+      "tvid": "生态环境",
+      "epgid": "生态环境",
+      "name": "生态环境,生态环境-SD",
+      "status": "1",
+      "note": "生态环境",
+      "logo": "http://192.168.100.1:6086/4/生态环境.png"
+    },
+	{
+      "tvid": "车迷频道",
+      "epgid": "车迷频道",
+      "name": "车迷频道,车迷频道-SD,车迷,车迷-SD",
+      "status": "1",
+      "note": "车迷频道",
+      "logo": "http://192.168.100.1:6086/4/车迷频道.png"
+    },
+	{
+      "tvid": "iHOT爱电竞",
+      "epgid": "iHOT爱电竞",
+      "name": "iHOT爱电竞,iHOT-爱电竞",
+      "status": "1",
+      "note": "iHOT爱电竞",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱电竞.png"
+    },
+	{
+      "tvid": "iHOT爱谍战",
+      "epgid": "iHOT爱谍战",
+      "name": "iHOT爱谍战,iHOT-爱谍战",
+      "status": "1",
+      "note": "iHOT爱谍战",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱谍战.png"
+    },
+	{
+      "tvid": "iHOT爱动漫",
+      "epgid": "iHOT爱动漫",
+      "name": "iHOT爱动漫,iHOT-爱动漫",
+      "status": "1",
+      "note": "iHOT爱动漫",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱动漫.png"
+    },
+	{
+      "tvid": "iHOT爱都市",
+      "epgid": "iHOT爱都市",
+      "name": "iHOT爱都市,iHOT-爱都市",
+      "status": "1",
+      "note": "iHOT爱都市",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱都市.png"
+    },
+	{
+      "tvid": "iHOT爱怀旧",
+      "epgid": "iHOT爱怀旧",
+      "name": "iHOT爱怀旧,iHOT-爱怀旧",
+      "status": "1",
+      "note": "iHOT爱怀旧",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱怀旧.png"
+    },
+	{
+      "tvid": "iHOT爱经典",
+      "epgid": "iHOT爱经典",
+      "name": "iHOT爱经典,iHOT-爱经典",
+      "status": "1",
+      "note": "iHOT爱经典",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱经典.png"
+    },
+	{
+      "tvid": "iHOT爱科幻",
+      "epgid": "iHOT爱科幻",
+      "name": "iHOT爱科幻,iHOT-爱科幻",
+      "status": "1",
+      "note": "iHOT爱科幻",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱科幻.png"
+    },
+	{
+      "tvid": "iHOT爱科学",
+      "epgid": "iHOT爱科学",
+      "name": "iHOT爱科学,iHOT-爱科学",
+      "status": "1",
+      "note": "iHOT爱科学",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱科学.png"
+    },
+	{
+      "tvid": "iHOT爱浪漫",
+      "epgid": "iHOT爱浪漫",
+      "name": "iHOT爱浪漫,iHOT-爱浪漫",
+      "status": "1",
+      "note": "iHOT爱浪漫",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱浪漫.png"
+    },
+	{
+      "tvid": "iHOT爱历史",
+      "epgid": "iHOT爱历史",
+      "name": "iHOT爱历史,iHOT-爱历史",
+      "status": "1",
+      "note": "iHOT爱历史",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱历史.png"
+    },
+	{
+      "tvid": "iHOT爱旅行",
+      "epgid": "iHOT爱旅行",
+      "name": "iHOT爱旅行,iHOT-爱旅行",
+      "status": "1",
+      "note": "iHOT爱旅行",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱旅行.png"
+    },
+	{
+      "tvid": "iHOT爱奇谈",
+      "epgid": "iHOT爱奇谈",
+      "name": "iHOT爱奇谈,iHOT-爱奇谈",
+      "status": "1",
+      "note": "iHOT爱奇谈",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱奇谈.png"
+    },
+	{
+      "tvid": "iHOT爱青春",
+      "epgid": "iHOT爱青春",
+      "name": "iHOT爱青春,iHOT-爱青春",
+      "status": "1",
+      "note": "iHOT爱青春",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱青春.png"
+    },
+	{
+      "tvid": "iHOT爱赛车",
+      "epgid": "iHOT爱赛车",
+      "name": "iHOT爱赛车,iHOT-爱赛车",
+      "status": "1",
+      "note": "iHOT爱赛车",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱赛车.png"
+    },
+	{
+      "tvid": "iHOT爱体育",
+      "epgid": "iHOT爱体育",
+      "name": "iHOT爱体育,iHOT-爱体育",
+      "status": "1",
+      "note": "iHOT爱体育",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱体育.png"
+    },
+	{
+      "tvid": "iHOT爱玩具",
+      "epgid": "iHOT爱玩具",
+      "name": "iHOT爱玩具,iHOT-爱玩具",
+      "status": "1",
+      "note": "iHOT爱玩具",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱玩具.png"
+    },
+	{
+      "tvid": "iHOT爱悬疑",
+      "epgid": "iHOT爱悬疑",
+      "name": "iHOT爱悬疑,iHOT-爱悬疑",
+      "status": "1",
+      "note": "iHOT爱悬疑",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱悬疑.png"
+    },
+	{
+      "tvid": "iHOT爱喜剧",
+      "epgid": "iHOT爱喜剧",
+      "name": "iHOT爱喜剧,iHOT-爱喜剧",
+      "status": "1",
+      "note": "iHOT爱喜剧",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱喜剧.png"
+    },
+	{
+      "tvid": "iHOT爱幼教",
+      "epgid": "iHOT爱幼教",
+      "name": "iHOT爱幼教,iHOT-爱幼教",
+      "status": "1",
+      "note": "iHOT爱幼教",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱幼教.png"
+    },
+	{
+      "tvid": "iHOT爱院线",
+      "epgid": "iHOT爱院线",
+      "name": "iHOT爱院线,iHOT-爱院线",
+      "status": "1",
+      "note": "iHOT爱院线",
+      "logo": "https://gongdian.top/logo/tv/IHOT爱院线.png"
+    },
+	{
+      "tvid": "民视",
+      "epgid": "民视",
+      "name": "民视,民视台",
+      "status": "1",
+      "note": "民视",
+      "logo": "https://gongdian.top/logo/tv/民视.png"
+    },
+	{
+      "tvid": "民视台湾台",
+      "epgid": "民视台湾台",
+      "name": "民视台湾台,民视台湾",
+      "status": "1",
+      "note": "民视台湾台",
+      "logo": "https://gongdian.top/logo/tv/民视台湾台.png"
+    },
+	{
+      "tvid": "民视新闻台",
+      "epgid": "民视新闻台",
+      "name": "民视新闻台,民视新闻",
+      "status": "1",
+      "note": "民视新闻台",
+      "logo": "https://gongdian.top/logo/tv/民视新闻台.png"
+    },
+	{
+      "tvid": "民视旅游台",
+      "epgid": "民视旅游台",
+      "name": "民视旅游台,民视旅游",
+      "status": "1",
+      "note": "民视旅游台",
+      "logo": "https://gongdian.top/logo/tv/民视旅游台.png"
+    },
+	{
+      "tvid": "民视影剧台",
+      "epgid": "民视影剧台",
+      "name": "民视影剧台,民视影剧",
+      "status": "1",
+      "note": "民视影剧台",
+      "logo": "https://gongdian.top/logo/tv/民视影剧.png"
+    },
+	{
+      "tvid": "民视第一台",
+      "epgid": "民视第一台",
+      "name": "民视第一台,民视第一",
+      "status": "1",
+      "note": "民视第一台",
+      "logo": "https://gongdian.top/logo/tv/民视第一台.png"
+    },
+	{
+      "tvid": "民视综艺台",
+      "epgid": "民视综艺台",
+      "name": "民视综艺台,民视综艺",
+      "status": "1",
+      "note": "民视综艺台",
+      "logo": "https://gongdian.top/logo/tv/民视综艺台.png"
+    },
+	{
+      "tvid": "三立新闻",
+      "epgid": "三立新闻",
+      "name": "三立新闻,SET三立新闻",
+      "status": "1",
+      "note": "三立新闻",
+      "logo": "https://gongdian.top/logo/tv/三立新闻.png"
+    },
+	{
+      "tvid": "中天新闻",
+      "epgid": "中天新闻",
+      "name": "中天新闻,CTi中天新闻",
+      "status": "1",
+      "note": "中天新闻",
+      "logo": "https://gongdian.top/logo/tv/中天新闻.png"
+    },
+	{
+      "tvid": "非凡新闻",
+      "epgid": "非凡新闻",
+      "name": "非凡新闻",
+      "status": "1",
+      "note": "非凡新闻",
+      "logo": "https://gongdian.top/logo/tv/非凡新闻.png"
+    },
+	{
+      "tvid": "东森新闻",
+      "epgid": "东森新闻",
+      "name": "东森新闻",
+      "status": "1",
+      "note": "东森新闻",
+      "logo": "https://gongdian.top/logo/tv/东森新闻.png"
+    },
+	{
+      "tvid": "东森财经",
+      "epgid": "东森财经",
+      "name": "东森财经",
+      "status": "1",
+      "note": "东森财经",
+      "logo": "https://gongdian.top/logo/tv/东森财经.png"
+    },
+	{
+      "tvid": "东森幼幼",
+      "epgid": "东森幼幼",
+      "name": "东森幼幼",
+      "status": "1",
+      "note": "东森幼幼",
+      "logo": "https://gongdian.top/logo/tv/东森幼幼.png"
+    },
+	{
+      "tvid": "东森戏剧",
+      "epgid": "东森戏剧",
+      "name": "东森戏剧",
+      "status": "1",
+      "note": "东森戏剧",
+      "logo": "https://gongdian.top/logo/tv/东森戏剧.png"
+    },
+	{
+      "tvid": "东森电影",
+      "epgid": "东森电影",
+      "name": "东森电影",
+      "status": "1",
+      "note": "东森电影",
+      "logo": "https://gongdian.top/logo/tv/东森电影.png"
+    },
+	{
+      "tvid": "东森洋片",
+      "epgid": "东森洋片",
+      "name": "东森洋片",
+      "status": "1",
+      "note": "东森洋片",
+      "logo": "https://gongdian.top/logo/tv/东森洋片.png"
+    },
+	{
+      "tvid": "中天综合",
+      "epgid": "中天综合",
+      "name": "中天综合,CTi中天综合",
+      "status": "1",
+      "note": "中天综合",
+      "logo": "https://gongdian.top/logo/tv/中天综合.png"
+    },
+	{
+      "tvid": "台视",
+      "epgid": "台视",
+      "name": "台视",
+      "status": "1",
+      "note": "台视",
+      "logo": "https://gongdian.top/logo/tv/台视.png"
+    },
+	{
+      "tvid": "台视新闻",
+      "epgid": "台视新闻",
+      "name": "台视新闻,台视新闻台",
+      "status": "1",
+      "note": "台视新闻",
+      "logo": "https://gongdian.top/logo/tv/台视新闻.png"
+    },
+	{
+      "tvid": "台视综合",
+      "epgid": "台视综合",
+      "name": "台视综合,台视综合台",
+      "status": "1",
+      "note": "台视综合",
+      "logo": "https://gongdian.top/logo/tv/台视综合.png"
+    },
+	{
+      "tvid": "台式财经",
+      "epgid": "台式财经",
+      "name": "台式财经,台式财经台",
+      "status": "1",
+      "note": "台式财经",
+      "logo": "https://gongdian.top/logo/tv/台式财经.png"
+    },
+	{
+      "tvid": "中视",
+      "epgid": "中视",
+      "name": "中视,中视台",
+      "status": "1",
+      "note": "中视",
+      "logo": "https://gongdian.top/logo/tv/中视.png"
+    },
+	{
+      "tvid": "中视新闻",
+      "epgid": "中视新闻",
+      "name": "中视新闻,中视新闻台",
+      "status": "1",
+      "note": "中视新闻",
+      "logo": "https://gongdian.top/logo/tv/中视新闻.png"
+    },
+	{
+      "tvid": "中视经典",
+      "epgid": "中视经典",
+      "name": "中视经典,中视经典台",
+      "status": "1",
+      "note": "中视经典",
+      "logo": "https://gongdian.top/logo/tv/中视经典.png"
+    },
+	{
+      "tvid": "中视菁采",
+      "epgid": "中视菁采",
+      "name": "中视菁采,中视菁采台",
+      "status": "1",
+      "note": "中视菁采",
+      "logo": "https://gongdian.top/logo/tv/中视菁采.png"
+    },
+	{
+      "tvid": "华视",
+      "epgid": "华视",
+      "name": "华视,华视台,CTS华视",
+      "status": "1",
+      "note": "华视",
+      "logo": "https://gongdian.top/logo/tv/华视.png"
+    },
+	{
+      "tvid": "华视新闻",
+      "epgid": "华视新闻",
+      "name": "华视新闻,华视新闻台,CTS华视新闻",
+      "status": "1",
+      "note": "华视新闻",
+      "logo": "https://gongdian.top/logo/tv/华视新闻.png"
+    },
+	{
+      "tvid": "睛彩青少",
+      "epgid": "睛彩青少",
+      "name": "睛彩青少,咪咕全民热练",
+      "status": "1",
+      "note": "睛彩青少",
+      "logo": "https://gongdian.top/logo/tv/睛彩青少.png"
+    },
+	{
+      "tvid": "睛彩篮球",
+      "epgid": "睛彩篮球",
+      "name": "睛彩篮球,篮球4K,湖南bblive-2,湖南bblive-6,易视腾-6,易视腾-2",
+      "status": "1",
+      "note": "睛彩篮球",
+      "logo": "https://gongdian.top/logo/tv/睛彩篮球.png"
+    },
+	{
+      "tvid": "睛彩竞技",
+      "epgid": "睛彩竞技",
+      "name": "睛彩竞技,湖南bblive-1,易视腾-1",
+      "status": "1",
+      "note": "睛彩竞技",
+      "logo": "https://gongdian.top/logo/tv/睛彩竞技.png"
+    },
+	{
+      "tvid": "睛彩青少",
+      "epgid": "睛彩青少",
+      "name": "睛彩青少",
+      "status": "1",
+      "note": "睛彩青少",
+      "logo": "https://gongdian.top/logo/tv/睛彩青少.png"
+    },
+	{
+      "tvid": "睛彩广场舞",
+      "epgid": "睛彩广场舞",
+      "name": "睛彩广场舞,湖南bblive-3,湖南bblive-5,易视腾-5,易视腾-3",
+      "status": "1",
+      "note": "睛彩广场舞",
+      "logo": "https://gongdian.top/logo/tv/睛彩广场舞.png"
+    },
+	{
+      "tvid": "北京文艺",
+      "epgid": "北京文艺",
+      "name": "北京文艺",
+      "status": "1",
+      "note": "北京文艺",
+      "logo": "http://192.168.100.1:6086/5/北京文艺.png"
+    },
+	{
+      "tvid": "北京影视",
+      "epgid": "北京影视",
+      "name": "北京影视",
+      "status": "1",
+      "note": "北京影视",
+      "logo": "http://192.168.100.1:6086/5/北京影视.png"
+    },
+	{
+      "tvid": "北京财经",
+      "epgid": "北京财经",
+      "name": "北京财经",
+      "status": "1",
+      "note": "北京财经",
+      "logo": "http://192.168.100.1:6086/5/北京财经.png"
+    },
+	{
+      "tvid": "北京生活",
+      "epgid": "北京生活",
+      "name": "北京生活,北京i生活",
+      "status": "1",
+      "note": "北京生活",
+      "logo": "http://192.168.100.1:6086/5/北京生活.png"
+    },
+	{
+      "tvid": "北京新闻",
+      "epgid": "北京新闻",
+      "name": "北京新闻",
+      "status": "1",
+      "note": "北京新闻",
+      "logo": "http://192.168.100.1:6086/5/北京新闻.png"
+    },
+	{
+      "tvid": "北京体育休闲",
+      "epgid": "北京体育休闲",
+      "name": "北京体育休闲,北京休闲体育,北京体育",
+      "status": "1",
+      "note": "北京体育休闲",
+      "logo": "http://192.168.100.1:6086/5/北京体育.png"
+    },
+	{
+      "tvid": "北京国际",
+      "epgid": "北京国际",
+      "name": "北京国际",
+      "status": "1",
+      "note": "北京国际",
+      "logo": "https://gongdian.top/logo/tv/北京国际.png"
+    },
+	{
+      "tvid": "纯享4K",
+      "epgid": "纯享4K",
+      "name": "纯享4K,纯享-4K,纯享4K-TPTV",
+      "status": "1",
+      "note": "纯享4K",
+      "logo": "https://gongdian.top/logo/tv/纯享4K.png"
+    },
+	{
+      "tvid": "华数4K",
+      "epgid": "华数4K",
+      "name": "华数4K,华数-4K",
+      "status": "1",
+      "note": "华数4K",
+      "logo": "https://gongdian.top/logo/tv/华数4K.png"
+    },
+	{
+      "tvid": "咪咕4K",
+      "epgid": "咪咕4K",
+      "name": "咪咕4K,咪咕4K1,咪咕4K-1,咪咕4K2,咪咕4K-2",
+      "status": "1",
+      "note": "咪咕4K",
+      "logo": "https://gongdian.top/logo/tv/咪咕4K.png"
+    },
+	{
+      "tvid": "Love Nature 4K",
+      "epgid": "Love Nature 4K",
+      "name": "Love Nature 4K,Love Nature,Love Nature4K,LoveNature4K",
+      "status": "1",
+      "note": "Love Nature 4K",
+      "logo": "https://gongdian.top/logo/tv/LOVENATURE.png"
+    },
+	{
+      "tvid": "Loupe 4K",
+      "epgid": "Loupe 4K",
+      "name": "Loupe 4K,Loupe4K",
+      "status": "1",
+      "note": "Loupe 4K",
+      "logo": "https://gongdian.top/logo/tv/LOUPE4K.png"
+    },
+	{
+      "tvid": "Fashion 4K",
+      "epgid": "Fashion4K",
+      "name": "Fashion4K,Fashion 4K",
+      "status": "1",
+      "note": "Fashion 4K",
+      "logo": "https://gongdian.top/logo/tv/FASHIONONE.png"
+    },
+	{
+      "tvid": "咪咕视频",
+      "epgid": "咪咕视频",
+      "name": "咪咕视频,咪视通-1,咪视通-2,咪视通-3,咪视通-4,咪视通-5,咪视通-6,咪视通-7,咪视通-8,咪视通-9,咪视通-10,咪视通-11,咪视通-12,咪视通-13,咪视通-14,咪视通-15,咪视通-16,咪视通-17,咪视通-18,咪视通-19,咪视通-20,咪视通-21,咪视通-22,咪视通-23,咪视通-24,咪视通-25,咪视通-26,咪视通-27,咪视通-28,咪视通-29,咪视通-30,咪视通-31,咪视通-32,咪视通-33,咪视通-34,咪视通-35,咪视通-36,咪视通-37,咪视通-38,咪视通-39,咪视通-40,咪视通-41,咪视通-42,咪视通-43,咪视通-44,咪视通-45,湖南bblive-4,易视腾-4",
+      "status": "1",
+      "note": "咪咕视频",
+      "logo": "https://gongdian.top/logo/tv/咪咕视频.png"
+    },
+	{
+      "tvid": "绍兴新闻综合",
+      "epgid": "绍兴新闻综合",
+      "name": "绍兴新闻综合,绍兴新闻频道",
+      "status": "1",
+      "note": "绍兴新闻综合",
+      "logo": "http://192.168.100.1:6086/5/绍兴新闻综合.png"
+    },
+	{
+      "tvid": "绍兴公共频道",
+      "epgid": "绍兴公共频道",
+      "name": "绍兴公共频道",
+      "status": "1",
+      "note": "绍兴公共频道",
+      "logo": "http://192.168.100.1:6086/5/绍兴公共频道.png"
+    },
+	{
+      "tvid": "绍兴文化影视",
+      "epgid": "绍兴文化影视",
+      "name": "绍兴文化影视,绍兴文化影视频道",
+      "status": "1",
+      "note": "绍兴文化影视",
+      "logo": "http://192.168.100.1:6086/5/绍兴文化影视.png"
+    },
+	{
+      "tvid": "宁波新闻",
+      "epgid": "宁波新闻",
+      "name": "宁波新闻,浙江宁波1",
+      "status": "1",
+      "note": "宁波新闻",
+      "logo": "https://gongdian.top/logo/tv/浙江宁波1.png"
+    },
+	{
+      "tvid": "宁波生活",
+      "epgid": "宁波生活",
+      "name": "宁波生活,浙江宁波2",
+      "status": "1",
+      "note": "宁波生活",
+      "logo": "https://gongdian.top/logo/tv/浙江宁波2.png"
+    },
+	{
+      "tvid": "宁波文化",
+      "epgid": "宁波文化",
+      "name": "宁波文化,浙江宁波3",
+      "status": "1",
+      "note": "宁波文化",
+      "logo": "https://gongdian.top/logo/tv/浙江宁波3.png"
+    },
+	{
+      "tvid": "宁波影视",
+      "epgid": "宁波影视",
+      "name": "宁波影视,浙江宁波4",
+      "status": "1",
+      "note": "宁波影视",
+      "logo": "https://gongdian.top/logo/tv/浙江宁波4.png"
+    },
+	{
+      "tvid": "杭州综合",
+      "epgid": "杭州综合",
+      "name": "杭州综合,杭州综合频道",
+      "status": "1",
+      "note": "杭州综合",
+      "logo": "https://gongdian.top/logo/tv/杭州综合.png"
+    },
+	{
+      "tvid": "杭州生活",
+      "epgid": "杭州生活",
+      "name": "杭州生活,杭州生活频道",
+      "status": "1",
+      "note": "杭州生活",
+      "logo": "https://gongdian.top/logo/tv/杭州生活.png"
+    },
+	{
+      "tvid": "杭州影视",
+      "epgid": "杭州影视",
+      "name": "杭州影视,杭州影视频道",
+      "status": "1",
+      "note": "杭州影视",
+      "logo": "https://gongdian.top/logo/tv/杭州影视.png"
+    },
+	{
+      "tvid": "杭州西湖明珠",
+      "epgid": "杭州西湖明珠",
+      "name": "杭州西湖明珠,西湖明珠,杭州明珠",
+      "status": "1",
+      "note": "杭州西湖明珠",
+      "logo": "https://gongdian.top/logo/tv/杭州明珠.png"
+    },
+	{
+      "tvid": "杭州青少",
+      "epgid": "杭州青少",
+      "name": "杭州青少,杭州青少体育",
+      "status": "1",
+      "note": "杭州青少",
+      "logo": "https://gongdian.top/logo/tv/杭州少儿.png"
+    },
+	{
+      "tvid": "杭州导视",
+      "epgid": "杭州导视",
+      "name": "杭州导视,杭州导视频道",
+      "status": "1",
+      "note": "杭州导视",
+      "logo": "https://gongdian.top/logo/tv/杭州导视.jpg"
+    },
+	{
+      "tvid": "浙江少儿",
+      "epgid": "浙江少儿",
+      "name": "浙江少儿",
+      "status": "1",
+      "note": "浙江少儿",
+      "logo": "http://192.168.100.1:6086/5/浙江少儿.png"
+    },
+	{
+      "tvid": "浙江新闻",
+      "epgid": "浙江新闻",
+      "name": "浙江新闻",
+      "status": "1",
+      "note": "浙江新闻",
+      "logo": "http://192.168.100.1:6086/5/浙江新闻.png"
+    },
+	{
+      "tvid": "浙江国际",
+      "epgid": "浙江国际",
+      "name": "浙江国际",
+      "status": "1",
+      "note": "浙江国际",
+      "logo": "http://192.168.100.1:6086/5/浙江国际.png"
+    },
+	{
+      "tvid": "浙江之江纪录",
+      "epgid": "浙江之江纪录",
+      "name": "浙江之江纪录,浙江纪录,之江纪录",
+      "status": "1",
+      "note": "浙江之江纪录",
+      "logo": "http://192.168.100.1:6086/5/之江纪录.png"
+    },
+	{
+      "tvid": "浙江民生休闲",
+      "epgid": "浙江民生休闲",
+      "name": "浙江民生休闲,浙江民生",
+      "status": "1",
+      "note": "浙江民生休闲",
+      "logo": "http://192.168.100.1:6086/5/浙江民生休闲.png"
+    },
+	{
+      "tvid": "浙江教科",
+      "epgid": "浙江教科",
+      "name": "浙江教科影视,浙江教科",
+      "status": "1",
+      "note": "浙江教科",
+      "logo": "http://192.168.100.1:6086/5/浙江教科影视.png"
+    },
+	{
+      "tvid": "浙江经济生活",
+      "epgid": "浙江经济生活",
+      "name": "浙江经济生活,浙江经济",
+      "status": "1",
+      "note": "浙江经济生活",
+      "logo": "http://192.168.100.1:6086/5/浙江经济生活.png"
+    },
+	{
+      "tvid": "钱江都市",
+      "epgid": "钱江都市",
+      "name": "钱江都市,浙江钱江",
+      "status": "1",
+      "note": "钱江都市",
+      "logo": "http://192.168.100.1:6086/5/钱江都市.png"
+    },
+	{
+      "tvid": "好易购",
+      "epgid": "好易购",
+      "name": "好易购,浙江好易购",
+      "status": "1",
+      "note": "好易购",
+      "logo": "http://192.168.100.1:6086/5/好易购.png"
+    },
+	{
+      "tvid": "平湖新闻综合",
+      "epgid": "平湖新闻综合",
+      "name": "平湖新闻综合",
+      "status": "1",
+      "note": "平湖新闻综合",
+      "logo": "http://192.168.100.1:6086/5/平湖新闻综合.png"
+    },
+	{
+      "tvid": "萧山新闻综合",
+      "epgid": "萧山新闻综合",
+      "name": "萧山新闻综合",
+      "status": "1",
+      "note": "萧山新闻综合",
+      "logo": "http://192.168.100.1:6086/5/萧山新闻综合.png"
+    },
+	{
+      "tvid": "诸暨新闻综合",
+      "epgid": "诸暨新闻综合",
+      "name": "诸暨新闻综合",
+      "status": "1",
+      "note": "诸暨新闻综合",
+      "logo": "http://192.168.100.1:6086/5/诸暨新闻综合.png"
+    },
+	{
+      "tvid": "上虞新闻综合",
+      "epgid": "上虞新闻综合",
+      "name": "上虞新闻综合",
+      "status": "1",
+      "note": "上虞新闻综合",
+      "logo": "http://192.168.100.1:6086/5/上虞新闻综合.png"
+    },
+	{
+      "tvid": "上虞新商都",
+      "epgid": "上虞新商都",
+      "name": "上虞新商都",
+      "status": "1",
+      "note": "上虞新商都",
+      "logo": "http://192.168.100.1:6086/5/上虞新商都.png"
+    },
+	{
+      "tvid": "缙云综合",
+      "epgid": "缙云综合",
+      "name": "缙云综合,丽水缙云综合",
+      "status": "1",
+      "note": "缙云综合",
+      "logo": "http://192.168.100.1:6086/5/缙云综合.png"
+    },
+	{
+      "tvid": "龙泉综合",
+      "epgid": "龙泉综合",
+      "name": "龙泉综合,丽水龙泉综合",
+      "status": "1",
+      "note": "龙泉综合",
+      "logo": "http://192.168.100.1:6086/5/龙泉综合.png"
+    },
+	{
+      "tvid": "青田综合",
+      "epgid": "青田综合",
+      "name": "青田综合,丽水青田综合",
+      "status": "1",
+      "note": "青田综合",
+      "logo": "http://192.168.100.1:6086/5/青田综合.png"
+    },
+	{
+      "tvid": "松阳综合",
+      "epgid": "松阳综合",
+      "name": "松阳综合,丽水松阳综合",
+      "status": "1",
+      "note": "松阳综合",
+      "logo": "http://192.168.100.1:6086/5/松阳综合.png"
+    },
+	{
+      "tvid": "遂昌综合",
+      "epgid": "遂昌综合",
+      "name": "遂昌综合,丽水遂昌综合",
+      "status": "1",
+      "note": "遂昌综合",
+      "logo": "http://192.168.100.1:6086/5/遂昌综合.png"
+    },
+	{
+      "tvid": "云和综合",
+      "epgid": "云和综合",
+      "name": "云和综合,丽水云和综合",
+      "status": "1",
+      "note": "云和综合",
+      "logo": "http://192.168.100.1:6086/5/云和综合.png"
+    },
+	{
+      "tvid": "龙游生活娱乐",
+      "epgid": "龙游生活娱乐",
+      "name": "龙游生活娱乐",
+      "status": "1",
+      "note": "龙游生活娱乐",
+      "logo": "http://192.168.100.1:6086/5/龙游生活娱乐.png"
+    },
+	{
+      "tvid": "龙游新闻综合",
+      "epgid": "龙游新闻综合",
+      "name": "龙游新闻综合",
+      "status": "1",
+      "note": "龙游新闻综合",
+      "logo": "http://192.168.100.1:6086/5/龙游新闻综合.png"
+    },
+	{
+      "tvid": "象山新闻综合",
+      "epgid": "象山新闻综合",
+      "name": "宁波象山综合,象山综合,象山新闻综合",
+      "status": "1",
+      "note": "象山新闻综合",
+      "logo": "http://192.168.100.1:6086/5/象山新闻综合.png"
+    },
+	{
+      "tvid": "文成综合",
+      "epgid": "文成综合",
+      "name": "文成综合",
+      "status": "1",
+      "note": "文成综合",
+      "logo": "http://192.168.100.1:6086/5/文成综合.png"
+    },
+	{
+      "tvid": "淮安公共频道",
+      "epgid": "淮安公共频道",
+      "name": "淮安公共频道,淮安频道",
+      "status": "1",
+      "note": "淮安公共频道",
+      "logo": "http://192.168.100.1:6086/5/淮安频道.png"
+    },
+	{
+      "tvid": "金湖新闻综合",
+      "epgid": "金湖新闻综合",
+      "name": "金湖新闻综合",
+      "status": "1",
+      "note": "金湖新闻综合",
+      "logo": "http://192.168.100.1:6086/5/金湖新闻综合.png"
+    },
+	{
+      "tvid": "金坛新闻",
+      "epgid": "金坛新闻",
+      "name": "金坛新闻频道,金坛新闻",
+      "status": "1",
+      "note": "金坛新闻",
+      "logo": "http://192.168.100.1:6086/5/金坛新闻.png"
+    },
+	{
+      "tvid": "沭阳综合",
+      "epgid": "沭阳综合",
+      "name": "沭阳综合,沭阳综合频道",
+      "status": "1",
+      "note": "沭阳综合",
+      "logo": "http://192.168.100.1:6086/5/沭阳综合.png"
+    },
+	{
+      "tvid": "泗阳综合",
+      "epgid": "泗阳综合",
+      "name": "泗阳综合,泗阳综合频道",
+      "status": "1",
+      "note": "泗阳综合",
+      "logo": "http://192.168.100.1:6086/5/泗阳综合.png"
+    },
+	{
+      "tvid": "泗阳资讯",
+      "epgid": "泗阳资讯",
+      "name": "泗阳资讯,泗阳资讯频道",
+      "status": "1",
+      "note": "泗阳资讯",
+      "logo": "http://192.168.100.1:6086/5/泗阳资讯.png"
+    },
+	{
+      "tvid": "甘孜综合",
+      "epgid": "甘孜综合",
+      "name": "甘孜综合",
+      "status": "1",
+      "note": "甘孜综合",
+      "logo": "http://192.168.100.1:6086/5/甘孜综合.png"
+    },
+	{
+      "tvid": "叙州新闻综合",
+      "epgid": "叙州新闻综合",
+      "name": "叙州新闻综合,叙州综合",
+      "status": "1",
+      "note": "叙州新闻综合",
+      "logo": "http://192.168.100.1:6086/5/叙州综合.png"
+    },
+	{
+      "tvid": "利州综合",
+      "epgid": "利州综合",
+      "name": "利州新闻综合,利州综合",
+      "status": "1",
+      "note": "利州综合",
+      "logo": "http://192.168.100.1:6086/5/利州综合.png"
+    },
+	{
+      "tvid": "内蒙新闻",
+      "epgid": "内蒙新闻",
+      "name": "内蒙新闻综合,内蒙综合,内蒙新闻,内蒙古新闻综合",
+      "status": "1",
+      "note": "内蒙新闻",
+      "logo": "http://192.168.100.1:6086/5/内蒙古新闻综合.png"
+    },
+	{
+      "tvid": "内蒙经济",
+      "epgid": "内蒙经济",
+      "name": "内蒙经济生活,内蒙生活,内蒙经济,内蒙古经济生活",
+      "status": "1",
+      "note": "内蒙经济",
+      "logo": "http://192.168.100.1:6086/5/内蒙古经济生活.png"
+    },
+	{
+      "tvid": "内蒙少儿",
+      "epgid": "内蒙少儿",
+      "name": "内蒙少儿,内蒙古少儿,内蒙古少儿频道",
+      "status": "1",
+      "note": "内蒙少儿",
+      "logo": "http://192.168.100.1:6086/5/内蒙古少儿.png"
+    },
+	{
+      "tvid": "内蒙文体娱乐",
+      "epgid": "内蒙文体娱乐",
+      "name": "内蒙文体,内蒙文体娱乐,内蒙古文体娱乐",
+      "status": "1",
+      "note": "内蒙文体娱乐",
+      "logo": "http://192.168.100.1:6086/5/内蒙古文体娱乐.png"
+    },
+	{
+      "tvid": "内蒙农牧",
+      "epgid": "内蒙农牧",
+      "name": "内蒙农牧,内蒙古农牧,内蒙古农牧频道",
+      "status": "1",
+      "note": "内蒙农牧",
+      "logo": "http://192.168.100.1:6086/5/内蒙古农牧.png"
+    },
+	{
+      "tvid": "蒙语卫视",
+      "epgid": "蒙语卫视",
+      "name": "蒙语卫视,内蒙古蒙语卫视",
+      "status": "1",
+      "note": "蒙语卫视",
+      "logo": "http://192.168.100.1:6086/5/内蒙古蒙语卫视.png"
+    },
+	{
+      "tvid": "蒙语文化",
+      "epgid": "蒙语文化",
+      "name": "蒙语文化,内蒙古文化,内蒙古蒙语文化",
+      "status": "1",
+      "note": "蒙语文化",
+      "logo": "http://192.168.100.1:6086/5/内蒙古蒙语文化.png"
+    },
+	{
+      "tvid": "呼市新闻综合",
+      "epgid": "呼市新闻综合",
+      "name": "呼市新闻综合,呼市新闻,呼市综合",
+      "status": "1",
+      "note": "呼市新闻综合",
+      "logo": "http://192.168.100.1:6086/5/呼市新闻综合.png"
+    },
+	{
+      "tvid": "包头新闻综合",
+      "epgid": "包头新闻综合",
+      "name": "包头新闻综合,包头新闻,包头综合",
+      "status": "1",
+      "note": "包头新闻综合",
+      "logo": "http://192.168.100.1:6086/5/包头新闻综合.png"
+    },
+	{
+      "tvid": "鄂尔多斯新闻",
+      "epgid": "鄂尔多斯新闻",
+      "name": "鄂尔多斯新闻,鄂尔多斯新闻综合,鄂尔多斯综合",
+      "status": "1",
+      "note": "鄂尔多斯新闻",
+      "logo": "http://192.168.100.1:6086/5/鄂尔多斯新闻.png"
+    },
+	{
+      "tvid": "巴彦淖尔新闻",
+      "epgid": "巴彦淖尔新闻",
+      "name": "巴彦淖尔新闻,巴彦淖尔新闻综合,巴彦淖尔综合",
+      "status": "1",
+      "note": "巴彦淖尔新闻",
+      "logo": "http://192.168.100.1:6086/5/巴彦淖尔新闻综合.png"
+    },
+	{
+      "tvid": "赤峰新闻综合",
+      "epgid": "赤峰新闻综合",
+      "name": "赤峰新闻,赤峰新闻综合,赤峰综合",
+      "status": "1",
+      "note": "赤峰新闻综合",
+      "logo": "http://192.168.100.1:6086/5/赤峰新闻综合.png"
+    },
+	{
+      "tvid": "乌兰察布闻",
+      "epgid": "乌兰察布新闻",
+      "name": "乌兰察布新闻,乌兰察布新闻综合,乌兰察布综合",
+      "status": "1",
+      "note": "乌兰察布新闻",
+      "logo": "http://192.168.100.1:6086/5/乌兰察布.png"
+    },
+	{
+      "tvid": "拉萨藏语综合",
+      "epgid": "拉萨藏语综合",
+      "name": "拉萨藏语综合,拉萨藏语综合频道",
+      "status": "1",
+      "note": "拉萨藏语综合",
+      "logo": "http://192.168.100.1:6086/5/拉萨藏语综合.png"
+    },
+	{
+      "tvid": "拉萨综合",
+      "epgid": "拉萨综合",
+      "name": "拉萨综合,拉萨综合频道",
+      "status": "1",
+      "note": "拉萨综合",
+      "logo": "http://192.168.100.1:6086/5/拉萨综合.png"
+    },
+	{
+      "tvid": "拉萨文旅",
+      "epgid": "拉萨文旅",
+      "name": "拉萨文旅,拉萨文化旅游,拉萨文化旅游频道",
+      "status": "1",
+      "note": "拉萨文旅",
+      "logo": "http://192.168.100.1:6086/5/拉萨文旅.png"
+    },
+	{
+      "tvid": "林正英",
+      "epgid": "林正英",
+      "name": "林正英",
+      "status": "1",
+      "note": "林正英",
+      "logo": "https://gongdian.top/logo/tv/林正英.png"
+    },
+	{
+      "tvid": "周星驰",
+      "epgid": "周星驰",
+      "name": "周星驰",
+      "status": "1",
+      "note": "周星驰",
+      "logo": "https://gongdian.top/logo/tv/周星驰.png"
+    },
+	{
+      "tvid": "Big B Radio-中文流行",
+      "epgid": "Big B Radio-中文流行",
+      "name": "Big B Radio-中文流行,中文流行",
+      "status": "1",
+      "note": "Big B Radio-中文流行",
+      "logo": "https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317"
+    },
+	{
+      "tvid": "Big B Radio-韩语流行",
+      "epgid": "Big B Radio-韩语流行",
+      "name": "Big B Radio-韩语流行,韩语流行",
+      "status": "1",
+      "note": "Big B Radio-韩语流行",
+      "logo": "https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317"
+    },
+	{
+      "tvid": "Big B Radio-日语流行",
+      "epgid": "Big B Radio-日语流行",
+      "name": "Big B Radio-日语流行,日语流行",
+      "status": "1",
+      "note": "Big B Radio-日语流行",
+      "logo": "https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317"
+    },
+	{
+      "tvid": "Big B Radio-亚洲流行",
+      "epgid": "Big B Radio-亚洲流行",
+      "name": "Big B Radio-亚洲流行,亚洲流行",
+      "status": "1",
+      "note": "Big B Radio-亚洲流行",
+      "logo": "https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645"
+    },
+	{
+      "tvid": "河南新闻广播",
+      "epgid": "河南新闻广播",
+      "name": "河南新闻广播",
+      "status": "1",
+      "note": "河南新闻广播",
+      "logo": "https://live.fanmingming.com/radio/河南新闻广播.png"
+    },
+	{
+      "tvid": "河南经济广播",
+      "epgid": "河南经济广播",
+      "name": "河南经济广播",
+      "status": "1",
+      "note": "河南经济广播",
+      "logo": "https://live.fanmingming.com/radio/河南经济广播.png"
+    },
+	{
+      "tvid": "河南交通广播",
+      "epgid": "河南交通广播",
+      "name": "河南交通广播",
+      "status": "1",
+      "note": "河南交通广播",
+      "logo": "https://live.fanmingming.com/radio/河南交通广播.png"
+    },
+	{
+      "tvid": "9屏同播",
+      "epgid": "9屏同播",
+      "name": "9屏同播,9屏,九屏同播,九屏",
+      "status": "1",
+      "note": "9屏同播",
+      "logo": "http://192.168.100.1:6086/4/9屏同播.png"
+    },
+	{
+      "tvid": "山东交通广播",
+      "epgid": "山东交通广播",
+      "name": "山东交通广播",
+      "status": "1",
+      "note": "山东交通广播",
+      "logo": "http://192.168.100.1:6086/4/山东交通广播.png"
+    },
+	{
+      "tvid": "山东经济广播",
+      "epgid": "山东经济广播",
+      "name": "山东经济广播",
+      "status": "1",
+      "note": "山东经济广播",
+      "logo": "http://192.168.100.1:6086/4/山东经济广播.png"
+    },
+	{
+      "tvid": "山东广播电台综合广播",
+      "epgid": "山东广播电台综合广播",
+      "name": "山东广播电台综合广播,山东综合广播,山东广播电台,山东人民",
+      "status": "1",
+      "note": "山东广播电台综合广播",
+      "logo": "http://192.168.100.1:6086/4/山东综合广播.png"
+    },
+	{
+      "tvid": "睛彩中原",
+      "epgid": "睛彩中原",
+      "name": "河南睛彩中原,睛彩中原",
+      "status": "1",
+      "note": "睛彩中原",
+      "logo": "http://192.168.100.1:6086/5/睛彩中原.png"
+    },
+	{
+      "tvid": "移动戏曲",
+      "epgid": "移动戏曲",
+      "name": "河南移动戏曲,移动戏曲",
+      "status": "1",
+      "note": "移动戏曲",
+      "logo": "http://192.168.100.1:6086/5/移动戏曲.png"
+    },
+	{
+      "tvid": "巩义综合",
+      "epgid": "巩义综合",
+      "name": "巩义综合,巩义新闻综合",
+      "status": "1",
+      "note": "巩义综合",
+      "logo": "http://192.168.100.1:6086/5/巩义综合.png"
+    },
+	{
+      "tvid": "荥阳综合",
+      "epgid": "荥阳综合",
+      "name": "荥阳综合,荥阳新闻综合",
+      "status": "1",
+      "note": "荥阳综合",
+      "logo": "http://192.168.100.1:6086/5/荥阳综合.png"
+    },
+	{
+      "tvid": "新密综合",
+      "epgid": "新密综合",
+      "name": "新密新闻,新密综合,新密新闻综合",
+      "status": "1",
+      "note": "新密综合",
+      "logo": "http://192.168.100.1:6086/5/新密新闻.png"
+    },
+	{
+      "tvid": "新郑综合",
+      "epgid": "新郑综合",
+      "name": "新郑新闻,新郑综合,新郑新闻综合",
+      "status": "1",
+      "note": "新郑综合",
+      "logo": "http://192.168.100.1:6086/5/新郑综合.png"
+    },	
+	{
+      "tvid": "登封综合",
+      "epgid": "登封综合",
+      "name": "登封新闻,登封新闻综合,登封综合",
+      "status": "1",
+      "note": "登封综合",
+      "logo": "http://192.168.100.1:6086/5/登封综合.png"
+    },
+	{
+      "tvid": "内黄综合",
+      "epgid": "内黄综合",
+      "name": "内黄新闻,内黄新闻综合,内黄综合",
+      "status": "1",
+      "note": "内黄综合",
+      "logo": "http://192.168.100.1:6086/5/内黄综合.png"
+    },
+	{
+      "tvid": "汤阴综合",
+      "epgid": "汤阴综合",
+      "name": "汤阴新闻,汤阴新闻综合,汤阴综合",
+      "status": "1",
+      "note": "汤阴综合",
+      "logo": "http://192.168.100.1:6086/5/汤阴综合.png"
+    },	
+	{
+      "tvid": "邓州综合",
+      "epgid": "邓州综合",
+      "name": "邓州新闻,邓州新闻综合,邓州综合",
+      "status": "1",
+      "note": "邓州综合",
+      "logo": "http://192.168.100.1:6086/5/邓州综合.png"
+    },	
+	{
+      "tvid": "方城一套",
+      "epgid": "方城一套",
+      "name": "方城一套",
+      "status": "1",
+      "note": "方城一套",
+      "logo": "http://192.168.100.1:6086/5/方城一套.png"
+    },
+	{
+      "tvid": "唐河一套",
+      "epgid": "唐河一套",
+      "name": "唐河一套",
+      "status": "1",
+      "note": "唐河一套",
+      "logo": "http://192.168.100.1:6086/5/唐河一套.png"
+    },
+	{
+      "tvid": "淅川综合",
+      "epgid": "淅川综合",
+      "name": "淅川新闻,淅川新闻综合,淅川综合",
+      "status": "1",
+      "note": "淅川综合",
+      "logo": "http://192.168.100.1:6086/5/淅川综合.png"
+    },	
+	{
+      "tvid": "新野综合",
+      "epgid": "新野综合",
+      "name": "新野新闻,新野新闻综合,新野综合",
+      "status": "1",
+      "note": "新野综合",
+      "logo": "http://192.168.100.1:6086/5/新野综合.png"
+    },	
+	{
+      "tvid": "镇平新闻综合",
+      "epgid": "镇平新闻综合",
+      "name": "镇平新闻,镇平新闻综合,镇平综合",
+      "status": "1",
+      "note": "镇平新闻综合",
+      "logo": "http://192.168.100.1:6086/5/镇平新闻综合.png"
+    },	
+	{
+      "tvid": "栾川综合",
+      "epgid": "栾川综合",
+      "name": "栾川新闻,栾川新闻综合,栾川综合",
+      "status": "1",
+      "note": "栾川综合",
+      "logo": "http://192.168.100.1:6086/5/栾川综合.png"
+    },	
+	{
+      "tvid": "孟津综合",
+      "epgid": "孟津综合",
+      "name": "孟津新闻,孟津新闻综合,孟津综合",
+      "status": "1",
+      "note": "孟津综合",
+      "logo": "http://192.168.100.1:6086/5/孟津综合.png"
+    },	
+	{
+      "tvid": "汝阳综合",
+      "epgid": "汝阳综合",
+      "name": "汝阳新闻,汝阳新闻综合,汝阳综合",
+      "status": "1",
+      "note": "汝阳综合",
+      "logo": "http://192.168.100.1:6086/5/汝阳综合.png"
+    },
+	{
+      "tvid": "嵩县综合新闻",
+      "epgid": "嵩县综合新闻",
+      "name": "嵩县新闻,嵩县综合新闻,嵩县综合",
+      "status": "1",
+      "note": "嵩县综合新闻",
+      "logo": "http://192.168.100.1:6086/5/嵩县综合.png"
+    },	
+	{
+      "tvid": "新安综合",
+      "epgid": "嵩县综合新闻",
+      "name": "新安新闻,新安新闻综合,新安综合",
+      "status": "1",
+      "note": "新安综合",
+      "logo": "http://192.168.100.1:6086/5/新安综合.png"
+    },	
+	{
+      "tvid": "宜阳综合",
+      "epgid": "宜阳综合",
+      "name": "宜阳新闻,宜阳新闻综合,宜阳综合",
+      "status": "1",
+      "note": "宜阳综合",
+      "logo": "http://192.168.100.1:6086/5/宜阳综合.png"
+    },	
+	{
+      "tvid": "焦作综合",
+      "epgid": "焦作综合",
+      "name": "焦作新闻,焦作新闻综合,焦作综合",
+      "status": "1",
+      "note": "焦作综合",
+      "logo": "http://192.168.100.1:6086/5/焦作综合.png"
+    },
+	{
+      "tvid": "焦作公共",
+      "epgid": "焦作公共",
+      "name": "焦作公共",
+      "status": "1",
+      "note": "焦作公共",
+      "logo": "http://192.168.100.1:6086/5/焦作公共.png"
+    },	
+	{
+      "tvid": "孟州综合",
+      "epgid": "孟州综合",
+      "name": "孟州新闻,孟州新闻综合,孟州综合",
+      "status": "1",
+      "note": "孟州综合",
+      "logo": "http://192.168.100.1:6086/5/孟州综合.png"
+    },	
+	{
+      "tvid": "沁阳综合",
+      "epgid": "沁阳综合",
+      "name": "沁阳新闻,沁阳新闻综合,沁阳综合",
+      "status": "1",
+      "note": "沁阳综合",
+      "logo": "http://192.168.100.1:6086/5/沁阳综合.png"
+    },	
+	{
+      "tvid": "温县综合",
+      "epgid": "温县综合",
+      "name": "温县新闻,温县新闻综合,温县综合",
+      "status": "1",
+      "note": "温县综合",
+      "logo": "http://192.168.100.1:6086/5/温县综合.png"
+    },
+	{
+      "tvid": "武陟综合",
+      "epgid": "武陟综合",
+      "name": "武陟新闻,武陟新闻综合,武陟综合",
+      "status": "1",
+      "note": "武陟综合",
+      "logo": "http://192.168.100.1:6086/5/武陟综合.png"
+    },
+	{
+      "tvid": "襄城综合",
+      "epgid": "襄城综合",
+      "name": "襄城新闻,襄城新闻综合,襄城综合",
+      "status": "1",
+      "note": "襄城综合",
+      "logo": "http://192.168.100.1:6086/5/襄城综合.png"
+    },
+	{
+      "tvid": "鄢陵综合",
+      "epgid": "鄢陵综合",
+      "name": "鄢陵新闻,鄢陵新闻综合,鄢陵综合",
+      "status": "1",
+      "note": "鄢陵综合",
+      "logo": "http://192.168.100.1:6086/5/鄢陵综合.png"
+    },
+	{
+      "tvid": "禹州综合",
+      "epgid": "禹州综合",
+      "name": "禹州新闻,禹州新闻综合,禹州综合",
+      "status": "1",
+      "note": "禹州综合",
+      "logo": "http://192.168.100.1:6086/5/禹州综合.png"
+    },
+	{
+      "tvid": "兰考综合",
+      "epgid": "兰考综合",
+      "name": "兰考新闻,兰考新闻综合,兰考综合",
+      "status": "1",
+      "note": "兰考综合",
+      "logo": "http://192.168.100.1:6086/5/兰考综合.png"
+    },
+	{
+      "tvid": "杞县综合",
+      "epgid": "杞县综合",
+      "name": "杞县新闻,杞县新闻综合,杞县综合",
+      "status": "1",
+      "note": "杞县综合",
+      "logo": "http://192.168.100.1:6086/5/杞县综合.png"
+    },
+	{
+      "tvid": "尉氏综合",
+      "epgid": "尉氏综合",
+      "name": "尉氏新闻,尉氏新闻综合,尉氏综合",
+      "status": "1",
+      "note": "尉氏综合",
+      "logo": "http://192.168.100.1:6086/5/尉氏综合.png"
+    },
+	{
+      "tvid": "郸城综合",
+      "epgid": "郸城综合",
+      "name": "郸城新闻,郸城新闻综合,郸城综合",
+      "status": "1",
+      "note": "郸城综合",
+      "logo": "http://192.168.100.1:6086/5/郸城综合.png"
+    },
+	{
+      "tvid": "扶沟综合",
+      "epgid": "扶沟综合",
+      "name": "扶沟新闻,扶沟新闻综合,扶沟综合",
+      "status": "1",
+      "note": "扶沟综合",
+      "logo": "http://192.168.100.1:6086/5/扶沟综合.png"
+    },
+	{
+      "tvid": "鹿邑综合",
+      "epgid": "鹿邑综合",
+      "name": "鹿邑新闻,鹿邑新闻综合,鹿邑综合",
+      "status": "1",
+      "note": "鹿邑综合",
+      "logo": "http://192.168.100.1:6086/5/鹿邑综合.png"
+    },	
+	{
+      "tvid": "沈丘综合",
+      "epgid": "沈丘综合",
+      "name": "沈丘新闻,沈丘新闻综合,沈丘综合",
+      "status": "1",
+      "note": "沈丘综合",
+      "logo": "http://192.168.100.1:6086/5/沈丘综合.png"
+    },	
+	{
+      "tvid": "太康综合",
+      "epgid": "太康综合",
+      "name": "太康新闻,太康新闻综合,太康综合",
+      "status": "1",
+      "note": "太康综合",
+      "logo": "http://192.168.100.1:6086/5/太康综合.png"
+    },		
+	{
+      "tvid": "项城综合",
+      "epgid": "项城综合",
+      "name": "项城新闻,项城新闻综合,项城综合",
+      "status": "1",
+      "note": "项城综合",
+      "logo": "http://192.168.100.1:6086/5/项城综合.png"
+    },
+	{
+      "tvid": "西华综合",
+      "epgid": "西华综合",
+      "name": "西华新闻,西华新闻综合,西华综合",
+      "status": "1",
+      "note": "西华综合",
+      "logo": "http://192.168.100.1:6086/5/西华综合.png"
+    },
+	{
+      "tvid": "永城综合",
+      "epgid": "永城综合",
+      "name": "永城新闻,永城新闻综合,永城综合",
+      "status": "1",
+      "note": "永城综合",
+      "logo": "http://192.168.100.1:6086/5/永城综合.png"
+    },
+	{
+      "tvid": "灵宝综合",
+      "epgid": "灵宝综合",
+      "name": "灵宝新闻,灵宝新闻综合,灵宝综合",
+      "status": "1",
+      "note": "灵宝综合",
+      "logo": "http://192.168.100.1:6086/5/灵宝综合.png"
+    },
+	{
+      "tvid": "卢氏综合",
+      "epgid": "卢氏综合",
+      "name": "卢氏新闻,卢氏新闻综合,卢氏综合",
+      "status": "1",
+      "note": "卢氏综合",
+      "logo": "http://192.168.100.1:6086/5/卢氏综合.png"
+    },
+	{
+      "tvid": "渑池综合",
+      "epgid": "渑池综合",
+      "name": "渑池新闻,渑池新闻综合,渑池综合",
+      "status": "1",
+      "note": "渑池综合",
+      "logo": "http://192.168.100.1:6086/5/渑池综合.png"
+    },
+	{
+      "tvid": "义马综合",
+      "epgid": "义马综合",
+      "name": "义马新闻,义马新闻综合,义马综合",
+      "status": "1",
+      "note": "义马综合",
+      "logo": "http://192.168.100.1:6086/5/义马综合.png"
+    },
+	{
+      "tvid": "光山综合",
+      "epgid": "光山综合",
+      "name": "光山新闻,光山新闻综合,光山综合",
+      "status": "1",
+      "note": "光山综合",
+      "logo": "http://192.168.100.1:6086/5/光山综合.png"
+    },
+	{
+      "tvid": "固始综合",
+      "epgid": "固始综合",
+      "name": "固始新闻,固始新闻综合,固始综合",
+      "status": "1",
+      "note": "固始综合",
+      "logo": "http://192.168.100.1:6086/5/固始综合.png"
+    },
+	{
+      "tvid": "淮滨综合",
+      "epgid": "淮滨综合",
+      "name": "淮滨新闻,淮滨新闻综合,淮滨综合",
+      "status": "1",
+      "note": "淮滨综合",
+      "logo": "http://192.168.100.1:6086/5/淮滨综合.png"
+    },
+	{
+      "tvid": "潢川综合",
+      "epgid": "潢川综合",
+      "name": "潢川新闻,潢川新闻综合,潢川综合",
+      "status": "1",
+      "note": "潢川综合",
+      "logo": "http://192.168.100.1:6086/5/潢川综合.png"
+    },
+	{
+      "tvid": "罗山综合",
+      "epgid": "罗山综合",
+      "name": "罗山新闻,罗山新闻综合,罗山综合",
+      "status": "1",
+      "note": "罗山综合",
+      "logo": "http://192.168.100.1:6086/5/罗山综合.png"
+    },
+	{
+      "tvid": "新县综合",
+      "epgid": "新县综合",
+      "name": "新县新闻,新县新闻综合,新县综合",
+      "status": "1",
+      "note": "新县综合",
+      "logo": "http://192.168.100.1:6086/5/新县综合.png"
+    },
+	{
+      "tvid": "临颍综合",
+      "epgid": "临颍综合",
+      "name": "临颍新闻,临颍新闻综合,临颍综合",
+      "status": "1",
+      "note": "临颍综合",
+      "logo": "http://192.168.100.1:6086/5/临颍综合.png"
+    },
+	{
+      "tvid": "舞阳综合",
+      "epgid": "舞阳综合",
+      "name": "舞阳新闻,舞阳新闻综合,舞阳综合",
+      "status": "1",
+      "note": "舞阳综合",
+      "logo": "http://192.168.100.1:6086/5/舞阳综合.png"
+    },
+	{
+      "tvid": "济源电视一套",
+      "epgid": "济源电视一套",
+      "name": "济源电视一套",
+      "status": "1",
+      "note": "济源电视一套",
+      "logo": "http://192.168.100.1:6086/5/济源电视一套.png"
+    },
+	{
+      "tvid": "淇县电视台",
+      "epgid": "淇县电视台",
+      "name": "淇县电视台",
+      "status": "1",
+      "note": "淇县电视台",
+      "logo": "http://192.168.100.1:6086/5/淇县电视台.png"
+    },
+	{
+      "tvid": "泌阳综合",
+      "epgid": "泌阳综合",
+      "name": "泌阳新闻,泌阳新闻综合,泌阳综合",
+      "status": "1",
+      "note": "泌阳综合",
+      "logo": "http://192.168.100.1:6086/5/泌阳综合.png"
+    },
+	{
+      "tvid": "平舆综合",
+      "epgid": "平舆综合",
+      "name": "平舆新闻,平舆新闻综合,平舆综合",
+      "status": "1",
+      "note": "平舆综合",
+      "logo": "http://192.168.100.1:6086/5/平舆综合.png"
+    },	
+	{
+      "tvid": "上蔡综合",
+      "epgid": "上蔡综合",
+      "name": "上蔡新闻,上蔡新闻综合,上蔡综合",
+      "status": "1",
+      "note": "上蔡综合",
+      "logo": "http://192.168.100.1:6086/5/上蔡综合.png"
+    },
+	{
+      "tvid": "遂平一套",
+      "epgid": "遂平一套",
+      "name": "遂平一套",
+      "status": "1",
+      "note": "遂平一套",
+      "logo": "http://192.168.100.1:6086/5/遂平一套.png"
+    },
+	{
+      "tvid": "新蔡综合",
+      "epgid": "新蔡综合",
+      "name": "新蔡新闻,新蔡新闻综合,新蔡综合",
+      "status": "1",
+      "note": "新蔡综合",
+      "logo": "http://192.168.100.1:6086/5/新蔡综合.png"
+    },
+	{
+      "tvid": "西平综合",
+      "epgid": "西平综合",
+      "name": "西平新闻,西平新闻综合,西平综合",
+      "status": "1",
+      "note": "西平综合",
+      "logo": "http://192.168.100.1:6086/5/西平综合.png"
+    },
+	{
+      "tvid": "长垣综合",
+      "epgid": "长垣综合",
+      "name": "长垣新闻,长垣新闻综合,长垣综合",
+      "status": "1",
+      "note": "长垣综合",
+      "logo": "http://192.168.100.1:6086/5/长垣综合.png"
+    },
+	{
+      "tvid": "封丘综合",
+      "epgid": "封丘综合",
+      "name": "封丘新闻,封丘新闻综合,封丘综合",
+      "status": "1",
+      "note": "封丘综合",
+      "logo": "http://192.168.100.1:6086/5/封丘综合.png"
+    },
+	{
+      "tvid": "新乡综合",
+      "epgid": "新乡综合",
+      "name": "新乡新闻,新乡新闻综合,新乡综合",
+      "status": "1",
+      "note": "新乡综合",
+      "logo": "http://192.168.100.1:6086/5/新乡综合.png"
+    },
+	{
+      "tvid": "原阳综合",
+      "epgid": "原阳综合",
+      "name": "原阳新闻,原阳新闻综合,原阳综合",
+      "status": "1",
+      "note": "原阳综合",
+      "logo": "http://192.168.100.1:6086/5/原阳综合.png"
+    },
+	{
+      "tvid": "宝丰综合",
+      "epgid": "宝丰综合",
+      "name": "宝丰新闻,宝丰新闻综合,宝丰综合",
+      "status": "1",
+      "note": "宝丰综合",
+      "logo": "http://192.168.100.1:6086/5/宝丰综合.png"
+    },
+	{
+      "tvid": "郏县综合",
+      "epgid": "郏县综合",
+      "name": "郏县新闻,郏县新闻综合,郏县综合",
+      "status": "1",
+      "note": "郏县综合",
+      "logo": "http://192.168.100.1:6086/5/郏县综合.png"
+    },
+	{
+      "tvid": "鲁山综合",
+      "epgid": "鲁山综合",
+      "name": "鲁山新闻,鲁山新闻综合,鲁山综合",
+      "status": "1",
+      "note": "鲁山综合",
+      "logo": "http://192.168.100.1:6086/5/鲁山综合.png"
+    },
+	{
+      "tvid": "舞钢综合",
+      "epgid": "舞钢综合",
+      "name": "舞钢新闻,舞钢新闻综合,舞钢综合",
+      "status": "1",
+      "note": "舞钢综合",
+      "logo": "http://192.168.100.1:6086/5/舞钢综合.png"
+    },
+	{
+      "tvid": "叶县一套",
+      "epgid": "叶县一套",
+      "name": "叶县一套",
+      "status": "1",
+      "note": "叶县一套",
+      "logo": "http://192.168.100.1:6086/5/叶县一套.png"
+    },
+	{
+      "tvid": "开封综合",
+      "epgid": "开封综合",
+      "name": "开封新闻,开封新闻综合,开封综合,开封综合-SD",
+      "status": "1",
+      "note": "开封综合",
+      "logo": "http://192.168.100.1:6086/5/开封电视台.png"
+    },
+	{
+      "tvid": "开封公共",
+      "epgid": "开封公共",
+      "name": "开封公共,开封公共-SD",
+      "status": "1",
+      "note": "开封公共",
+      "logo": "http://192.168.100.1:6086/5/开封电视台.png"
+    },	
+	{
+      "tvid": "河南音乐广播",
+      "epgid": "河南音乐广播",
+      "name": "河南音乐广播",
+      "status": "1",
+      "note": "河南音乐广播",
+      "logo": "https://live.fanmingming.com/radio/河南音乐广播.png"
+    },
+	{
+      "tvid": "CNR中国之声",
+      "epgid": "CNR中国之声",
+      "name": "CNR中国之声,中国之声",
+      "status": "1",
+      "note": "CNR中国之声",
+      "logo": "https://live.fanmingming.com/radio/中国之声.png"
+    },
+	{
+      "tvid": "CNR经济之声",
+      "epgid": "CNR经济之声",
+      "name": "CNR经济之声,经济之声",
+      "status": "1",
+      "note": "CNR经济之声",
+      "logo": "https://live.fanmingming.com/radio/经济之声.png"
+    },
+	{
+      "tvid": "CNR文艺之声",
+      "epgid": "CNR文艺之声",
+      "name": "CNR文艺之声,文艺之声",
+      "status": "1",
+      "note": "CNR文艺之声",
+      "logo": "https://live.fanmingming.com/radio/文艺之声.png"
+    },
+	{
+      "tvid": "CNR阅读之声",
+      "epgid": "CNR阅读之声",
+      "name": "CNR阅读之声,阅读之声",
+      "status": "1",
+      "note": "CNR阅读之声",
+      "logo": "https://live.fanmingming.com/radio/阅读之声.png"
+    }
+  ]
+}
