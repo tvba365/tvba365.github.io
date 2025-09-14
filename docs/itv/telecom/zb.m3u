@@ -523,7 +523,7 @@ http://192.168.51.1:7088/udp/239.21.2.174:5002
 #EXTINF:-1 tvg-id="苏超联赛" tvg-name="苏超联赛" tvg-logo="https://tvba365.github.io/itv/4/苏超联赛.png" group-title="4K频道",苏超联赛
 http://192.168.51.1:7088/udp/239.21.2.178:5002
 
-#EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/3/中央新影中学生.png" group-title="教育频道",中央新影 中学生
+#EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/4/中央新影中学生.png" group-title="教育频道",中央新影 中学生
 http://192.168.51.1:7088/udp/239.21.2.176:5002
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://tvba365.github.io/itv/3/山东教育.png" group-title="教育频道",山东教育
 http://192.168.51.1:7088/udp/239.21.1.169:5002
