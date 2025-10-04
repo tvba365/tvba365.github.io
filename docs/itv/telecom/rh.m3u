@@ -907,8 +907,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tvba365.github.io/itv/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
-#EXTINF:-1 tvg-id="苏超联赛" tvg-name="苏超联赛" tvg-logo="https://tvba365.github.io/itv/4/苏超联赛.png" group-title="4K频道",苏超联赛
-http://192.168.51.1:7088/udp/239.21.2.178:5002
 
 #EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/4/中央新影中学生.png" group-title="教育频道",中央新影 中学生
 rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil

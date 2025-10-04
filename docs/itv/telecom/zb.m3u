@@ -512,8 +512,6 @@ http://192.168.51.1:7088/udp/239.21.2.173:5002
 http://192.168.51.1:7088/udp/239.21.2.158:5002
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://tvba365.github.io/itv/2/深圳卫视4K.png" group-title="4K频道",深圳卫视4K超高清
 http://192.168.51.1:7088/udp/239.21.2.174:5002
-#EXTINF:-1 tvg-id="苏超联赛" tvg-name="苏超联赛" tvg-logo="https://tvba365.github.io/itv/4/苏超联赛.png" group-title="4K频道",苏超联赛
-http://192.168.51.1:7088/udp/239.21.2.178:5002
 
 #EXTINF:-1 tvg-id="中央新影 中学生" tvg-name="中央新影 中学生" tvg-logo="https://tvba365.github.io/itv/4/中央新影中学生.png" group-title="教育频道",中央新影 中学生
 http://192.168.51.1:7088/udp/239.21.2.176:5002
