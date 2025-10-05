@@ -118,12 +118,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
 #EXTINF:-1 tvg-id="欧洲新闻亚洲" tvg-name="欧洲新闻亚洲" tvg-logo="https://tvba365.github.io/itv/2/DW德国之声.png" group-title="卫视频道",欧洲新闻亚洲-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tvba365.github.io/itv/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226015/10000100000000060000000002706922_0.smil
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvba365.github.io/itv/2/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226034/10000100000000060000000002706931_0.smil
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tvba365.github.io/itv/2/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://150.138.8.143/00/SNM/CHANNEL00000395/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tvba365.github.io/itv/2/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -140,6 +134,12 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226019/100001000000000600000000027069
 http://150.138.8.143/00/SNM/CHANNEL00000394/index.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tvba365.github.io/itv/2/兵团卫视.png" group-title="卫视频道",兵团卫视
 rtsp://150.138.8.132/PLTV/88888888/224/3221226726/10000100000000060000000004141145_0.smil
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tvba365.github.io/itv/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221226015/10000100000000060000000002706922_0.smil
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvba365.github.io/itv/2/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视-SD
+rtsp://150.138.8.132/PLTV/88888888/224/3221226034/10000100000000060000000002706931_0.smil
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://tvba365.github.io/itv/2/农林卫视.png" group-title="卫视频道",农林卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226697/10000100000000060000000004141149_0.smil
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://tvba365.github.io/itv/2/厦门卫视.png" group-title="卫视频道",厦门卫视-SD
@@ -429,7 +429,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 #EXTINF:-1 tvg-id="临清综合" tvg-name="临清综合" tvg-logo="https://tvba365.github.io/itv/3/临清综合.png" group-title="省内频道",临清综合
 http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
-#EXTINF:-1 tvg-id="东营广饶综合" tvg-name="东营广饶综合" tvg-logo="https://tvba365.github.io/itv/3/广饶综合.png" group-title="省内频道",东营广饶综合
+#EXTINF:-1 tvg-id="广饶综合" tvg-name="广饶综合" tvg-logo="https://tvba365.github.io/itv/3/广饶综合.png" group-title="省内频道",广饶综合
 http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
 #EXTINF:-1 tvg-id="东营新闻综合" tvg-name="东营新闻综合" tvg-logo="https://tvba365.github.io/itv/3/东营综合.png" group-title="省内频道",东营新闻综合-SD
 http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
@@ -599,21 +599,21 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227143/443310036.smil
 #EXTINF:-1 tvg-id="综合测试" tvg-name="综合测试" tvg-logo="https://tvba365.github.io/itv/4/9屏同播.png" group-title="数字频道",综合测试
 rtsp://150.138.8.132/PLTV/88888888/224/3221226598/10000100000000060000000003878453_0.smil
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tvba365.github.io/itv/1/CCTV4K.png" group-title="4K频道",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tvba365.github.io/itv/1/CCTV4K.png" group-title="4K频道",CCTV4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://tvba365.github.io/itv/2/山东卫视4K.png" group-title="4K频道",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://tvba365.github.io/itv/2/山东卫视4K.png" group-title="4K频道",山东卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://tvba365.github.io/itv/2/北京卫视4K.png" group-title="4K频道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://tvba365.github.io/itv/2/北京卫视4K.png" group-title="4K频道",北京卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://tvba365.github.io/itv/2/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://tvba365.github.io/itv/2/湖南卫视4K.png" group-title="4K频道",湖南卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://tvba365.github.io/itv/2/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://tvba365.github.io/itv/2/浙江卫视4K.png" group-title="4K频道",浙江卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://tvba365.github.io/itv/2/江苏卫视4K.png" group-title="4K频道",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://tvba365.github.io/itv/2/江苏卫视4K.png" group-title="4K频道",江苏卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://tvba365.github.io/itv/2/东方卫视4K.png" group-title="4K频道",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://tvba365.github.io/itv/2/东方卫视4K.png" group-title="4K频道",东方卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227331/527738511.smil
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://tvba365.github.io/itv/2/四川卫视4K.png" group-title="4K频道",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://tvba365.github.io/itv/2/四川卫视4K.png" group-title="4K频道",四川卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://tvba365.github.io/itv/2/广东卫视4K.png" group-title="4K频道",广东卫视4K超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
