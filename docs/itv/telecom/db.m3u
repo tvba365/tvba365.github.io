@@ -403,6 +403,8 @@ http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 #EXTINF:-1 tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://tvba365.github.io/itv/3/聊城民生.png" group-title="省内频道",聊城民生
 http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-id="东昌综合" tvg-name="东昌综合" tvg-logo="https://tvba365.github.io/itv/3/东昌综合.png" group-title="省内频道",东昌综合
+http://150.138.8.143/00/SNM/CHANNEL00001119/index.m3u8
 #EXTINF:-1 tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="https://tvba365.github.io/itv/3/莘县综合.png" group-title="省内频道",莘县综合
 http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1 tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://tvba365.github.io/itv/3/冠县综合.png" group-title="省内频道",冠县综合-SD

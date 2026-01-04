@@ -241,7 +241,7 @@ http://192.168.51.1:7088/udp/239.21.2.146:5002
 http://192.168.51.1:7088/udp/239.21.1.117:5002
 #EXTINF:-1 tvg-id="栖霞综合" tvg-name="栖霞综合" tvg-logo="https://tvba365.github.io/itv/3/栖霞综合.png" group-title="省内频道",栖霞综合-SD
 http://192.168.51.1:7088/udp/239.21.1.229:5002
-#EXTINF:-1 tvg-id="牟平综合" tvg-name="牟平综合" tvg-logo="https://tvba365.github.io/itv/3/牟平综合.png" group-title="省内频道",牟平综合-SD
+#EXTINF:-1 tvg-id="牟平综合" tvg-name="牟平综合" tvg-logo="https://tvba365.github.io/itv/3/牟平综合.png" group-title="省内频道",牟平综合
 http://192.168.51.1:7088/udp/239.21.2.10:5002
 #EXTINF:-1 tvg-id="牟平生活" tvg-name="牟平生活" tvg-logo="https://tvba365.github.io/itv/3/牟平生活.png" group-title="省内频道",牟平生活
 http://192.168.51.1:7088/udp/239.21.2.11:5002
@@ -407,6 +407,8 @@ http://192.168.51.1:7088/udp/239.21.1.238:5002
 http://192.168.51.1:7088/udp/239.21.1.253:5002
 #EXTINF:-1 tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://tvba365.github.io/itv/3/聊城民生.png" group-title="省内频道",聊城民生
 http://192.168.51.1:7088/udp/239.21.1.254:5002
+#EXTINF:-1 tvg-id="东昌综合" tvg-name="东昌综合" tvg-logo="https://tvba365.github.io/itv/3/东昌综合.png" group-title="省内频道",东昌综合
+http://192.168.51.1:7088/udp/239.21.2.190:5002
 #EXTINF:-1 tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="https://tvba365.github.io/itv/3/莘县综合.png" group-title="省内频道",莘县综合
 http://192.168.51.1:7088/udp/239.21.1.211:5002
 #EXTINF:-1 tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://tvba365.github.io/itv/3/冠县综合.png" group-title="省内频道",冠县综合-SD
@@ -529,7 +531,7 @@ http://192.168.51.1:7088/udp/239.21.2.177:5002
 http://192.168.51.1:7088/udp/239.21.2.99:5002
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://tvba365.github.io/itv/4/财富天下.png" group-title="教育频道",财富天下-SD
 http://192.168.51.1:7088/udp/239.21.1.127:5002
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游-SD
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游
 http://192.168.51.1:7088/udp/239.21.2.115:5002
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://tvba365.github.io/itv/4/先锋乒羽.png" group-title="教育频道",先锋乒羽-SD
 http://192.168.51.1:7088/udp/239.21.2.98:5002

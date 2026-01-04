@@ -407,6 +407,8 @@ http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 #EXTINF:-1 tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://tvba365.github.io/itv/3/聊城民生.png" group-title="省内频道",聊城民生
 http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-id="东昌综合" tvg-name="东昌综合" tvg-logo="https://tvba365.github.io/itv/3/东昌综合.png" group-title="省内频道",东昌综合
+http://150.138.8.143/00/SNM/CHANNEL00001119/index.m3u8
 #EXTINF:-1 tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="https://tvba365.github.io/itv/3/莘县综合.png" group-title="省内频道",莘县综合
 http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1 tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://tvba365.github.io/itv/3/冠县综合.png" group-title="省内频道",冠县综合-SD
@@ -908,6 +910,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227187/456916096.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227152/443310024.smil
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://tvba365.github.io/itv/4/金色学堂.png" group-title="教育频道",金色学堂
 rtsp://150.138.8.132/PLTV/88888888/224/3221227262/443309935.smil
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游
+rtsp://150.138.8.132/PLTV/88888888/224/3221227149/410462831.smil
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tvba365.github.io/itv/4/快乐垂钓.png" group-title="教育频道",快乐垂钓
 rtsp://150.138.8.132/PLTV/88888888/224/3221227156/443330036.smil
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://tvba365.github.io/itv/4/中华特产.png" group-title="教育频道",中华特产
@@ -918,8 +922,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000674/index.m3u8
 rtsp://150.138.8.132/PLTV/88888888/224/3221227004/410462602.smil
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://tvba365.github.io/itv/4/财富天下.png" group-title="教育频道",财富天下-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226206/10000100000000060000000002936465_0.smil
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvba365.github.io/itv/4/环球旅游.png" group-title="教育频道",环球旅游-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227149/410462831.smil
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://tvba365.github.io/itv/4/先锋乒羽.png" group-title="教育频道",先锋乒羽-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221227286/443330141.smil
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://tvba365.github.io/itv/4/书画频道.png" group-title="教育频道",书画频道-SD
