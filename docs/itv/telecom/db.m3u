@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml,https://ghfast.top/https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml"
+#EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/EPG/sggc.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tvba365.github.io/itv/1/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tvba365.github.io/itv/1/CCTV2.png" group-title="央视频道",CCTV-2财经
@@ -180,7 +180,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
 #EXTINF:-1 tvg-id="菏泽HZTV-1" tvg-name="菏泽HZTV-1" tvg-logo="https://tvba365.github.io/itv/3/菏泽HZTV-1.png" group-title="省内频道",菏泽新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
-#EXTINF:-1 tvg-id="菏泽HZTV-2" tvg-name="菏泽HZTV-2" tvg-logo="https://tvba365.github.io/itv/3/菏泽HZTV-2.png" group-title="省内频道",菏泽经济生活
+#EXTINF:-1 tvg-id="菏泽-2" tvg-name="菏泽-2" tvg-logo="https://tvba365.github.io/itv/3/菏泽HZTV-2.png" group-title="省内频道",菏泽公共频道
 http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
 #EXTINF:-1 tvg-id="鄄城综合" tvg-name="鄄城综合" tvg-logo="https://tvba365.github.io/itv/3/鄄城综合.png" group-title="省内频道",鄄城综合
 http://150.138.8.143/00/SNM/CHANNEL00001084/index.m3u8
