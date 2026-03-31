@@ -262,6 +262,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
 #EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://tvba365.github.io/itv/3/淄川新闻.png" group-title="省内频道",淄川新闻
 http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-id="临淄综合" tvg-name="临淄综合" tvg-logo="https://tvba365.github.io/itv/3/临淄综合.png" group-title="省内频道" tvg-chno="719" tvg-shift="0" catchup="none" catchup-days="0" ,临淄综合
+http://192.168.51.1:7088/udp/239.21.2.192:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="周村新闻" tvg-name="周村新闻" tvg-logo="https://tvba365.github.io/itv/3/周村新闻.png" group-title="省内频道",周村新闻-SD
 http://150.138.8.143/00/SNM/CHANNEL00001019/index.m3u8
 #EXTINF:-1 tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="https://tvba365.github.io/itv/3/淄博文旅.png" group-title="省内频道",淄博文旅-SD

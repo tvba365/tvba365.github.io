@@ -261,6 +261,8 @@ http://192.168.51.1:7088/udp/239.21.1.84:5002
 http://192.168.51.1:7088/udp/239.21.1.182:5002
 #EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://tvba365.github.io/itv/3/淄川新闻.png" group-title="省内频道",淄川新闻
 http://192.168.51.1:7088/udp/239.21.1.160:5002
+#EXTINF:-1 tvg-id="临淄综合" tvg-name="临淄综合" tvg-logo="https://tvba365.github.io/itv/3/临淄综合.png" group-title="省内频道" tvg-chno="719" tvg-shift="0" catchup="none" catchup-days="0" ,临淄综合
+http://192.168.51.1:7088/udp/239.21.2.192:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="周村新闻" tvg-name="周村新闻" tvg-logo="https://tvba365.github.io/itv/3/周村新闻.png" group-title="省内频道",周村新闻-SD
 http://192.168.51.1:7088/udp/239.21.2.150:5002
 #EXTINF:-1 tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="https://tvba365.github.io/itv/3/淄博文旅.png" group-title="省内频道",淄博文旅-SD
@@ -437,6 +439,8 @@ http://192.168.51.1:7088/udp/239.21.1.79:5002
 http://192.168.51.1:7088/udp/239.21.2.81:5002
 #EXTINF:-1 tvg-id="日照科教" tvg-name="日照科教" tvg-logo="https://tvba365.github.io/itv/3/日照科教.png" group-title="省内频道",日照科教-SD
 http://192.168.51.1:7088/udp/239.21.1.80:5002
+#EXTINF:-1 tvg-id="日照五莲综合" tvg-name="日照五莲综合" tvg-logo="https://tvba365.github.io/itv/3/日照五莲.png" group-title="省内频道",日照五莲综合-SD
+http://192.168.51.1:7088/udp/239.21.2.191:5002
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://tvba365.github.io/itv/4/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://192.168.51.1:7088/udp/239.21.2.126:5002
