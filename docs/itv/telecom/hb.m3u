@@ -9,6 +9,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227134/415322505.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221226179/10000100000000060000000003110724_0.smil
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tvba365.github.io/itv/1/CCTV5.png" group-title="央视频道",CCTV-5体育
 rtsp://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tvba365.github.io/itv/1/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事
+rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tvba365.github.io/itv/1/CCTV6.png" group-title="央视频道",CCTV-6电影
 rtsp://150.138.8.132/PLTV/88888888/224/3221227213/432747447.smil
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tvba365.github.io/itv/1/CCTV7.png" group-title="央视频道",CCTV-7国防军事
@@ -29,8 +31,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221226767/395256391.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221226185/10000100000000060000000003110729_0.smil
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tvba365.github.io/itv/1/CCTV15.png" group-title="央视频道",CCTV-15音乐
 rtsp://150.138.8.132/PLTV/88888888/224/3221226736/395256223.smil
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tvba365.github.io/itv/1/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事
-rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tvba365.github.io/itv/1/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+rtsp://150.138.8.132/PLTV/88888888/224/3221227290/443330153.smil
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tvba365.github.io/itv/1/CCTV17.png" group-title="央视频道",CCTV-17农业农村
 rtsp://150.138.8.132/PLTV/88888888/224/3221226366/10000100000000060000000003766311_0.smil
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://tvba365.github.io/itv/1/CCTV4欧洲.png" group-title="央视频道",CCTV-4欧洲
@@ -111,14 +113,15 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227457/527989391.smil
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tvba365.github.io/itv/2/兵团卫视.png" group-title="卫视频道",兵团卫视
 rtsp://150.138.8.132/PLTV/88888888/224/3221227339/527989415.smil
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台http://219.146.65.78:59902/tsfile/live/0117_2.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tvba365.github.io/itv/2/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://219.146.65.78:59902/tsfile/live/0117_2.m3u8
 
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://tvba365.github.io/itv/2/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtsp://150.138.8.132:554/PLTV/88888888/224/3221227367/539887012.smil
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvba365.github.io/itv/2/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtsp://150.138.8.132:554/PLTV/88888888/224/3221227371/539887016.smil
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://tvba365.github.io/itv/2/山西卫视.png" group-title="卫视频道",山西卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226015/10000100000000060000000002706922_0.smil
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvba365.github.io/itv/2/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视-SD
-rtsp://150.138.8.132/PLTV/88888888/224/3221226034/10000100000000060000000002706931_0.smil
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://tvba365.github.io/itv/2/农林卫视.png" group-title="卫视频道",农林卫视-SD
 rtsp://150.138.8.132/PLTV/88888888/224/3221226697/10000100000000060000000004141149_0.smil
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://tvba365.github.io/itv/2/厦门卫视.png" group-title="卫视频道",厦门卫视-SD
@@ -260,6 +263,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
 #EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://tvba365.github.io/itv/3/淄川新闻.png" group-title="省内频道",淄川新闻
 http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-id="临淄综合" tvg-name="临淄综合" tvg-logo="https://tvba365.github.io/itv/3/临淄综合.png" group-title="省内频道" tvg-chno="719" tvg-shift="0" catchup="none" catchup-days="0" ,临淄综合
+http://150.138.8.143/00/SNM/CHANNEL00001021/index.m3u8
 #EXTINF:-1 tvg-id="周村新闻" tvg-name="周村新闻" tvg-logo="https://tvba365.github.io/itv/3/周村新闻.png" group-title="省内频道",周村新闻-SD
 http://150.138.8.143/00/SNM/CHANNEL00001019/index.m3u8
 #EXTINF:-1 tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="https://tvba365.github.io/itv/3/淄博文旅.png" group-title="省内频道",淄博文旅-SD
